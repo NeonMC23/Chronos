@@ -1,0 +1,4413 @@
+[
+  {
+    "continent": "Africa",
+    "country": "Algeria",
+    "city": "Algiers",
+    "timezone": "Africa/Algiers",
+    "flagEmoji": "🇩🇿",
+    "coordinates": [
+      36.7833,
+      3.05
+    ]
+  },
+  {
+    "continent": "Africa",
+    "country": "Angola",
+    "city": "West Africa Time",
+    "timezone": "Africa/Lagos",
+    "flagEmoji": "🇦🇴",
+    "coordinates": [
+      6.45,
+      3.4
+    ]
+  },
+  {
+    "continent": "Africa",
+    "country": "Benin",
+    "city": "West Africa Time",
+    "timezone": "Africa/Lagos",
+    "flagEmoji": "🇧🇯",
+    "coordinates": [
+      6.45,
+      3.4
+    ]
+  },
+  {
+    "continent": "Africa",
+    "country": "Botswana",
+    "city": "Central Africa Time",
+    "timezone": "Africa/Maputo",
+    "flagEmoji": "🇧🇼",
+    "coordinates": [
+      -25.9667,
+      32.5833
+    ]
+  },
+  {
+    "continent": "Africa",
+    "country": "Burkina Faso",
+    "city": "Abidjan",
+    "timezone": "Africa/Abidjan",
+    "flagEmoji": "🇧🇫",
+    "coordinates": [
+      5.3167,
+      -4.0333
+    ]
+  },
+  {
+    "continent": "Africa",
+    "country": "Burundi",
+    "city": "Central Africa Time",
+    "timezone": "Africa/Maputo",
+    "flagEmoji": "🇧🇮",
+    "coordinates": [
+      -25.9667,
+      32.5833
+    ]
+  },
+  {
+    "continent": "Africa",
+    "country": "Cameroon",
+    "city": "West Africa Time",
+    "timezone": "Africa/Lagos",
+    "flagEmoji": "🇨🇲",
+    "coordinates": [
+      6.45,
+      3.4
+    ]
+  },
+  {
+    "continent": "Africa",
+    "country": "Central African Rep.",
+    "city": "West Africa Time",
+    "timezone": "Africa/Lagos",
+    "flagEmoji": "🇨🇫",
+    "coordinates": [
+      6.45,
+      3.4
+    ]
+  },
+  {
+    "continent": "Africa",
+    "country": "Chad",
+    "city": "Ndjamena",
+    "timezone": "Africa/Ndjamena",
+    "flagEmoji": "🇹🇩",
+    "coordinates": [
+      12.1167,
+      15.05
+    ]
+  },
+  {
+    "continent": "Africa",
+    "country": "Comoros",
+    "city": "Nairobi",
+    "timezone": "Africa/Nairobi",
+    "flagEmoji": "🇰🇲",
+    "coordinates": [
+      -1.2833,
+      36.8167
+    ]
+  },
+  {
+    "continent": "Africa",
+    "country": "Congo (Dem. Rep.)",
+    "city": "Central Africa Time",
+    "timezone": "Africa/Maputo",
+    "flagEmoji": "🇨🇩",
+    "coordinates": [
+      -25.9667,
+      32.5833
+    ]
+  },
+  {
+    "continent": "Africa",
+    "country": "Congo (Dem. Rep.)",
+    "city": "West Africa Time",
+    "timezone": "Africa/Lagos",
+    "flagEmoji": "🇨🇩",
+    "coordinates": [
+      6.45,
+      3.4
+    ]
+  },
+  {
+    "continent": "Africa",
+    "country": "Congo (Rep.)",
+    "city": "West Africa Time",
+    "timezone": "Africa/Lagos",
+    "flagEmoji": "🇨🇬",
+    "coordinates": [
+      6.45,
+      3.4
+    ]
+  },
+  {
+    "continent": "Africa",
+    "country": "Côte d'Ivoire",
+    "city": "Abidjan",
+    "timezone": "Africa/Abidjan",
+    "flagEmoji": "🇨🇮",
+    "coordinates": [
+      5.3167,
+      -4.0333
+    ]
+  },
+  {
+    "continent": "Africa",
+    "country": "Djibouti",
+    "city": "Nairobi",
+    "timezone": "Africa/Nairobi",
+    "flagEmoji": "🇩🇯",
+    "coordinates": [
+      -1.2833,
+      36.8167
+    ]
+  },
+  {
+    "continent": "Africa",
+    "country": "Egypt",
+    "city": "Cairo",
+    "timezone": "Africa/Cairo",
+    "flagEmoji": "🇪🇬",
+    "coordinates": [
+      30.05,
+      31.25
+    ]
+  },
+  {
+    "continent": "Africa",
+    "country": "Equatorial Guinea",
+    "city": "West Africa Time",
+    "timezone": "Africa/Lagos",
+    "flagEmoji": "🇬🇶",
+    "coordinates": [
+      6.45,
+      3.4
+    ]
+  },
+  {
+    "continent": "Africa",
+    "country": "Eritrea",
+    "city": "Nairobi",
+    "timezone": "Africa/Nairobi",
+    "flagEmoji": "🇪🇷",
+    "coordinates": [
+      -1.2833,
+      36.8167
+    ]
+  },
+  {
+    "continent": "Africa",
+    "country": "Eswatini (Swaziland)",
+    "city": "Johannesburg",
+    "timezone": "Africa/Johannesburg",
+    "flagEmoji": "🇸🇿",
+    "coordinates": [
+      -26.25,
+      28.0
+    ]
+  },
+  {
+    "continent": "Africa",
+    "country": "Ethiopia",
+    "city": "Nairobi",
+    "timezone": "Africa/Nairobi",
+    "flagEmoji": "🇪🇹",
+    "coordinates": [
+      -1.2833,
+      36.8167
+    ]
+  },
+  {
+    "continent": "Africa",
+    "country": "Gabon",
+    "city": "West Africa Time",
+    "timezone": "Africa/Lagos",
+    "flagEmoji": "🇬🇦",
+    "coordinates": [
+      6.45,
+      3.4
+    ]
+  },
+  {
+    "continent": "Africa",
+    "country": "Gambia",
+    "city": "Abidjan",
+    "timezone": "Africa/Abidjan",
+    "flagEmoji": "🇬🇲",
+    "coordinates": [
+      5.3167,
+      -4.0333
+    ]
+  },
+  {
+    "continent": "Africa",
+    "country": "Ghana",
+    "city": "Abidjan",
+    "timezone": "Africa/Abidjan",
+    "flagEmoji": "🇬🇭",
+    "coordinates": [
+      5.3167,
+      -4.0333
+    ]
+  },
+  {
+    "continent": "Africa",
+    "country": "Guinea",
+    "city": "Abidjan",
+    "timezone": "Africa/Abidjan",
+    "flagEmoji": "🇬🇳",
+    "coordinates": [
+      5.3167,
+      -4.0333
+    ]
+  },
+  {
+    "continent": "Africa",
+    "country": "Guinea-Bissau",
+    "city": "Bissau",
+    "timezone": "Africa/Bissau",
+    "flagEmoji": "🇬🇼",
+    "coordinates": [
+      11.85,
+      -15.5833
+    ]
+  },
+  {
+    "continent": "Africa",
+    "country": "Iceland",
+    "city": "Abidjan",
+    "timezone": "Africa/Abidjan",
+    "flagEmoji": "🇮🇸",
+    "coordinates": [
+      5.3167,
+      -4.0333
+    ]
+  },
+  {
+    "continent": "Africa",
+    "country": "Kenya",
+    "city": "Nairobi",
+    "timezone": "Africa/Nairobi",
+    "flagEmoji": "🇰🇪",
+    "coordinates": [
+      -1.2833,
+      36.8167
+    ]
+  },
+  {
+    "continent": "Africa",
+    "country": "Lesotho",
+    "city": "Johannesburg",
+    "timezone": "Africa/Johannesburg",
+    "flagEmoji": "🇱🇸",
+    "coordinates": [
+      -26.25,
+      28.0
+    ]
+  },
+  {
+    "continent": "Africa",
+    "country": "Liberia",
+    "city": "Monrovia",
+    "timezone": "Africa/Monrovia",
+    "flagEmoji": "🇱🇷",
+    "coordinates": [
+      6.3,
+      -10.7833
+    ]
+  },
+  {
+    "continent": "Africa",
+    "country": "Libya",
+    "city": "Tripoli",
+    "timezone": "Africa/Tripoli",
+    "flagEmoji": "🇱🇾",
+    "coordinates": [
+      32.9,
+      13.1833
+    ]
+  },
+  {
+    "continent": "Africa",
+    "country": "Madagascar",
+    "city": "Nairobi",
+    "timezone": "Africa/Nairobi",
+    "flagEmoji": "🇲🇬",
+    "coordinates": [
+      -1.2833,
+      36.8167
+    ]
+  },
+  {
+    "continent": "Africa",
+    "country": "Malawi",
+    "city": "Central Africa Time",
+    "timezone": "Africa/Maputo",
+    "flagEmoji": "🇲🇼",
+    "coordinates": [
+      -25.9667,
+      32.5833
+    ]
+  },
+  {
+    "continent": "Africa",
+    "country": "Mali",
+    "city": "Abidjan",
+    "timezone": "Africa/Abidjan",
+    "flagEmoji": "🇲🇱",
+    "coordinates": [
+      5.3167,
+      -4.0333
+    ]
+  },
+  {
+    "continent": "Africa",
+    "country": "Mauritania",
+    "city": "Abidjan",
+    "timezone": "Africa/Abidjan",
+    "flagEmoji": "🇲🇷",
+    "coordinates": [
+      5.3167,
+      -4.0333
+    ]
+  },
+  {
+    "continent": "Africa",
+    "country": "Mayotte",
+    "city": "Nairobi",
+    "timezone": "Africa/Nairobi",
+    "flagEmoji": "🇾🇹",
+    "coordinates": [
+      -1.2833,
+      36.8167
+    ]
+  },
+  {
+    "continent": "Africa",
+    "country": "Morocco",
+    "city": "Casablanca",
+    "timezone": "Africa/Casablanca",
+    "flagEmoji": "🇲🇦",
+    "coordinates": [
+      33.65,
+      -7.5833
+    ]
+  },
+  {
+    "continent": "Africa",
+    "country": "Mozambique",
+    "city": "Central Africa Time",
+    "timezone": "Africa/Maputo",
+    "flagEmoji": "🇲🇿",
+    "coordinates": [
+      -25.9667,
+      32.5833
+    ]
+  },
+  {
+    "continent": "Africa",
+    "country": "Namibia",
+    "city": "Windhoek",
+    "timezone": "Africa/Windhoek",
+    "flagEmoji": "🇳🇦",
+    "coordinates": [
+      -22.5667,
+      17.1
+    ]
+  },
+  {
+    "continent": "Africa",
+    "country": "Niger",
+    "city": "West Africa Time",
+    "timezone": "Africa/Lagos",
+    "flagEmoji": "🇳🇪",
+    "coordinates": [
+      6.45,
+      3.4
+    ]
+  },
+  {
+    "continent": "Africa",
+    "country": "Nigeria",
+    "city": "West Africa Time",
+    "timezone": "Africa/Lagos",
+    "flagEmoji": "🇳🇬",
+    "coordinates": [
+      6.45,
+      3.4
+    ]
+  },
+  {
+    "continent": "Africa",
+    "country": "Rwanda",
+    "city": "Central Africa Time",
+    "timezone": "Africa/Maputo",
+    "flagEmoji": "🇷🇼",
+    "coordinates": [
+      -25.9667,
+      32.5833
+    ]
+  },
+  {
+    "continent": "Africa",
+    "country": "Sao Tome & Principe",
+    "city": "Sao Tome",
+    "timezone": "Africa/Sao_Tome",
+    "flagEmoji": "🇸🇹",
+    "coordinates": [
+      0.3333,
+      6.7333
+    ]
+  },
+  {
+    "continent": "Africa",
+    "country": "Senegal",
+    "city": "Abidjan",
+    "timezone": "Africa/Abidjan",
+    "flagEmoji": "🇸🇳",
+    "coordinates": [
+      5.3167,
+      -4.0333
+    ]
+  },
+  {
+    "continent": "Africa",
+    "country": "Sierra Leone",
+    "city": "Abidjan",
+    "timezone": "Africa/Abidjan",
+    "flagEmoji": "🇸🇱",
+    "coordinates": [
+      5.3167,
+      -4.0333
+    ]
+  },
+  {
+    "continent": "Africa",
+    "country": "Somalia",
+    "city": "Nairobi",
+    "timezone": "Africa/Nairobi",
+    "flagEmoji": "🇸🇴",
+    "coordinates": [
+      -1.2833,
+      36.8167
+    ]
+  },
+  {
+    "continent": "Africa",
+    "country": "South Africa",
+    "city": "Johannesburg",
+    "timezone": "Africa/Johannesburg",
+    "flagEmoji": "🇿🇦",
+    "coordinates": [
+      -26.25,
+      28.0
+    ]
+  },
+  {
+    "continent": "Africa",
+    "country": "South Sudan",
+    "city": "Juba",
+    "timezone": "Africa/Juba",
+    "flagEmoji": "🇸🇸",
+    "coordinates": [
+      4.85,
+      31.6167
+    ]
+  },
+  {
+    "continent": "Africa",
+    "country": "Spain",
+    "city": "Ceuta, Melilla",
+    "timezone": "Africa/Ceuta",
+    "flagEmoji": "🇪🇸",
+    "coordinates": [
+      35.8833,
+      -5.3167
+    ]
+  },
+  {
+    "continent": "Africa",
+    "country": "St Helena",
+    "city": "Abidjan",
+    "timezone": "Africa/Abidjan",
+    "flagEmoji": "🇸🇭",
+    "coordinates": [
+      5.3167,
+      -4.0333
+    ]
+  },
+  {
+    "continent": "Africa",
+    "country": "Sudan",
+    "city": "Khartoum",
+    "timezone": "Africa/Khartoum",
+    "flagEmoji": "🇸🇩",
+    "coordinates": [
+      15.6,
+      32.5333
+    ]
+  },
+  {
+    "continent": "Africa",
+    "country": "Tanzania",
+    "city": "Nairobi",
+    "timezone": "Africa/Nairobi",
+    "flagEmoji": "🇹🇿",
+    "coordinates": [
+      -1.2833,
+      36.8167
+    ]
+  },
+  {
+    "continent": "Africa",
+    "country": "Togo",
+    "city": "Abidjan",
+    "timezone": "Africa/Abidjan",
+    "flagEmoji": "🇹🇬",
+    "coordinates": [
+      5.3167,
+      -4.0333
+    ]
+  },
+  {
+    "continent": "Africa",
+    "country": "Tunisia",
+    "city": "Tunis",
+    "timezone": "Africa/Tunis",
+    "flagEmoji": "🇹🇳",
+    "coordinates": [
+      36.8,
+      10.1833
+    ]
+  },
+  {
+    "continent": "Africa",
+    "country": "Uganda",
+    "city": "Nairobi",
+    "timezone": "Africa/Nairobi",
+    "flagEmoji": "🇺🇬",
+    "coordinates": [
+      -1.2833,
+      36.8167
+    ]
+  },
+  {
+    "continent": "Africa",
+    "country": "Western Sahara",
+    "city": "El Aaiun",
+    "timezone": "Africa/El_Aaiun",
+    "flagEmoji": "🇪🇭",
+    "coordinates": [
+      27.15,
+      -13.2
+    ]
+  },
+  {
+    "continent": "Africa",
+    "country": "Zambia",
+    "city": "Central Africa Time",
+    "timezone": "Africa/Maputo",
+    "flagEmoji": "🇿🇲",
+    "coordinates": [
+      -25.9667,
+      32.5833
+    ]
+  },
+  {
+    "continent": "Africa",
+    "country": "Zimbabwe",
+    "city": "Central Africa Time",
+    "timezone": "Africa/Maputo",
+    "flagEmoji": "🇿🇼",
+    "coordinates": [
+      -25.9667,
+      32.5833
+    ]
+  },
+  {
+    "continent": "Americas",
+    "country": "Anguilla",
+    "city": "AST - QC",
+    "timezone": "America/Puerto_Rico",
+    "flagEmoji": "🇦🇮",
+    "coordinates": [
+      18.4683,
+      -66.1061
+    ]
+  },
+  {
+    "continent": "Americas",
+    "country": "Antigua & Barbuda",
+    "city": "AST - QC",
+    "timezone": "America/Puerto_Rico",
+    "flagEmoji": "🇦🇬",
+    "coordinates": [
+      18.4683,
+      -66.1061
+    ]
+  },
+  {
+    "continent": "Americas",
+    "country": "Argentina",
+    "city": "Buenos Aires",
+    "timezone": "America/Argentina/Buenos_Aires",
+    "flagEmoji": "🇦🇷",
+    "coordinates": [
+      -34.6,
+      -58.45
+    ]
+  },
+  {
+    "continent": "Americas",
+    "country": "Argentina",
+    "city": "Catamarca",
+    "timezone": "America/Argentina/Catamarca",
+    "flagEmoji": "🇦🇷",
+    "coordinates": [
+      -28.4667,
+      -65.7833
+    ]
+  },
+  {
+    "continent": "Americas",
+    "country": "Argentina",
+    "city": "Jujuy",
+    "timezone": "America/Argentina/Jujuy",
+    "flagEmoji": "🇦🇷",
+    "coordinates": [
+      -24.1833,
+      -65.3
+    ]
+  },
+  {
+    "continent": "Americas",
+    "country": "Argentina",
+    "city": "La Rioja",
+    "timezone": "America/Argentina/La_Rioja",
+    "flagEmoji": "🇦🇷",
+    "coordinates": [
+      -29.4333,
+      -66.85
+    ]
+  },
+  {
+    "continent": "Americas",
+    "country": "Argentina",
+    "city": "Mendoza",
+    "timezone": "America/Argentina/Mendoza",
+    "flagEmoji": "🇦🇷",
+    "coordinates": [
+      -32.8833,
+      -68.8167
+    ]
+  },
+  {
+    "continent": "Americas",
+    "country": "Argentina",
+    "city": "Salta",
+    "timezone": "America/Argentina/Salta",
+    "flagEmoji": "🇦🇷",
+    "coordinates": [
+      -24.7833,
+      -65.4167
+    ]
+  },
+  {
+    "continent": "Americas",
+    "country": "Argentina",
+    "city": "San Juan",
+    "timezone": "America/Argentina/San_Juan",
+    "flagEmoji": "🇦🇷",
+    "coordinates": [
+      -31.5333,
+      -68.5167
+    ]
+  },
+  {
+    "continent": "Americas",
+    "country": "Argentina",
+    "city": "San Luis",
+    "timezone": "America/Argentina/San_Luis",
+    "flagEmoji": "🇦🇷",
+    "coordinates": [
+      -33.3167,
+      -66.35
+    ]
+  },
+  {
+    "continent": "Americas",
+    "country": "Argentina",
+    "city": "Santa Cruz",
+    "timezone": "America/Argentina/Rio_Gallegos",
+    "flagEmoji": "🇦🇷",
+    "coordinates": [
+      -51.6333,
+      -69.2167
+    ]
+  },
+  {
+    "continent": "Americas",
+    "country": "Argentina",
+    "city": "Tierra del Fuego",
+    "timezone": "America/Argentina/Ushuaia",
+    "flagEmoji": "🇦🇷",
+    "coordinates": [
+      -54.8,
+      -68.3
+    ]
+  },
+  {
+    "continent": "Americas",
+    "country": "Argentina",
+    "city": "Tucumán",
+    "timezone": "America/Argentina/Tucuman",
+    "flagEmoji": "🇦🇷",
+    "coordinates": [
+      -26.8167,
+      -65.2167
+    ]
+  },
+  {
+    "continent": "Americas",
+    "country": "Argentina",
+    "city": "most areas: CB, CC, CN, ER, FM, MN, SE, SF",
+    "timezone": "America/Argentina/Cordoba",
+    "flagEmoji": "🇦🇷",
+    "coordinates": [
+      -31.4,
+      -64.1833
+    ]
+  },
+  {
+    "continent": "Americas",
+    "country": "Aruba",
+    "city": "AST - QC",
+    "timezone": "America/Puerto_Rico",
+    "flagEmoji": "🇦🇼",
+    "coordinates": [
+      18.4683,
+      -66.1061
+    ]
+  },
+  {
+    "continent": "Americas",
+    "country": "Bahamas",
+    "city": "Eastern - ON & QC",
+    "timezone": "America/Toronto",
+    "flagEmoji": "🇧🇸",
+    "coordinates": [
+      43.65,
+      -79.3833
+    ]
+  },
+  {
+    "continent": "Americas",
+    "country": "Barbados",
+    "city": "Barbados",
+    "timezone": "America/Barbados",
+    "flagEmoji": "🇧🇧",
+    "coordinates": [
+      13.1,
+      -59.6167
+    ]
+  },
+  {
+    "continent": "Americas",
+    "country": "Belize",
+    "city": "Belize",
+    "timezone": "America/Belize",
+    "flagEmoji": "🇧🇿",
+    "coordinates": [
+      17.5,
+      -88.2
+    ]
+  },
+  {
+    "continent": "Americas",
+    "country": "Bolivia",
+    "city": "La Paz",
+    "timezone": "America/La_Paz",
+    "flagEmoji": "🇧🇴",
+    "coordinates": [
+      -16.5,
+      -68.15
+    ]
+  },
+  {
+    "continent": "Americas",
+    "country": "Brazil",
+    "city": "Acre",
+    "timezone": "America/Rio_Branco",
+    "flagEmoji": "🇧🇷",
+    "coordinates": [
+      -9.9667,
+      -67.8
+    ]
+  },
+  {
+    "continent": "Americas",
+    "country": "Brazil",
+    "city": "Alagoas, Sergipe",
+    "timezone": "America/Maceio",
+    "flagEmoji": "🇧🇷",
+    "coordinates": [
+      -9.6667,
+      -35.7167
+    ]
+  },
+  {
+    "continent": "Americas",
+    "country": "Brazil",
+    "city": "Amazonas",
+    "timezone": "America/Eirunepe",
+    "flagEmoji": "🇧🇷",
+    "coordinates": [
+      -6.6667,
+      -69.8667
+    ]
+  },
+  {
+    "continent": "Americas",
+    "country": "Brazil",
+    "city": "Amazonas",
+    "timezone": "America/Manaus",
+    "flagEmoji": "🇧🇷",
+    "coordinates": [
+      -3.1333,
+      -60.0167
+    ]
+  },
+  {
+    "continent": "Americas",
+    "country": "Brazil",
+    "city": "Atlantic islands",
+    "timezone": "America/Noronha",
+    "flagEmoji": "🇧🇷",
+    "coordinates": [
+      -3.85,
+      -32.4167
+    ]
+  },
+  {
+    "continent": "Americas",
+    "country": "Brazil",
+    "city": "Bahia",
+    "timezone": "America/Bahia",
+    "flagEmoji": "🇧🇷",
+    "coordinates": [
+      -12.9833,
+      -38.5167
+    ]
+  },
+  {
+    "continent": "Americas",
+    "country": "Brazil",
+    "city": "Brazil",
+    "timezone": "America/Fortaleza",
+    "flagEmoji": "🇧🇷",
+    "coordinates": [
+      -3.7167,
+      -38.5
+    ]
+  },
+  {
+    "continent": "Americas",
+    "country": "Brazil",
+    "city": "Brazil",
+    "timezone": "America/Sao_Paulo",
+    "flagEmoji": "🇧🇷",
+    "coordinates": [
+      -23.5333,
+      -46.6167
+    ]
+  },
+  {
+    "continent": "Americas",
+    "country": "Brazil",
+    "city": "Mato Grosso",
+    "timezone": "America/Cuiaba",
+    "flagEmoji": "🇧🇷",
+    "coordinates": [
+      -15.5833,
+      -56.0833
+    ]
+  },
+  {
+    "continent": "Americas",
+    "country": "Brazil",
+    "city": "Mato Grosso do Sul",
+    "timezone": "America/Campo_Grande",
+    "flagEmoji": "🇧🇷",
+    "coordinates": [
+      -20.45,
+      -54.6167
+    ]
+  },
+  {
+    "continent": "Americas",
+    "country": "Brazil",
+    "city": "Pará",
+    "timezone": "America/Belem",
+    "flagEmoji": "🇧🇷",
+    "coordinates": [
+      -1.45,
+      -48.4833
+    ]
+  },
+  {
+    "continent": "Americas",
+    "country": "Brazil",
+    "city": "Pará",
+    "timezone": "America/Santarem",
+    "flagEmoji": "🇧🇷",
+    "coordinates": [
+      -2.4333,
+      -54.8667
+    ]
+  },
+  {
+    "continent": "Americas",
+    "country": "Brazil",
+    "city": "Pernambuco",
+    "timezone": "America/Recife",
+    "flagEmoji": "🇧🇷",
+    "coordinates": [
+      -8.05,
+      -34.9
+    ]
+  },
+  {
+    "continent": "Americas",
+    "country": "Brazil",
+    "city": "Rondônia",
+    "timezone": "America/Porto_Velho",
+    "flagEmoji": "🇧🇷",
+    "coordinates": [
+      -8.7667,
+      -63.9
+    ]
+  },
+  {
+    "continent": "Americas",
+    "country": "Brazil",
+    "city": "Roraima",
+    "timezone": "America/Boa_Vista",
+    "flagEmoji": "🇧🇷",
+    "coordinates": [
+      2.8167,
+      -60.6667
+    ]
+  },
+  {
+    "continent": "Americas",
+    "country": "Brazil",
+    "city": "Tocantins",
+    "timezone": "America/Araguaina",
+    "flagEmoji": "🇧🇷",
+    "coordinates": [
+      -7.2,
+      -48.2
+    ]
+  },
+  {
+    "continent": "Americas",
+    "country": "Canada",
+    "city": "AST - QC",
+    "timezone": "America/Puerto_Rico",
+    "flagEmoji": "🇨🇦",
+    "coordinates": [
+      18.4683,
+      -66.1061
+    ]
+  },
+  {
+    "continent": "Americas",
+    "country": "Canada",
+    "city": "Atlantic - Labrador",
+    "timezone": "America/Goose_Bay",
+    "flagEmoji": "🇨🇦",
+    "coordinates": [
+      53.3333,
+      -60.4167
+    ]
+  },
+  {
+    "continent": "Americas",
+    "country": "Canada",
+    "city": "Atlantic - NS",
+    "timezone": "America/Glace_Bay",
+    "flagEmoji": "🇨🇦",
+    "coordinates": [
+      46.2,
+      -59.95
+    ]
+  },
+  {
+    "continent": "Americas",
+    "country": "Canada",
+    "city": "Atlantic - NS",
+    "timezone": "America/Halifax",
+    "flagEmoji": "🇨🇦",
+    "coordinates": [
+      44.65,
+      -63.6
+    ]
+  },
+  {
+    "continent": "Americas",
+    "country": "Canada",
+    "city": "Atlantic - New Brunswick",
+    "timezone": "America/Moncton",
+    "flagEmoji": "🇨🇦",
+    "coordinates": [
+      46.1,
+      -64.7833
+    ]
+  },
+  {
+    "continent": "Americas",
+    "country": "Canada",
+    "city": "CST - SK",
+    "timezone": "America/Regina",
+    "flagEmoji": "🇨🇦",
+    "coordinates": [
+      50.4,
+      -104.65
+    ]
+  },
+  {
+    "continent": "Americas",
+    "country": "Canada",
+    "city": "CST - SK",
+    "timezone": "America/Swift_Current",
+    "flagEmoji": "🇨🇦",
+    "coordinates": [
+      50.2833,
+      -107.8333
+    ]
+  },
+  {
+    "continent": "Americas",
+    "country": "Canada",
+    "city": "Central - NU",
+    "timezone": "America/Rankin_Inlet",
+    "flagEmoji": "🇨🇦",
+    "coordinates": [
+      62.8167,
+      -92.0831
+    ]
+  },
+  {
+    "continent": "Americas",
+    "country": "Canada",
+    "city": "Central - NU",
+    "timezone": "America/Resolute",
+    "flagEmoji": "🇨🇦",
+    "coordinates": [
+      74.6956,
+      -94.8292
+    ]
+  },
+  {
+    "continent": "Americas",
+    "country": "Canada",
+    "city": "Central - ON",
+    "timezone": "America/Winnipeg",
+    "flagEmoji": "🇨🇦",
+    "coordinates": [
+      49.8833,
+      -97.15
+    ]
+  },
+  {
+    "continent": "Americas",
+    "country": "Canada",
+    "city": "EST - ON",
+    "timezone": "America/Panama",
+    "flagEmoji": "🇨🇦",
+    "coordinates": [
+      8.9667,
+      -79.5333
+    ]
+  },
+  {
+    "continent": "Americas",
+    "country": "Canada",
+    "city": "Eastern - NU",
+    "timezone": "America/Iqaluit",
+    "flagEmoji": "🇨🇦",
+    "coordinates": [
+      63.7333,
+      -68.4667
+    ]
+  },
+  {
+    "continent": "Americas",
+    "country": "Canada",
+    "city": "Eastern - ON & QC",
+    "timezone": "America/Toronto",
+    "flagEmoji": "🇨🇦",
+    "coordinates": [
+      43.65,
+      -79.3833
+    ]
+  },
+  {
+    "continent": "Americas",
+    "country": "Canada",
+    "city": "MST - AZ",
+    "timezone": "America/Phoenix",
+    "flagEmoji": "🇨🇦",
+    "coordinates": [
+      33.4483,
+      -112.0733
+    ]
+  },
+  {
+    "continent": "Americas",
+    "country": "Canada",
+    "city": "MST - BC",
+    "timezone": "America/Dawson_Creek",
+    "flagEmoji": "🇨🇦",
+    "coordinates": [
+      55.7667,
+      -120.2333
+    ]
+  },
+  {
+    "continent": "Americas",
+    "country": "Canada",
+    "city": "MST - BC",
+    "timezone": "America/Fort_Nelson",
+    "flagEmoji": "🇨🇦",
+    "coordinates": [
+      58.8,
+      -122.7
+    ]
+  },
+  {
+    "continent": "Americas",
+    "country": "Canada",
+    "city": "MST - Yukon",
+    "timezone": "America/Dawson",
+    "flagEmoji": "🇨🇦",
+    "coordinates": [
+      64.0667,
+      -139.4167
+    ]
+  },
+  {
+    "continent": "Americas",
+    "country": "Canada",
+    "city": "MST - Yukon",
+    "timezone": "America/Whitehorse",
+    "flagEmoji": "🇨🇦",
+    "coordinates": [
+      60.7167,
+      -135.05
+    ]
+  },
+  {
+    "continent": "Americas",
+    "country": "Canada",
+    "city": "Mountain - AB, BC",
+    "timezone": "America/Edmonton",
+    "flagEmoji": "🇨🇦",
+    "coordinates": [
+      53.55,
+      -113.4667
+    ]
+  },
+  {
+    "continent": "Americas",
+    "country": "Canada",
+    "city": "Mountain - NT",
+    "timezone": "America/Inuvik",
+    "flagEmoji": "🇨🇦",
+    "coordinates": [
+      68.3497,
+      -133.7167
+    ]
+  },
+  {
+    "continent": "Americas",
+    "country": "Canada",
+    "city": "Mountain - NU",
+    "timezone": "America/Cambridge_Bay",
+    "flagEmoji": "🇨🇦",
+    "coordinates": [
+      69.1139,
+      -105.0528
+    ]
+  },
+  {
+    "continent": "Americas",
+    "country": "Canada",
+    "city": "Newfoundland, Labrador",
+    "timezone": "America/St_Johns",
+    "flagEmoji": "🇨🇦",
+    "coordinates": [
+      47.5667,
+      -52.7167
+    ]
+  },
+  {
+    "continent": "Americas",
+    "country": "Canada",
+    "city": "Pacific - BC",
+    "timezone": "America/Vancouver",
+    "flagEmoji": "🇨🇦",
+    "coordinates": [
+      49.2667,
+      -123.1167
+    ]
+  },
+  {
+    "continent": "Americas",
+    "country": "Caribbean NL",
+    "city": "AST - QC",
+    "timezone": "America/Puerto_Rico",
+    "flagEmoji": "🇧🇶",
+    "coordinates": [
+      18.4683,
+      -66.1061
+    ]
+  },
+  {
+    "continent": "Americas",
+    "country": "Cayman Islands",
+    "city": "EST - ON",
+    "timezone": "America/Panama",
+    "flagEmoji": "🇰🇾",
+    "coordinates": [
+      8.9667,
+      -79.5333
+    ]
+  },
+  {
+    "continent": "Americas",
+    "country": "Chile",
+    "city": "Region of Magallanes",
+    "timezone": "America/Punta_Arenas",
+    "flagEmoji": "🇨🇱",
+    "coordinates": [
+      -53.15,
+      -70.9167
+    ]
+  },
+  {
+    "continent": "Americas",
+    "country": "Chile",
+    "city": "most of Chile",
+    "timezone": "America/Santiago",
+    "flagEmoji": "🇨🇱",
+    "coordinates": [
+      -33.45,
+      -70.6667
+    ]
+  },
+  {
+    "continent": "Americas",
+    "country": "Colombia",
+    "city": "Bogota",
+    "timezone": "America/Bogota",
+    "flagEmoji": "🇨🇴",
+    "coordinates": [
+      4.6,
+      -74.0833
+    ]
+  },
+  {
+    "continent": "Americas",
+    "country": "Costa Rica",
+    "city": "Costa Rica",
+    "timezone": "America/Costa_Rica",
+    "flagEmoji": "🇨🇷",
+    "coordinates": [
+      9.9333,
+      -84.0833
+    ]
+  },
+  {
+    "continent": "Americas",
+    "country": "Cuba",
+    "city": "Havana",
+    "timezone": "America/Havana",
+    "flagEmoji": "🇨🇺",
+    "coordinates": [
+      23.1333,
+      -82.3667
+    ]
+  },
+  {
+    "continent": "Americas",
+    "country": "Curaçao",
+    "city": "AST - QC",
+    "timezone": "America/Puerto_Rico",
+    "flagEmoji": "🇨🇼",
+    "coordinates": [
+      18.4683,
+      -66.1061
+    ]
+  },
+  {
+    "continent": "Americas",
+    "country": "Dominica",
+    "city": "AST - QC",
+    "timezone": "America/Puerto_Rico",
+    "flagEmoji": "🇩🇲",
+    "coordinates": [
+      18.4683,
+      -66.1061
+    ]
+  },
+  {
+    "continent": "Americas",
+    "country": "Dominican Republic",
+    "city": "Santo Domingo",
+    "timezone": "America/Santo_Domingo",
+    "flagEmoji": "🇩🇴",
+    "coordinates": [
+      18.4667,
+      -69.9
+    ]
+  },
+  {
+    "continent": "Americas",
+    "country": "Ecuador",
+    "city": "Ecuador",
+    "timezone": "America/Guayaquil",
+    "flagEmoji": "🇪🇨",
+    "coordinates": [
+      -2.1667,
+      -79.8333
+    ]
+  },
+  {
+    "continent": "Americas",
+    "country": "El Salvador",
+    "city": "El Salvador",
+    "timezone": "America/El_Salvador",
+    "flagEmoji": "🇸🇻",
+    "coordinates": [
+      13.7,
+      -89.2
+    ]
+  },
+  {
+    "continent": "Americas",
+    "country": "French Guiana",
+    "city": "Cayenne",
+    "timezone": "America/Cayenne",
+    "flagEmoji": "🇬🇫",
+    "coordinates": [
+      4.9333,
+      -52.3333
+    ]
+  },
+  {
+    "continent": "Americas",
+    "country": "Greenland",
+    "city": "National Park",
+    "timezone": "America/Danmarkshavn",
+    "flagEmoji": "🇬🇱",
+    "coordinates": [
+      76.7667,
+      -18.6667
+    ]
+  },
+  {
+    "continent": "Americas",
+    "country": "Greenland",
+    "city": "Scoresbysund/Ittoqqortoormiit",
+    "timezone": "America/Scoresbysund",
+    "flagEmoji": "🇬🇱",
+    "coordinates": [
+      70.4833,
+      -21.9667
+    ]
+  },
+  {
+    "continent": "Americas",
+    "country": "Greenland",
+    "city": "Thule/Pituffik",
+    "timezone": "America/Thule",
+    "flagEmoji": "🇬🇱",
+    "coordinates": [
+      76.5667,
+      -68.7833
+    ]
+  },
+  {
+    "continent": "Americas",
+    "country": "Greenland",
+    "city": "most of Greenland",
+    "timezone": "America/Nuuk",
+    "flagEmoji": "🇬🇱",
+    "coordinates": [
+      64.1833,
+      -51.7333
+    ]
+  },
+  {
+    "continent": "Americas",
+    "country": "Grenada",
+    "city": "AST - QC",
+    "timezone": "America/Puerto_Rico",
+    "flagEmoji": "🇬🇩",
+    "coordinates": [
+      18.4683,
+      -66.1061
+    ]
+  },
+  {
+    "continent": "Americas",
+    "country": "Guadeloupe",
+    "city": "AST - QC",
+    "timezone": "America/Puerto_Rico",
+    "flagEmoji": "🇬🇵",
+    "coordinates": [
+      18.4683,
+      -66.1061
+    ]
+  },
+  {
+    "continent": "Americas",
+    "country": "Guatemala",
+    "city": "Guatemala",
+    "timezone": "America/Guatemala",
+    "flagEmoji": "🇬🇹",
+    "coordinates": [
+      14.6333,
+      -90.5167
+    ]
+  },
+  {
+    "continent": "Americas",
+    "country": "Guyana",
+    "city": "Guyana",
+    "timezone": "America/Guyana",
+    "flagEmoji": "🇬🇾",
+    "coordinates": [
+      6.8,
+      -58.1667
+    ]
+  },
+  {
+    "continent": "Americas",
+    "country": "Haiti",
+    "city": "Port-au-Prince",
+    "timezone": "America/Port-au-Prince",
+    "flagEmoji": "🇭🇹",
+    "coordinates": [
+      18.5333,
+      -72.3333
+    ]
+  },
+  {
+    "continent": "Americas",
+    "country": "Honduras",
+    "city": "Tegucigalpa",
+    "timezone": "America/Tegucigalpa",
+    "flagEmoji": "🇭🇳",
+    "coordinates": [
+      14.1,
+      -87.2167
+    ]
+  },
+  {
+    "continent": "Americas",
+    "country": "Jamaica",
+    "city": "Jamaica",
+    "timezone": "America/Jamaica",
+    "flagEmoji": "🇯🇲",
+    "coordinates": [
+      17.9681,
+      -76.7933
+    ]
+  },
+  {
+    "continent": "Americas",
+    "country": "Martinique",
+    "city": "Martinique",
+    "timezone": "America/Martinique",
+    "flagEmoji": "🇲🇶",
+    "coordinates": [
+      14.6,
+      -61.0833
+    ]
+  },
+  {
+    "continent": "Americas",
+    "country": "Mexico",
+    "city": "Bahía de Banderas",
+    "timezone": "America/Bahia_Banderas",
+    "flagEmoji": "🇲🇽",
+    "coordinates": [
+      20.8,
+      -105.25
+    ]
+  },
+  {
+    "continent": "Americas",
+    "country": "Mexico",
+    "city": "Baja California",
+    "timezone": "America/Tijuana",
+    "flagEmoji": "🇲🇽",
+    "coordinates": [
+      32.5333,
+      -117.0167
+    ]
+  },
+  {
+    "continent": "Americas",
+    "country": "Mexico",
+    "city": "Baja California Sur, Nayarit",
+    "timezone": "America/Mazatlan",
+    "flagEmoji": "🇲🇽",
+    "coordinates": [
+      23.2167,
+      -106.4167
+    ]
+  },
+  {
+    "continent": "Americas",
+    "country": "Mexico",
+    "city": "Campeche, Yucatán",
+    "timezone": "America/Merida",
+    "flagEmoji": "🇲🇽",
+    "coordinates": [
+      20.9667,
+      -89.6167
+    ]
+  },
+  {
+    "continent": "Americas",
+    "country": "Mexico",
+    "city": "Central Mexico",
+    "timezone": "America/Mexico_City",
+    "flagEmoji": "🇲🇽",
+    "coordinates": [
+      19.4,
+      -99.15
+    ]
+  },
+  {
+    "continent": "Americas",
+    "country": "Mexico",
+    "city": "Chihuahua",
+    "timezone": "America/Chihuahua",
+    "flagEmoji": "🇲🇽",
+    "coordinates": [
+      28.6333,
+      -106.0833
+    ]
+  },
+  {
+    "continent": "Americas",
+    "country": "Mexico",
+    "city": "Chihuahua",
+    "timezone": "America/Ciudad_Juarez",
+    "flagEmoji": "🇲🇽",
+    "coordinates": [
+      31.7333,
+      -106.4833
+    ]
+  },
+  {
+    "continent": "Americas",
+    "country": "Mexico",
+    "city": "Chihuahua",
+    "timezone": "America/Ojinaga",
+    "flagEmoji": "🇲🇽",
+    "coordinates": [
+      29.5667,
+      -104.4167
+    ]
+  },
+  {
+    "continent": "Americas",
+    "country": "Mexico",
+    "city": "Coahuila, Nuevo León, Tamaulipas",
+    "timezone": "America/Matamoros",
+    "flagEmoji": "🇲🇽",
+    "coordinates": [
+      25.8333,
+      -97.5
+    ]
+  },
+  {
+    "continent": "Americas",
+    "country": "Mexico",
+    "city": "Durango; Coahuila, Nuevo León, Tamaulipas",
+    "timezone": "America/Monterrey",
+    "flagEmoji": "🇲🇽",
+    "coordinates": [
+      25.6667,
+      -100.3167
+    ]
+  },
+  {
+    "continent": "Americas",
+    "country": "Mexico",
+    "city": "Quintana Roo",
+    "timezone": "America/Cancun",
+    "flagEmoji": "🇲🇽",
+    "coordinates": [
+      21.0833,
+      -86.7667
+    ]
+  },
+  {
+    "continent": "Americas",
+    "country": "Mexico",
+    "city": "Sonora",
+    "timezone": "America/Hermosillo",
+    "flagEmoji": "🇲🇽",
+    "coordinates": [
+      29.0667,
+      -110.9667
+    ]
+  },
+  {
+    "continent": "Americas",
+    "country": "Montserrat",
+    "city": "AST - QC",
+    "timezone": "America/Puerto_Rico",
+    "flagEmoji": "🇲🇸",
+    "coordinates": [
+      18.4683,
+      -66.1061
+    ]
+  },
+  {
+    "continent": "Americas",
+    "country": "Nicaragua",
+    "city": "Managua",
+    "timezone": "America/Managua",
+    "flagEmoji": "🇳🇮",
+    "coordinates": [
+      12.15,
+      -86.2833
+    ]
+  },
+  {
+    "continent": "Americas",
+    "country": "Panama",
+    "city": "EST - ON",
+    "timezone": "America/Panama",
+    "flagEmoji": "🇵🇦",
+    "coordinates": [
+      8.9667,
+      -79.5333
+    ]
+  },
+  {
+    "continent": "Americas",
+    "country": "Paraguay",
+    "city": "Asuncion",
+    "timezone": "America/Asuncion",
+    "flagEmoji": "🇵🇾",
+    "coordinates": [
+      -25.2667,
+      -57.6667
+    ]
+  },
+  {
+    "continent": "Americas",
+    "country": "Peru",
+    "city": "Lima",
+    "timezone": "America/Lima",
+    "flagEmoji": "🇵🇪",
+    "coordinates": [
+      -12.05,
+      -77.05
+    ]
+  },
+  {
+    "continent": "Americas",
+    "country": "Puerto Rico",
+    "city": "AST - QC",
+    "timezone": "America/Puerto_Rico",
+    "flagEmoji": "🇵🇷",
+    "coordinates": [
+      18.4683,
+      -66.1061
+    ]
+  },
+  {
+    "continent": "Americas",
+    "country": "St Barthelemy",
+    "city": "AST - QC",
+    "timezone": "America/Puerto_Rico",
+    "flagEmoji": "🇧🇱",
+    "coordinates": [
+      18.4683,
+      -66.1061
+    ]
+  },
+  {
+    "continent": "Americas",
+    "country": "St Kitts & Nevis",
+    "city": "AST - QC",
+    "timezone": "America/Puerto_Rico",
+    "flagEmoji": "🇰🇳",
+    "coordinates": [
+      18.4683,
+      -66.1061
+    ]
+  },
+  {
+    "continent": "Americas",
+    "country": "St Lucia",
+    "city": "AST - QC",
+    "timezone": "America/Puerto_Rico",
+    "flagEmoji": "🇱🇨",
+    "coordinates": [
+      18.4683,
+      -66.1061
+    ]
+  },
+  {
+    "continent": "Americas",
+    "country": "St Maarten (Dutch)",
+    "city": "AST - QC",
+    "timezone": "America/Puerto_Rico",
+    "flagEmoji": "🇸🇽",
+    "coordinates": [
+      18.4683,
+      -66.1061
+    ]
+  },
+  {
+    "continent": "Americas",
+    "country": "St Martin (French)",
+    "city": "AST - QC",
+    "timezone": "America/Puerto_Rico",
+    "flagEmoji": "🇲🇫",
+    "coordinates": [
+      18.4683,
+      -66.1061
+    ]
+  },
+  {
+    "continent": "Americas",
+    "country": "St Pierre & Miquelon",
+    "city": "Miquelon",
+    "timezone": "America/Miquelon",
+    "flagEmoji": "🇵🇲",
+    "coordinates": [
+      47.05,
+      -56.3333
+    ]
+  },
+  {
+    "continent": "Americas",
+    "country": "St Vincent",
+    "city": "AST - QC",
+    "timezone": "America/Puerto_Rico",
+    "flagEmoji": "🇻🇨",
+    "coordinates": [
+      18.4683,
+      -66.1061
+    ]
+  },
+  {
+    "continent": "Americas",
+    "country": "Suriname",
+    "city": "Paramaribo",
+    "timezone": "America/Paramaribo",
+    "flagEmoji": "🇸🇷",
+    "coordinates": [
+      5.8333,
+      -55.1667
+    ]
+  },
+  {
+    "continent": "Americas",
+    "country": "Trinidad & Tobago",
+    "city": "AST - QC",
+    "timezone": "America/Puerto_Rico",
+    "flagEmoji": "🇹🇹",
+    "coordinates": [
+      18.4683,
+      -66.1061
+    ]
+  },
+  {
+    "continent": "Americas",
+    "country": "Turks & Caicos Is",
+    "city": "Grand Turk",
+    "timezone": "America/Grand_Turk",
+    "flagEmoji": "🇹🇨",
+    "coordinates": [
+      21.4667,
+      -71.1333
+    ]
+  },
+  {
+    "continent": "Americas",
+    "country": "United States",
+    "city": "Alaska",
+    "timezone": "America/Anchorage",
+    "flagEmoji": "🇺🇸",
+    "coordinates": [
+      61.2181,
+      -149.9003
+    ]
+  },
+  {
+    "continent": "Americas",
+    "country": "United States",
+    "city": "Alaska",
+    "timezone": "America/Nome",
+    "flagEmoji": "🇺🇸",
+    "coordinates": [
+      64.5011,
+      -165.4064
+    ]
+  },
+  {
+    "continent": "Americas",
+    "country": "United States",
+    "city": "Alaska - Annette Island",
+    "timezone": "America/Metlakatla",
+    "flagEmoji": "🇺🇸",
+    "coordinates": [
+      55.1269,
+      -131.5764
+    ]
+  },
+  {
+    "continent": "Americas",
+    "country": "United States",
+    "city": "Alaska - Juneau area",
+    "timezone": "America/Juneau",
+    "flagEmoji": "🇺🇸",
+    "coordinates": [
+      58.3019,
+      -134.4197
+    ]
+  },
+  {
+    "continent": "Americas",
+    "country": "United States",
+    "city": "Alaska - Sitka area",
+    "timezone": "America/Sitka",
+    "flagEmoji": "🇺🇸",
+    "coordinates": [
+      57.1764,
+      -135.3019
+    ]
+  },
+  {
+    "continent": "Americas",
+    "country": "United States",
+    "city": "Alaska - Yakutat",
+    "timezone": "America/Yakutat",
+    "flagEmoji": "🇺🇸",
+    "coordinates": [
+      59.5469,
+      -139.7272
+    ]
+  },
+  {
+    "continent": "Americas",
+    "country": "United States",
+    "city": "Alaska - western Aleutians",
+    "timezone": "America/Adak",
+    "flagEmoji": "🇺🇸",
+    "coordinates": [
+      51.88,
+      -176.6581
+    ]
+  },
+  {
+    "continent": "Americas",
+    "country": "United States",
+    "city": "Central",
+    "timezone": "America/Chicago",
+    "flagEmoji": "🇺🇸",
+    "coordinates": [
+      41.85,
+      -87.65
+    ]
+  },
+  {
+    "continent": "Americas",
+    "country": "United States",
+    "city": "Central - IN",
+    "timezone": "America/Indiana/Knox",
+    "flagEmoji": "🇺🇸",
+    "coordinates": [
+      41.2958,
+      -86.625
+    ]
+  },
+  {
+    "continent": "Americas",
+    "country": "United States",
+    "city": "Central - IN",
+    "timezone": "America/Indiana/Tell_City",
+    "flagEmoji": "🇺🇸",
+    "coordinates": [
+      37.9531,
+      -86.7614
+    ]
+  },
+  {
+    "continent": "Americas",
+    "country": "United States",
+    "city": "Central - MI",
+    "timezone": "America/Menominee",
+    "flagEmoji": "🇺🇸",
+    "coordinates": [
+      45.1078,
+      -87.6142
+    ]
+  },
+  {
+    "continent": "Americas",
+    "country": "United States",
+    "city": "Central - ND",
+    "timezone": "America/North_Dakota/Beulah",
+    "flagEmoji": "🇺🇸",
+    "coordinates": [
+      47.2642,
+      -101.7778
+    ]
+  },
+  {
+    "continent": "Americas",
+    "country": "United States",
+    "city": "Central - ND",
+    "timezone": "America/North_Dakota/Center",
+    "flagEmoji": "🇺🇸",
+    "coordinates": [
+      47.1164,
+      -101.2992
+    ]
+  },
+  {
+    "continent": "Americas",
+    "country": "United States",
+    "city": "Central - ND",
+    "timezone": "America/North_Dakota/New_Salem",
+    "flagEmoji": "🇺🇸",
+    "coordinates": [
+      46.845,
+      -101.4108
+    ]
+  },
+  {
+    "continent": "Americas",
+    "country": "United States",
+    "city": "Eastern",
+    "timezone": "America/New_York",
+    "flagEmoji": "🇺🇸",
+    "coordinates": [
+      40.7142,
+      -74.0064
+    ]
+  },
+  {
+    "continent": "Americas",
+    "country": "United States",
+    "city": "Eastern - IN",
+    "timezone": "America/Indiana/Indianapolis",
+    "flagEmoji": "🇺🇸",
+    "coordinates": [
+      39.7683,
+      -86.1581
+    ]
+  },
+  {
+    "continent": "Americas",
+    "country": "United States",
+    "city": "Eastern - IN",
+    "timezone": "America/Indiana/Marengo",
+    "flagEmoji": "🇺🇸",
+    "coordinates": [
+      38.3756,
+      -86.3447
+    ]
+  },
+  {
+    "continent": "Americas",
+    "country": "United States",
+    "city": "Eastern - IN",
+    "timezone": "America/Indiana/Petersburg",
+    "flagEmoji": "🇺🇸",
+    "coordinates": [
+      38.4919,
+      -87.2786
+    ]
+  },
+  {
+    "continent": "Americas",
+    "country": "United States",
+    "city": "Eastern - IN",
+    "timezone": "America/Indiana/Vevay",
+    "flagEmoji": "🇺🇸",
+    "coordinates": [
+      38.7478,
+      -85.0672
+    ]
+  },
+  {
+    "continent": "Americas",
+    "country": "United States",
+    "city": "Eastern - IN",
+    "timezone": "America/Indiana/Vincennes",
+    "flagEmoji": "🇺🇸",
+    "coordinates": [
+      38.6772,
+      -87.5286
+    ]
+  },
+  {
+    "continent": "Americas",
+    "country": "United States",
+    "city": "Eastern - IN",
+    "timezone": "America/Indiana/Winamac",
+    "flagEmoji": "🇺🇸",
+    "coordinates": [
+      41.0514,
+      -86.6031
+    ]
+  },
+  {
+    "continent": "Americas",
+    "country": "United States",
+    "city": "Eastern - KY",
+    "timezone": "America/Kentucky/Louisville",
+    "flagEmoji": "🇺🇸",
+    "coordinates": [
+      38.2542,
+      -85.7594
+    ]
+  },
+  {
+    "continent": "Americas",
+    "country": "United States",
+    "city": "Eastern - KY",
+    "timezone": "America/Kentucky/Monticello",
+    "flagEmoji": "🇺🇸",
+    "coordinates": [
+      36.8297,
+      -84.8492
+    ]
+  },
+  {
+    "continent": "Americas",
+    "country": "United States",
+    "city": "Eastern - MI",
+    "timezone": "America/Detroit",
+    "flagEmoji": "🇺🇸",
+    "coordinates": [
+      42.3314,
+      -83.0458
+    ]
+  },
+  {
+    "continent": "Americas",
+    "country": "United States",
+    "city": "MST - AZ",
+    "timezone": "America/Phoenix",
+    "flagEmoji": "🇺🇸",
+    "coordinates": [
+      33.4483,
+      -112.0733
+    ]
+  },
+  {
+    "continent": "Americas",
+    "country": "United States",
+    "city": "Mountain",
+    "timezone": "America/Denver",
+    "flagEmoji": "🇺🇸",
+    "coordinates": [
+      39.7392,
+      -104.9842
+    ]
+  },
+  {
+    "continent": "Americas",
+    "country": "United States",
+    "city": "Mountain - ID",
+    "timezone": "America/Boise",
+    "flagEmoji": "🇺🇸",
+    "coordinates": [
+      43.6136,
+      -116.2025
+    ]
+  },
+  {
+    "continent": "Americas",
+    "country": "United States",
+    "city": "Pacific",
+    "timezone": "America/Los_Angeles",
+    "flagEmoji": "🇺🇸",
+    "coordinates": [
+      34.0522,
+      -118.2428
+    ]
+  },
+  {
+    "continent": "Americas",
+    "country": "Uruguay",
+    "city": "Montevideo",
+    "timezone": "America/Montevideo",
+    "flagEmoji": "🇺🇾",
+    "coordinates": [
+      -34.9092,
+      -56.2125
+    ]
+  },
+  {
+    "continent": "Americas",
+    "country": "Venezuela",
+    "city": "Caracas",
+    "timezone": "America/Caracas",
+    "flagEmoji": "🇻🇪",
+    "coordinates": [
+      10.5,
+      -66.9333
+    ]
+  },
+  {
+    "continent": "Americas",
+    "country": "Virgin Islands (UK)",
+    "city": "AST - QC",
+    "timezone": "America/Puerto_Rico",
+    "flagEmoji": "🇻🇬",
+    "coordinates": [
+      18.4683,
+      -66.1061
+    ]
+  },
+  {
+    "continent": "Americas",
+    "country": "Virgin Islands (US)",
+    "city": "AST - QC",
+    "timezone": "America/Puerto_Rico",
+    "flagEmoji": "🇻🇮",
+    "coordinates": [
+      18.4683,
+      -66.1061
+    ]
+  },
+  {
+    "continent": "Asia",
+    "country": "Afghanistan",
+    "city": "Kabul",
+    "timezone": "Asia/Kabul",
+    "flagEmoji": "🇦🇫",
+    "coordinates": [
+      34.5167,
+      69.2
+    ]
+  },
+  {
+    "continent": "Asia",
+    "country": "Antarctica",
+    "city": "Syowa",
+    "timezone": "Asia/Riyadh",
+    "flagEmoji": "🇦🇶",
+    "coordinates": [
+      24.6333,
+      46.7167
+    ]
+  },
+  {
+    "continent": "Asia",
+    "country": "Armenia",
+    "city": "Yerevan",
+    "timezone": "Asia/Yerevan",
+    "flagEmoji": "🇦🇲",
+    "coordinates": [
+      40.1833,
+      44.5
+    ]
+  },
+  {
+    "continent": "Asia",
+    "country": "Azerbaijan",
+    "city": "Baku",
+    "timezone": "Asia/Baku",
+    "flagEmoji": "🇦🇿",
+    "coordinates": [
+      40.3833,
+      49.85
+    ]
+  },
+  {
+    "continent": "Asia",
+    "country": "Bahrain",
+    "city": "Qatar",
+    "timezone": "Asia/Qatar",
+    "flagEmoji": "🇧🇭",
+    "coordinates": [
+      25.2833,
+      51.5333
+    ]
+  },
+  {
+    "continent": "Asia",
+    "country": "Bangladesh",
+    "city": "Dhaka",
+    "timezone": "Asia/Dhaka",
+    "flagEmoji": "🇧🇩",
+    "coordinates": [
+      23.7167,
+      90.4167
+    ]
+  },
+  {
+    "continent": "Asia",
+    "country": "Bhutan",
+    "city": "Thimphu",
+    "timezone": "Asia/Thimphu",
+    "flagEmoji": "🇧🇹",
+    "coordinates": [
+      27.4667,
+      89.65
+    ]
+  },
+  {
+    "continent": "Asia",
+    "country": "Brunei",
+    "city": "Sabah, Sarawak",
+    "timezone": "Asia/Kuching",
+    "flagEmoji": "🇧🇳",
+    "coordinates": [
+      1.55,
+      110.3333
+    ]
+  },
+  {
+    "continent": "Asia",
+    "country": "Cambodia",
+    "city": "north Vietnam",
+    "timezone": "Asia/Bangkok",
+    "flagEmoji": "🇰🇭",
+    "coordinates": [
+      13.75,
+      100.5167
+    ]
+  },
+  {
+    "continent": "Asia",
+    "country": "China",
+    "city": "Beijing Time",
+    "timezone": "Asia/Shanghai",
+    "flagEmoji": "🇨🇳",
+    "coordinates": [
+      31.2333,
+      121.4667
+    ]
+  },
+  {
+    "continent": "Asia",
+    "country": "China",
+    "city": "Xinjiang Time",
+    "timezone": "Asia/Urumqi",
+    "flagEmoji": "🇨🇳",
+    "coordinates": [
+      43.8,
+      87.5833
+    ]
+  },
+  {
+    "continent": "Asia",
+    "country": "Christmas Island",
+    "city": "north Vietnam",
+    "timezone": "Asia/Bangkok",
+    "flagEmoji": "🇨🇽",
+    "coordinates": [
+      13.75,
+      100.5167
+    ]
+  },
+  {
+    "continent": "Asia",
+    "country": "Cocos (Keeling) Islands",
+    "city": "Yangon",
+    "timezone": "Asia/Yangon",
+    "flagEmoji": "🇨🇨",
+    "coordinates": [
+      16.7833,
+      96.1667
+    ]
+  },
+  {
+    "continent": "Asia",
+    "country": "Cyprus",
+    "city": "Northern Cyprus",
+    "timezone": "Asia/Famagusta",
+    "flagEmoji": "🇨🇾",
+    "coordinates": [
+      35.1167,
+      33.95
+    ]
+  },
+  {
+    "continent": "Asia",
+    "country": "Cyprus",
+    "city": "most of Cyprus",
+    "timezone": "Asia/Nicosia",
+    "flagEmoji": "🇨🇾",
+    "coordinates": [
+      35.1667,
+      33.3667
+    ]
+  },
+  {
+    "continent": "Asia",
+    "country": "East Timor",
+    "city": "Dili",
+    "timezone": "Asia/Dili",
+    "flagEmoji": "🇹🇱",
+    "coordinates": [
+      -8.55,
+      125.5833
+    ]
+  },
+  {
+    "continent": "Asia",
+    "country": "French S. Terr.",
+    "city": "Crozet",
+    "timezone": "Asia/Dubai",
+    "flagEmoji": "🇹🇫",
+    "coordinates": [
+      25.3,
+      55.3
+    ]
+  },
+  {
+    "continent": "Asia",
+    "country": "Georgia",
+    "city": "Tbilisi",
+    "timezone": "Asia/Tbilisi",
+    "flagEmoji": "🇬🇪",
+    "coordinates": [
+      41.7167,
+      44.8167
+    ]
+  },
+  {
+    "continent": "Asia",
+    "country": "Hong Kong",
+    "city": "Hong Kong",
+    "timezone": "Asia/Hong_Kong",
+    "flagEmoji": "🇭🇰",
+    "coordinates": [
+      22.2833,
+      114.15
+    ]
+  },
+  {
+    "continent": "Asia",
+    "country": "India",
+    "city": "Kolkata",
+    "timezone": "Asia/Kolkata",
+    "flagEmoji": "🇮🇳",
+    "coordinates": [
+      22.5333,
+      88.3667
+    ]
+  },
+  {
+    "continent": "Asia",
+    "country": "Indonesia",
+    "city": "Borneo",
+    "timezone": "Asia/Makassar",
+    "flagEmoji": "🇮🇩",
+    "coordinates": [
+      -5.1167,
+      119.4
+    ]
+  },
+  {
+    "continent": "Asia",
+    "country": "Indonesia",
+    "city": "Borneo",
+    "timezone": "Asia/Pontianak",
+    "flagEmoji": "🇮🇩",
+    "coordinates": [
+      -0.0333,
+      109.3333
+    ]
+  },
+  {
+    "continent": "Asia",
+    "country": "Indonesia",
+    "city": "Java, Sumatra",
+    "timezone": "Asia/Jakarta",
+    "flagEmoji": "🇮🇩",
+    "coordinates": [
+      -6.1667,
+      106.8
+    ]
+  },
+  {
+    "continent": "Asia",
+    "country": "Indonesia",
+    "city": "New Guinea",
+    "timezone": "Asia/Jayapura",
+    "flagEmoji": "🇮🇩",
+    "coordinates": [
+      -2.5333,
+      140.7
+    ]
+  },
+  {
+    "continent": "Asia",
+    "country": "Iran",
+    "city": "Tehran",
+    "timezone": "Asia/Tehran",
+    "flagEmoji": "🇮🇷",
+    "coordinates": [
+      35.6667,
+      51.4333
+    ]
+  },
+  {
+    "continent": "Asia",
+    "country": "Iraq",
+    "city": "Baghdad",
+    "timezone": "Asia/Baghdad",
+    "flagEmoji": "🇮🇶",
+    "coordinates": [
+      33.35,
+      44.4167
+    ]
+  },
+  {
+    "continent": "Asia",
+    "country": "Israel",
+    "city": "Jerusalem",
+    "timezone": "Asia/Jerusalem",
+    "flagEmoji": "🇮🇱",
+    "coordinates": [
+      31.7806,
+      35.2239
+    ]
+  },
+  {
+    "continent": "Asia",
+    "country": "Japan",
+    "city": "Tokyo",
+    "timezone": "Asia/Tokyo",
+    "flagEmoji": "🇯🇵",
+    "coordinates": [
+      35.6544,
+      139.7447
+    ]
+  },
+  {
+    "continent": "Asia",
+    "country": "Jordan",
+    "city": "Amman",
+    "timezone": "Asia/Amman",
+    "flagEmoji": "🇯🇴",
+    "coordinates": [
+      31.95,
+      35.9333
+    ]
+  },
+  {
+    "continent": "Asia",
+    "country": "Kazakhstan",
+    "city": "Aqtöbe/Aktobe",
+    "timezone": "Asia/Aqtobe",
+    "flagEmoji": "🇰🇿",
+    "coordinates": [
+      50.2833,
+      57.1667
+    ]
+  },
+  {
+    "continent": "Asia",
+    "country": "Kazakhstan",
+    "city": "Atyraū/Atirau/Gur'yev",
+    "timezone": "Asia/Atyrau",
+    "flagEmoji": "🇰🇿",
+    "coordinates": [
+      47.1167,
+      51.9333
+    ]
+  },
+  {
+    "continent": "Asia",
+    "country": "Kazakhstan",
+    "city": "Mangghystaū/Mankistau",
+    "timezone": "Asia/Aqtau",
+    "flagEmoji": "🇰🇿",
+    "coordinates": [
+      44.5167,
+      50.2667
+    ]
+  },
+  {
+    "continent": "Asia",
+    "country": "Kazakhstan",
+    "city": "Qostanay/Kostanay/Kustanay",
+    "timezone": "Asia/Qostanay",
+    "flagEmoji": "🇰🇿",
+    "coordinates": [
+      53.2,
+      63.6167
+    ]
+  },
+  {
+    "continent": "Asia",
+    "country": "Kazakhstan",
+    "city": "Qyzylorda/Kyzylorda/Kzyl-Orda",
+    "timezone": "Asia/Qyzylorda",
+    "flagEmoji": "🇰🇿",
+    "coordinates": [
+      44.8,
+      65.4667
+    ]
+  },
+  {
+    "continent": "Asia",
+    "country": "Kazakhstan",
+    "city": "West Kazakhstan",
+    "timezone": "Asia/Oral",
+    "flagEmoji": "🇰🇿",
+    "coordinates": [
+      51.2167,
+      51.35
+    ]
+  },
+  {
+    "continent": "Asia",
+    "country": "Kazakhstan",
+    "city": "most of Kazakhstan",
+    "timezone": "Asia/Almaty",
+    "flagEmoji": "🇰🇿",
+    "coordinates": [
+      43.25,
+      76.95
+    ]
+  },
+  {
+    "continent": "Asia",
+    "country": "Korea (North)",
+    "city": "Pyongyang",
+    "timezone": "Asia/Pyongyang",
+    "flagEmoji": "🇰🇵",
+    "coordinates": [
+      39.0167,
+      125.75
+    ]
+  },
+  {
+    "continent": "Asia",
+    "country": "Korea (South)",
+    "city": "Seoul",
+    "timezone": "Asia/Seoul",
+    "flagEmoji": "🇰🇷",
+    "coordinates": [
+      37.55,
+      126.9667
+    ]
+  },
+  {
+    "continent": "Asia",
+    "country": "Kuwait",
+    "city": "Syowa",
+    "timezone": "Asia/Riyadh",
+    "flagEmoji": "🇰🇼",
+    "coordinates": [
+      24.6333,
+      46.7167
+    ]
+  },
+  {
+    "continent": "Asia",
+    "country": "Kyrgyzstan",
+    "city": "Bishkek",
+    "timezone": "Asia/Bishkek",
+    "flagEmoji": "🇰🇬",
+    "coordinates": [
+      42.9,
+      74.6
+    ]
+  },
+  {
+    "continent": "Asia",
+    "country": "Laos",
+    "city": "north Vietnam",
+    "timezone": "Asia/Bangkok",
+    "flagEmoji": "🇱🇦",
+    "coordinates": [
+      13.75,
+      100.5167
+    ]
+  },
+  {
+    "continent": "Asia",
+    "country": "Lebanon",
+    "city": "Beirut",
+    "timezone": "Asia/Beirut",
+    "flagEmoji": "🇱🇧",
+    "coordinates": [
+      33.8833,
+      35.5
+    ]
+  },
+  {
+    "continent": "Asia",
+    "country": "Macau",
+    "city": "Macau",
+    "timezone": "Asia/Macau",
+    "flagEmoji": "🇲🇴",
+    "coordinates": [
+      22.1972,
+      113.5417
+    ]
+  },
+  {
+    "continent": "Asia",
+    "country": "Malaysia",
+    "city": "Sabah, Sarawak",
+    "timezone": "Asia/Kuching",
+    "flagEmoji": "🇲🇾",
+    "coordinates": [
+      1.55,
+      110.3333
+    ]
+  },
+  {
+    "continent": "Asia",
+    "country": "Malaysia",
+    "city": "peninsular Malaysia",
+    "timezone": "Asia/Singapore",
+    "flagEmoji": "🇲🇾",
+    "coordinates": [
+      1.2833,
+      103.85
+    ]
+  },
+  {
+    "continent": "Asia",
+    "country": "Mongolia",
+    "city": "Bayan-Ölgii, Govi-Altai, Hovd, Uvs, Zavkhan",
+    "timezone": "Asia/Hovd",
+    "flagEmoji": "🇲🇳",
+    "coordinates": [
+      48.0167,
+      91.65
+    ]
+  },
+  {
+    "continent": "Asia",
+    "country": "Mongolia",
+    "city": "Dornod, Sükhbaatar",
+    "timezone": "Asia/Choibalsan",
+    "flagEmoji": "🇲🇳",
+    "coordinates": [
+      48.0667,
+      114.5
+    ]
+  },
+  {
+    "continent": "Asia",
+    "country": "Mongolia",
+    "city": "most of Mongolia",
+    "timezone": "Asia/Ulaanbaatar",
+    "flagEmoji": "🇲🇳",
+    "coordinates": [
+      47.9167,
+      106.8833
+    ]
+  },
+  {
+    "continent": "Asia",
+    "country": "Myanmar (Burma)",
+    "city": "Yangon",
+    "timezone": "Asia/Yangon",
+    "flagEmoji": "🇲🇲",
+    "coordinates": [
+      16.7833,
+      96.1667
+    ]
+  },
+  {
+    "continent": "Asia",
+    "country": "Nepal",
+    "city": "Kathmandu",
+    "timezone": "Asia/Kathmandu",
+    "flagEmoji": "🇳🇵",
+    "coordinates": [
+      27.7167,
+      85.3167
+    ]
+  },
+  {
+    "continent": "Asia",
+    "country": "Oman",
+    "city": "Crozet",
+    "timezone": "Asia/Dubai",
+    "flagEmoji": "🇴🇲",
+    "coordinates": [
+      25.3,
+      55.3
+    ]
+  },
+  {
+    "continent": "Asia",
+    "country": "Pakistan",
+    "city": "Karachi",
+    "timezone": "Asia/Karachi",
+    "flagEmoji": "🇵🇰",
+    "coordinates": [
+      24.8667,
+      67.05
+    ]
+  },
+  {
+    "continent": "Asia",
+    "country": "Palestine",
+    "city": "Gaza Strip",
+    "timezone": "Asia/Gaza",
+    "flagEmoji": "🇵🇸",
+    "coordinates": [
+      31.5,
+      34.4667
+    ]
+  },
+  {
+    "continent": "Asia",
+    "country": "Palestine",
+    "city": "West Bank",
+    "timezone": "Asia/Hebron",
+    "flagEmoji": "🇵🇸",
+    "coordinates": [
+      31.5333,
+      35.095
+    ]
+  },
+  {
+    "continent": "Asia",
+    "country": "Philippines",
+    "city": "Manila",
+    "timezone": "Asia/Manila",
+    "flagEmoji": "🇵🇭",
+    "coordinates": [
+      14.5833,
+      121.0
+    ]
+  },
+  {
+    "continent": "Asia",
+    "country": "Qatar",
+    "city": "Qatar",
+    "timezone": "Asia/Qatar",
+    "flagEmoji": "🇶🇦",
+    "coordinates": [
+      25.2833,
+      51.5333
+    ]
+  },
+  {
+    "continent": "Asia",
+    "country": "Russia",
+    "city": "MSK+02 - Urals",
+    "timezone": "Asia/Yekaterinburg",
+    "flagEmoji": "🇷🇺",
+    "coordinates": [
+      56.85,
+      60.6
+    ]
+  },
+  {
+    "continent": "Asia",
+    "country": "Russia",
+    "city": "MSK+03 - Omsk",
+    "timezone": "Asia/Omsk",
+    "flagEmoji": "🇷🇺",
+    "coordinates": [
+      55.0,
+      73.4
+    ]
+  },
+  {
+    "continent": "Asia",
+    "country": "Russia",
+    "city": "MSK+04 - Altai",
+    "timezone": "Asia/Barnaul",
+    "flagEmoji": "🇷🇺",
+    "coordinates": [
+      53.3667,
+      83.75
+    ]
+  },
+  {
+    "continent": "Asia",
+    "country": "Russia",
+    "city": "MSK+04 - Kemerovo",
+    "timezone": "Asia/Novokuznetsk",
+    "flagEmoji": "🇷🇺",
+    "coordinates": [
+      53.75,
+      87.1167
+    ]
+  },
+  {
+    "continent": "Asia",
+    "country": "Russia",
+    "city": "MSK+04 - Krasnoyarsk area",
+    "timezone": "Asia/Krasnoyarsk",
+    "flagEmoji": "🇷🇺",
+    "coordinates": [
+      56.0167,
+      92.8333
+    ]
+  },
+  {
+    "continent": "Asia",
+    "country": "Russia",
+    "city": "MSK+04 - Novosibirsk",
+    "timezone": "Asia/Novosibirsk",
+    "flagEmoji": "🇷🇺",
+    "coordinates": [
+      55.0333,
+      82.9167
+    ]
+  },
+  {
+    "continent": "Asia",
+    "country": "Russia",
+    "city": "MSK+04 - Tomsk",
+    "timezone": "Asia/Tomsk",
+    "flagEmoji": "🇷🇺",
+    "coordinates": [
+      56.5,
+      84.9667
+    ]
+  },
+  {
+    "continent": "Asia",
+    "country": "Russia",
+    "city": "MSK+05 - Irkutsk, Buryatia",
+    "timezone": "Asia/Irkutsk",
+    "flagEmoji": "🇷🇺",
+    "coordinates": [
+      52.2667,
+      104.3333
+    ]
+  },
+  {
+    "continent": "Asia",
+    "country": "Russia",
+    "city": "MSK+06 - Lena River",
+    "timezone": "Asia/Yakutsk",
+    "flagEmoji": "🇷🇺",
+    "coordinates": [
+      62.0,
+      129.6667
+    ]
+  },
+  {
+    "continent": "Asia",
+    "country": "Russia",
+    "city": "MSK+06 - Tomponsky, Ust-Maysky",
+    "timezone": "Asia/Khandyga",
+    "flagEmoji": "🇷🇺",
+    "coordinates": [
+      62.6564,
+      135.5539
+    ]
+  },
+  {
+    "continent": "Asia",
+    "country": "Russia",
+    "city": "MSK+06 - Zabaykalsky",
+    "timezone": "Asia/Chita",
+    "flagEmoji": "🇷🇺",
+    "coordinates": [
+      52.05,
+      113.4667
+    ]
+  },
+  {
+    "continent": "Asia",
+    "country": "Russia",
+    "city": "MSK+07 - Amur River",
+    "timezone": "Asia/Vladivostok",
+    "flagEmoji": "🇷🇺",
+    "coordinates": [
+      43.1667,
+      131.9333
+    ]
+  },
+  {
+    "continent": "Asia",
+    "country": "Russia",
+    "city": "MSK+07 - Oymyakonsky",
+    "timezone": "Asia/Ust-Nera",
+    "flagEmoji": "🇷🇺",
+    "coordinates": [
+      64.5603,
+      143.2267
+    ]
+  },
+  {
+    "continent": "Asia",
+    "country": "Russia",
+    "city": "MSK+08 - Magadan",
+    "timezone": "Asia/Magadan",
+    "flagEmoji": "🇷🇺",
+    "coordinates": [
+      59.5667,
+      150.8
+    ]
+  },
+  {
+    "continent": "Asia",
+    "country": "Russia",
+    "city": "MSK+08 - Sakha",
+    "timezone": "Asia/Srednekolymsk",
+    "flagEmoji": "🇷🇺",
+    "coordinates": [
+      67.4667,
+      153.7167
+    ]
+  },
+  {
+    "continent": "Asia",
+    "country": "Russia",
+    "city": "MSK+08 - Sakhalin Island",
+    "timezone": "Asia/Sakhalin",
+    "flagEmoji": "🇷🇺",
+    "coordinates": [
+      46.9667,
+      142.7
+    ]
+  },
+  {
+    "continent": "Asia",
+    "country": "Russia",
+    "city": "MSK+09 - Bering Sea",
+    "timezone": "Asia/Anadyr",
+    "flagEmoji": "🇷🇺",
+    "coordinates": [
+      64.75,
+      177.4833
+    ]
+  },
+  {
+    "continent": "Asia",
+    "country": "Russia",
+    "city": "MSK+09 - Kamchatka",
+    "timezone": "Asia/Kamchatka",
+    "flagEmoji": "🇷🇺",
+    "coordinates": [
+      53.0167,
+      158.65
+    ]
+  },
+  {
+    "continent": "Asia",
+    "country": "Réunion",
+    "city": "Crozet",
+    "timezone": "Asia/Dubai",
+    "flagEmoji": "🇷🇪",
+    "coordinates": [
+      25.3,
+      55.3
+    ]
+  },
+  {
+    "continent": "Asia",
+    "country": "Saudi Arabia",
+    "city": "Syowa",
+    "timezone": "Asia/Riyadh",
+    "flagEmoji": "🇸🇦",
+    "coordinates": [
+      24.6333,
+      46.7167
+    ]
+  },
+  {
+    "continent": "Asia",
+    "country": "Seychelles",
+    "city": "Crozet",
+    "timezone": "Asia/Dubai",
+    "flagEmoji": "🇸🇨",
+    "coordinates": [
+      25.3,
+      55.3
+    ]
+  },
+  {
+    "continent": "Asia",
+    "country": "Singapore",
+    "city": "peninsular Malaysia",
+    "timezone": "Asia/Singapore",
+    "flagEmoji": "🇸🇬",
+    "coordinates": [
+      1.2833,
+      103.85
+    ]
+  },
+  {
+    "continent": "Asia",
+    "country": "Sri Lanka",
+    "city": "Colombo",
+    "timezone": "Asia/Colombo",
+    "flagEmoji": "🇱🇰",
+    "coordinates": [
+      6.9333,
+      79.85
+    ]
+  },
+  {
+    "continent": "Asia",
+    "country": "Syria",
+    "city": "Damascus",
+    "timezone": "Asia/Damascus",
+    "flagEmoji": "🇸🇾",
+    "coordinates": [
+      33.5,
+      36.3
+    ]
+  },
+  {
+    "continent": "Asia",
+    "country": "Taiwan",
+    "city": "Taipei",
+    "timezone": "Asia/Taipei",
+    "flagEmoji": "🇹🇼",
+    "coordinates": [
+      25.05,
+      121.5
+    ]
+  },
+  {
+    "continent": "Asia",
+    "country": "Tajikistan",
+    "city": "Dushanbe",
+    "timezone": "Asia/Dushanbe",
+    "flagEmoji": "🇹🇯",
+    "coordinates": [
+      38.5833,
+      68.8
+    ]
+  },
+  {
+    "continent": "Asia",
+    "country": "Thailand",
+    "city": "north Vietnam",
+    "timezone": "Asia/Bangkok",
+    "flagEmoji": "🇹🇭",
+    "coordinates": [
+      13.75,
+      100.5167
+    ]
+  },
+  {
+    "continent": "Asia",
+    "country": "Turkmenistan",
+    "city": "Ashgabat",
+    "timezone": "Asia/Ashgabat",
+    "flagEmoji": "🇹🇲",
+    "coordinates": [
+      37.95,
+      58.3833
+    ]
+  },
+  {
+    "continent": "Asia",
+    "country": "United Arab Emirates",
+    "city": "Crozet",
+    "timezone": "Asia/Dubai",
+    "flagEmoji": "🇦🇪",
+    "coordinates": [
+      25.3,
+      55.3
+    ]
+  },
+  {
+    "continent": "Asia",
+    "country": "Uzbekistan",
+    "city": "Uzbekistan",
+    "timezone": "Asia/Samarkand",
+    "flagEmoji": "🇺🇿",
+    "coordinates": [
+      39.6667,
+      66.8
+    ]
+  },
+  {
+    "continent": "Asia",
+    "country": "Uzbekistan",
+    "city": "Uzbekistan",
+    "timezone": "Asia/Tashkent",
+    "flagEmoji": "🇺🇿",
+    "coordinates": [
+      41.3333,
+      69.3
+    ]
+  },
+  {
+    "continent": "Asia",
+    "country": "Vietnam",
+    "city": "north Vietnam",
+    "timezone": "Asia/Bangkok",
+    "flagEmoji": "🇻🇳",
+    "coordinates": [
+      13.75,
+      100.5167
+    ]
+  },
+  {
+    "continent": "Asia",
+    "country": "Vietnam",
+    "city": "south Vietnam",
+    "timezone": "Asia/Ho_Chi_Minh",
+    "flagEmoji": "🇻🇳",
+    "coordinates": [
+      10.75,
+      106.6667
+    ]
+  },
+  {
+    "continent": "Asia",
+    "country": "Yemen",
+    "city": "Syowa",
+    "timezone": "Asia/Riyadh",
+    "flagEmoji": "🇾🇪",
+    "coordinates": [
+      24.6333,
+      46.7167
+    ]
+  },
+  {
+    "continent": "Europe",
+    "country": "Albania",
+    "city": "Tirane",
+    "timezone": "Europe/Tirane",
+    "flagEmoji": "🇦🇱",
+    "coordinates": [
+      41.3333,
+      19.8333
+    ]
+  },
+  {
+    "continent": "Europe",
+    "country": "Andorra",
+    "city": "Andorra",
+    "timezone": "Europe/Andorra",
+    "flagEmoji": "🇦🇩",
+    "coordinates": [
+      42.5,
+      1.5167
+    ]
+  },
+  {
+    "continent": "Europe",
+    "country": "Austria",
+    "city": "Vienna",
+    "timezone": "Europe/Vienna",
+    "flagEmoji": "🇦🇹",
+    "coordinates": [
+      48.2167,
+      16.3333
+    ]
+  },
+  {
+    "continent": "Europe",
+    "country": "Belarus",
+    "city": "Minsk",
+    "timezone": "Europe/Minsk",
+    "flagEmoji": "🇧🇾",
+    "coordinates": [
+      53.9,
+      27.5667
+    ]
+  },
+  {
+    "continent": "Europe",
+    "country": "Belgium",
+    "city": "Brussels",
+    "timezone": "Europe/Brussels",
+    "flagEmoji": "🇧🇪",
+    "coordinates": [
+      50.8333,
+      4.3333
+    ]
+  },
+  {
+    "continent": "Europe",
+    "country": "Bosnia & Herzegovina",
+    "city": "Belgrade",
+    "timezone": "Europe/Belgrade",
+    "flagEmoji": "🇧🇦",
+    "coordinates": [
+      44.8333,
+      20.5
+    ]
+  },
+  {
+    "continent": "Europe",
+    "country": "Britain (UK)",
+    "city": "London",
+    "timezone": "Europe/London",
+    "flagEmoji": "🇬🇧",
+    "coordinates": [
+      51.5083,
+      -0.1253
+    ]
+  },
+  {
+    "continent": "Europe",
+    "country": "Bulgaria",
+    "city": "Sofia",
+    "timezone": "Europe/Sofia",
+    "flagEmoji": "🇧🇬",
+    "coordinates": [
+      42.6833,
+      23.3167
+    ]
+  },
+  {
+    "continent": "Europe",
+    "country": "Croatia",
+    "city": "Belgrade",
+    "timezone": "Europe/Belgrade",
+    "flagEmoji": "🇭🇷",
+    "coordinates": [
+      44.8333,
+      20.5
+    ]
+  },
+  {
+    "continent": "Europe",
+    "country": "Czech Republic",
+    "city": "Prague",
+    "timezone": "Europe/Prague",
+    "flagEmoji": "🇨🇿",
+    "coordinates": [
+      50.0833,
+      14.4333
+    ]
+  },
+  {
+    "continent": "Europe",
+    "country": "Denmark",
+    "city": "most of Germany",
+    "timezone": "Europe/Berlin",
+    "flagEmoji": "🇩🇰",
+    "coordinates": [
+      52.5,
+      13.3667
+    ]
+  },
+  {
+    "continent": "Europe",
+    "country": "Estonia",
+    "city": "Tallinn",
+    "timezone": "Europe/Tallinn",
+    "flagEmoji": "🇪🇪",
+    "coordinates": [
+      59.4167,
+      24.75
+    ]
+  },
+  {
+    "continent": "Europe",
+    "country": "Finland",
+    "city": "Helsinki",
+    "timezone": "Europe/Helsinki",
+    "flagEmoji": "🇫🇮",
+    "coordinates": [
+      60.1667,
+      24.9667
+    ]
+  },
+  {
+    "continent": "Europe",
+    "country": "France",
+    "city": "Paris",
+    "timezone": "Europe/Paris",
+    "flagEmoji": "🇫🇷",
+    "coordinates": [
+      48.8667,
+      2.3333
+    ]
+  },
+  {
+    "continent": "Europe",
+    "country": "Germany",
+    "city": "Büsingen",
+    "timezone": "Europe/Zurich",
+    "flagEmoji": "🇩🇪",
+    "coordinates": [
+      47.3833,
+      8.5333
+    ]
+  },
+  {
+    "continent": "Europe",
+    "country": "Germany",
+    "city": "most of Germany",
+    "timezone": "Europe/Berlin",
+    "flagEmoji": "🇩🇪",
+    "coordinates": [
+      52.5,
+      13.3667
+    ]
+  },
+  {
+    "continent": "Europe",
+    "country": "Gibraltar",
+    "city": "Gibraltar",
+    "timezone": "Europe/Gibraltar",
+    "flagEmoji": "🇬🇮",
+    "coordinates": [
+      36.1333,
+      -5.35
+    ]
+  },
+  {
+    "continent": "Europe",
+    "country": "Greece",
+    "city": "Athens",
+    "timezone": "Europe/Athens",
+    "flagEmoji": "🇬🇷",
+    "coordinates": [
+      37.9667,
+      23.7167
+    ]
+  },
+  {
+    "continent": "Europe",
+    "country": "Guernsey",
+    "city": "London",
+    "timezone": "Europe/London",
+    "flagEmoji": "🇬🇬",
+    "coordinates": [
+      51.5083,
+      -0.1253
+    ]
+  },
+  {
+    "continent": "Europe",
+    "country": "Hungary",
+    "city": "Budapest",
+    "timezone": "Europe/Budapest",
+    "flagEmoji": "🇭🇺",
+    "coordinates": [
+      47.5,
+      19.0833
+    ]
+  },
+  {
+    "continent": "Europe",
+    "country": "Ireland",
+    "city": "Dublin",
+    "timezone": "Europe/Dublin",
+    "flagEmoji": "🇮🇪",
+    "coordinates": [
+      53.3333,
+      -6.25
+    ]
+  },
+  {
+    "continent": "Europe",
+    "country": "Isle of Man",
+    "city": "London",
+    "timezone": "Europe/London",
+    "flagEmoji": "🇮🇲",
+    "coordinates": [
+      51.5083,
+      -0.1253
+    ]
+  },
+  {
+    "continent": "Europe",
+    "country": "Italy",
+    "city": "Rome",
+    "timezone": "Europe/Rome",
+    "flagEmoji": "🇮🇹",
+    "coordinates": [
+      41.9,
+      12.4833
+    ]
+  },
+  {
+    "continent": "Europe",
+    "country": "Jersey",
+    "city": "London",
+    "timezone": "Europe/London",
+    "flagEmoji": "🇯🇪",
+    "coordinates": [
+      51.5083,
+      -0.1253
+    ]
+  },
+  {
+    "continent": "Europe",
+    "country": "Latvia",
+    "city": "Riga",
+    "timezone": "Europe/Riga",
+    "flagEmoji": "🇱🇻",
+    "coordinates": [
+      56.95,
+      24.1
+    ]
+  },
+  {
+    "continent": "Europe",
+    "country": "Liechtenstein",
+    "city": "Büsingen",
+    "timezone": "Europe/Zurich",
+    "flagEmoji": "🇱🇮",
+    "coordinates": [
+      47.3833,
+      8.5333
+    ]
+  },
+  {
+    "continent": "Europe",
+    "country": "Lithuania",
+    "city": "Vilnius",
+    "timezone": "Europe/Vilnius",
+    "flagEmoji": "🇱🇹",
+    "coordinates": [
+      54.6833,
+      25.3167
+    ]
+  },
+  {
+    "continent": "Europe",
+    "country": "Luxembourg",
+    "city": "Brussels",
+    "timezone": "Europe/Brussels",
+    "flagEmoji": "🇱🇺",
+    "coordinates": [
+      50.8333,
+      4.3333
+    ]
+  },
+  {
+    "continent": "Europe",
+    "country": "Malta",
+    "city": "Malta",
+    "timezone": "Europe/Malta",
+    "flagEmoji": "🇲🇹",
+    "coordinates": [
+      35.9,
+      14.5167
+    ]
+  },
+  {
+    "continent": "Europe",
+    "country": "Moldova",
+    "city": "Chisinau",
+    "timezone": "Europe/Chisinau",
+    "flagEmoji": "🇲🇩",
+    "coordinates": [
+      47.0,
+      28.8333
+    ]
+  },
+  {
+    "continent": "Europe",
+    "country": "Monaco",
+    "city": "Paris",
+    "timezone": "Europe/Paris",
+    "flagEmoji": "🇲🇨",
+    "coordinates": [
+      48.8667,
+      2.3333
+    ]
+  },
+  {
+    "continent": "Europe",
+    "country": "Montenegro",
+    "city": "Belgrade",
+    "timezone": "Europe/Belgrade",
+    "flagEmoji": "🇲🇪",
+    "coordinates": [
+      44.8333,
+      20.5
+    ]
+  },
+  {
+    "continent": "Europe",
+    "country": "Netherlands",
+    "city": "Brussels",
+    "timezone": "Europe/Brussels",
+    "flagEmoji": "🇳🇱",
+    "coordinates": [
+      50.8333,
+      4.3333
+    ]
+  },
+  {
+    "continent": "Europe",
+    "country": "North Macedonia",
+    "city": "Belgrade",
+    "timezone": "Europe/Belgrade",
+    "flagEmoji": "🇲🇰",
+    "coordinates": [
+      44.8333,
+      20.5
+    ]
+  },
+  {
+    "continent": "Europe",
+    "country": "Norway",
+    "city": "most of Germany",
+    "timezone": "Europe/Berlin",
+    "flagEmoji": "🇳🇴",
+    "coordinates": [
+      52.5,
+      13.3667
+    ]
+  },
+  {
+    "continent": "Europe",
+    "country": "Poland",
+    "city": "Warsaw",
+    "timezone": "Europe/Warsaw",
+    "flagEmoji": "🇵🇱",
+    "coordinates": [
+      52.25,
+      21.0
+    ]
+  },
+  {
+    "continent": "Europe",
+    "country": "Portugal",
+    "city": "Portugal",
+    "timezone": "Europe/Lisbon",
+    "flagEmoji": "🇵🇹",
+    "coordinates": [
+      38.7167,
+      -9.1333
+    ]
+  },
+  {
+    "continent": "Europe",
+    "country": "Romania",
+    "city": "Bucharest",
+    "timezone": "Europe/Bucharest",
+    "flagEmoji": "🇷🇴",
+    "coordinates": [
+      44.4333,
+      26.1
+    ]
+  },
+  {
+    "continent": "Europe",
+    "country": "Russia",
+    "city": "Crimea",
+    "timezone": "Europe/Simferopol",
+    "flagEmoji": "🇷🇺",
+    "coordinates": [
+      44.95,
+      34.1
+    ]
+  },
+  {
+    "continent": "Europe",
+    "country": "Russia",
+    "city": "MSK+00 - Kirov",
+    "timezone": "Europe/Kirov",
+    "flagEmoji": "🇷🇺",
+    "coordinates": [
+      58.6,
+      49.65
+    ]
+  },
+  {
+    "continent": "Europe",
+    "country": "Russia",
+    "city": "MSK+00 - Moscow area",
+    "timezone": "Europe/Moscow",
+    "flagEmoji": "🇷🇺",
+    "coordinates": [
+      55.7558,
+      37.6178
+    ]
+  },
+  {
+    "continent": "Europe",
+    "country": "Russia",
+    "city": "MSK+00 - Volgograd",
+    "timezone": "Europe/Volgograd",
+    "flagEmoji": "🇷🇺",
+    "coordinates": [
+      48.7333,
+      44.4167
+    ]
+  },
+  {
+    "continent": "Europe",
+    "country": "Russia",
+    "city": "MSK+01 - Astrakhan",
+    "timezone": "Europe/Astrakhan",
+    "flagEmoji": "🇷🇺",
+    "coordinates": [
+      46.35,
+      48.05
+    ]
+  },
+  {
+    "continent": "Europe",
+    "country": "Russia",
+    "city": "MSK+01 - Samara, Udmurtia",
+    "timezone": "Europe/Samara",
+    "flagEmoji": "🇷🇺",
+    "coordinates": [
+      53.2,
+      50.15
+    ]
+  },
+  {
+    "continent": "Europe",
+    "country": "Russia",
+    "city": "MSK+01 - Saratov",
+    "timezone": "Europe/Saratov",
+    "flagEmoji": "🇷🇺",
+    "coordinates": [
+      51.5667,
+      46.0333
+    ]
+  },
+  {
+    "continent": "Europe",
+    "country": "Russia",
+    "city": "MSK+01 - Ulyanovsk",
+    "timezone": "Europe/Ulyanovsk",
+    "flagEmoji": "🇷🇺",
+    "coordinates": [
+      54.3333,
+      48.4
+    ]
+  },
+  {
+    "continent": "Europe",
+    "country": "Russia",
+    "city": "MSK-01 - Kaliningrad",
+    "timezone": "Europe/Kaliningrad",
+    "flagEmoji": "🇷🇺",
+    "coordinates": [
+      54.7167,
+      20.5
+    ]
+  },
+  {
+    "continent": "Europe",
+    "country": "San Marino",
+    "city": "Rome",
+    "timezone": "Europe/Rome",
+    "flagEmoji": "🇸🇲",
+    "coordinates": [
+      41.9,
+      12.4833
+    ]
+  },
+  {
+    "continent": "Europe",
+    "country": "Serbia",
+    "city": "Belgrade",
+    "timezone": "Europe/Belgrade",
+    "flagEmoji": "🇷🇸",
+    "coordinates": [
+      44.8333,
+      20.5
+    ]
+  },
+  {
+    "continent": "Europe",
+    "country": "Slovakia",
+    "city": "Prague",
+    "timezone": "Europe/Prague",
+    "flagEmoji": "🇸🇰",
+    "coordinates": [
+      50.0833,
+      14.4333
+    ]
+  },
+  {
+    "continent": "Europe",
+    "country": "Slovenia",
+    "city": "Belgrade",
+    "timezone": "Europe/Belgrade",
+    "flagEmoji": "🇸🇮",
+    "coordinates": [
+      44.8333,
+      20.5
+    ]
+  },
+  {
+    "continent": "Europe",
+    "country": "Spain",
+    "city": "Spain",
+    "timezone": "Europe/Madrid",
+    "flagEmoji": "🇪🇸",
+    "coordinates": [
+      40.4,
+      -3.6833
+    ]
+  },
+  {
+    "continent": "Europe",
+    "country": "Svalbard & Jan Mayen",
+    "city": "most of Germany",
+    "timezone": "Europe/Berlin",
+    "flagEmoji": "🇸🇯",
+    "coordinates": [
+      52.5,
+      13.3667
+    ]
+  },
+  {
+    "continent": "Europe",
+    "country": "Sweden",
+    "city": "most of Germany",
+    "timezone": "Europe/Berlin",
+    "flagEmoji": "🇸🇪",
+    "coordinates": [
+      52.5,
+      13.3667
+    ]
+  },
+  {
+    "continent": "Europe",
+    "country": "Switzerland",
+    "city": "Büsingen",
+    "timezone": "Europe/Zurich",
+    "flagEmoji": "🇨🇭",
+    "coordinates": [
+      47.3833,
+      8.5333
+    ]
+  },
+  {
+    "continent": "Europe",
+    "country": "Turkey",
+    "city": "Istanbul",
+    "timezone": "Europe/Istanbul",
+    "flagEmoji": "🇹🇷",
+    "coordinates": [
+      41.0167,
+      28.9667
+    ]
+  },
+  {
+    "continent": "Europe",
+    "country": "Ukraine",
+    "city": "Crimea",
+    "timezone": "Europe/Simferopol",
+    "flagEmoji": "🇺🇦",
+    "coordinates": [
+      44.95,
+      34.1
+    ]
+  },
+  {
+    "continent": "Europe",
+    "country": "Ukraine",
+    "city": "most of Ukraine",
+    "timezone": "Europe/Kyiv",
+    "flagEmoji": "🇺🇦",
+    "coordinates": [
+      50.4333,
+      30.5167
+    ]
+  },
+  {
+    "continent": "Europe",
+    "country": "Vatican City",
+    "city": "Rome",
+    "timezone": "Europe/Rome",
+    "flagEmoji": "🇻🇦",
+    "coordinates": [
+      41.9,
+      12.4833
+    ]
+  },
+  {
+    "continent": "Europe",
+    "country": "Åland Islands",
+    "city": "Helsinki",
+    "timezone": "Europe/Helsinki",
+    "flagEmoji": "🇦🇽",
+    "coordinates": [
+      60.1667,
+      24.9667
+    ]
+  },
+  {
+    "continent": "Oceania",
+    "country": "Antarctica",
+    "city": "New Zealand time",
+    "timezone": "Pacific/Auckland",
+    "flagEmoji": "🇦🇶",
+    "coordinates": [
+      -36.8667,
+      174.7667
+    ]
+  },
+  {
+    "continent": "Oceania",
+    "country": "Antarctica",
+    "city": "Papua New Guinea",
+    "timezone": "Pacific/Port_Moresby",
+    "flagEmoji": "🇦🇶",
+    "coordinates": [
+      -9.5,
+      147.1667
+    ]
+  },
+  {
+    "continent": "Oceania",
+    "country": "Australia",
+    "city": "Lord Howe Island",
+    "timezone": "Australia/Lord_Howe",
+    "flagEmoji": "🇦🇺",
+    "coordinates": [
+      -31.55,
+      159.0833
+    ]
+  },
+  {
+    "continent": "Oceania",
+    "country": "Australia",
+    "city": "New South Wales",
+    "timezone": "Australia/Broken_Hill",
+    "flagEmoji": "🇦🇺",
+    "coordinates": [
+      -31.95,
+      141.45
+    ]
+  },
+  {
+    "continent": "Oceania",
+    "country": "Australia",
+    "city": "New South Wales",
+    "timezone": "Australia/Sydney",
+    "flagEmoji": "🇦🇺",
+    "coordinates": [
+      -33.8667,
+      151.2167
+    ]
+  },
+  {
+    "continent": "Oceania",
+    "country": "Australia",
+    "city": "Northern Territory",
+    "timezone": "Australia/Darwin",
+    "flagEmoji": "🇦🇺",
+    "coordinates": [
+      -12.4667,
+      130.8333
+    ]
+  },
+  {
+    "continent": "Oceania",
+    "country": "Australia",
+    "city": "Queensland",
+    "timezone": "Australia/Brisbane",
+    "flagEmoji": "🇦🇺",
+    "coordinates": [
+      -27.4667,
+      153.0333
+    ]
+  },
+  {
+    "continent": "Oceania",
+    "country": "Australia",
+    "city": "Queensland",
+    "timezone": "Australia/Lindeman",
+    "flagEmoji": "🇦🇺",
+    "coordinates": [
+      -20.2667,
+      149.0
+    ]
+  },
+  {
+    "continent": "Oceania",
+    "country": "Australia",
+    "city": "South Australia",
+    "timezone": "Australia/Adelaide",
+    "flagEmoji": "🇦🇺",
+    "coordinates": [
+      -34.9167,
+      138.5833
+    ]
+  },
+  {
+    "continent": "Oceania",
+    "country": "Australia",
+    "city": "Tasmania",
+    "timezone": "Australia/Hobart",
+    "flagEmoji": "🇦🇺",
+    "coordinates": [
+      -42.8833,
+      147.3167
+    ]
+  },
+  {
+    "continent": "Oceania",
+    "country": "Australia",
+    "city": "Victoria",
+    "timezone": "Australia/Melbourne",
+    "flagEmoji": "🇦🇺",
+    "coordinates": [
+      -37.8167,
+      144.9667
+    ]
+  },
+  {
+    "continent": "Oceania",
+    "country": "Australia",
+    "city": "Western Australia",
+    "timezone": "Australia/Eucla",
+    "flagEmoji": "🇦🇺",
+    "coordinates": [
+      -31.7167,
+      128.8667
+    ]
+  },
+  {
+    "continent": "Oceania",
+    "country": "Australia",
+    "city": "Western Australia",
+    "timezone": "Australia/Perth",
+    "flagEmoji": "🇦🇺",
+    "coordinates": [
+      -31.95,
+      115.85
+    ]
+  },
+  {
+    "continent": "Oceania",
+    "country": "Chile",
+    "city": "Easter Island",
+    "timezone": "Pacific/Easter",
+    "flagEmoji": "🇨🇱",
+    "coordinates": [
+      -27.15,
+      -109.4333
+    ]
+  },
+  {
+    "continent": "Oceania",
+    "country": "Cook Islands",
+    "city": "Rarotonga",
+    "timezone": "Pacific/Rarotonga",
+    "flagEmoji": "🇨🇰",
+    "coordinates": [
+      -21.2333,
+      -159.7667
+    ]
+  },
+  {
+    "continent": "Oceania",
+    "country": "Ecuador",
+    "city": "Galápagos Islands",
+    "timezone": "Pacific/Galapagos",
+    "flagEmoji": "🇪🇨",
+    "coordinates": [
+      -0.9,
+      -89.6
+    ]
+  },
+  {
+    "continent": "Oceania",
+    "country": "Fiji",
+    "city": "Fiji",
+    "timezone": "Pacific/Fiji",
+    "flagEmoji": "🇫🇯",
+    "coordinates": [
+      -18.1333,
+      178.4167
+    ]
+  },
+  {
+    "continent": "Oceania",
+    "country": "French Polynesia",
+    "city": "Gambier Islands",
+    "timezone": "Pacific/Gambier",
+    "flagEmoji": "🇵🇫",
+    "coordinates": [
+      -23.1333,
+      -134.95
+    ]
+  },
+  {
+    "continent": "Oceania",
+    "country": "French Polynesia",
+    "city": "Marquesas Islands",
+    "timezone": "Pacific/Marquesas",
+    "flagEmoji": "🇵🇫",
+    "coordinates": [
+      -9.0,
+      -139.5
+    ]
+  },
+  {
+    "continent": "Oceania",
+    "country": "French Polynesia",
+    "city": "Society Islands",
+    "timezone": "Pacific/Tahiti",
+    "flagEmoji": "🇵🇫",
+    "coordinates": [
+      -17.5333,
+      -149.5667
+    ]
+  },
+  {
+    "continent": "Oceania",
+    "country": "Guam",
+    "city": "Guam",
+    "timezone": "Pacific/Guam",
+    "flagEmoji": "🇬🇺",
+    "coordinates": [
+      13.4667,
+      144.75
+    ]
+  },
+  {
+    "continent": "Oceania",
+    "country": "Kiribati",
+    "city": "Gilberts, Marshalls, Wake",
+    "timezone": "Pacific/Tarawa",
+    "flagEmoji": "🇰🇮",
+    "coordinates": [
+      1.4167,
+      173.0
+    ]
+  },
+  {
+    "continent": "Oceania",
+    "country": "Kiribati",
+    "city": "Line Islands",
+    "timezone": "Pacific/Kiritimati",
+    "flagEmoji": "🇰🇮",
+    "coordinates": [
+      1.8667,
+      -157.3333
+    ]
+  },
+  {
+    "continent": "Oceania",
+    "country": "Kiribati",
+    "city": "Phoenix Islands",
+    "timezone": "Pacific/Kanton",
+    "flagEmoji": "🇰🇮",
+    "coordinates": [
+      -2.7833,
+      -171.7167
+    ]
+  },
+  {
+    "continent": "Oceania",
+    "country": "Marshall Islands",
+    "city": "Gilberts, Marshalls, Wake",
+    "timezone": "Pacific/Tarawa",
+    "flagEmoji": "🇲🇭",
+    "coordinates": [
+      1.4167,
+      173.0
+    ]
+  },
+  {
+    "continent": "Oceania",
+    "country": "Marshall Islands",
+    "city": "Kwajalein",
+    "timezone": "Pacific/Kwajalein",
+    "flagEmoji": "🇲🇭",
+    "coordinates": [
+      9.0833,
+      167.3333
+    ]
+  },
+  {
+    "continent": "Oceania",
+    "country": "Micronesia",
+    "city": "Kosrae",
+    "timezone": "Pacific/Kosrae",
+    "flagEmoji": "🇫🇲",
+    "coordinates": [
+      5.3167,
+      162.9833
+    ]
+  },
+  {
+    "continent": "Oceania",
+    "country": "Micronesia",
+    "city": "Papua New Guinea",
+    "timezone": "Pacific/Port_Moresby",
+    "flagEmoji": "🇫🇲",
+    "coordinates": [
+      -9.5,
+      147.1667
+    ]
+  },
+  {
+    "continent": "Oceania",
+    "country": "Micronesia",
+    "city": "Pohnpei",
+    "timezone": "Pacific/Guadalcanal",
+    "flagEmoji": "🇫🇲",
+    "coordinates": [
+      -9.5333,
+      160.2
+    ]
+  },
+  {
+    "continent": "Oceania",
+    "country": "Nauru",
+    "city": "Nauru",
+    "timezone": "Pacific/Nauru",
+    "flagEmoji": "🇳🇷",
+    "coordinates": [
+      -0.5167,
+      166.9167
+    ]
+  },
+  {
+    "continent": "Oceania",
+    "country": "New Caledonia",
+    "city": "Noumea",
+    "timezone": "Pacific/Noumea",
+    "flagEmoji": "🇳🇨",
+    "coordinates": [
+      -22.2667,
+      166.45
+    ]
+  },
+  {
+    "continent": "Oceania",
+    "country": "New Zealand",
+    "city": "Chatham Islands",
+    "timezone": "Pacific/Chatham",
+    "flagEmoji": "🇳🇿",
+    "coordinates": [
+      -43.95,
+      -176.55
+    ]
+  },
+  {
+    "continent": "Oceania",
+    "country": "New Zealand",
+    "city": "New Zealand time",
+    "timezone": "Pacific/Auckland",
+    "flagEmoji": "🇳🇿",
+    "coordinates": [
+      -36.8667,
+      174.7667
+    ]
+  },
+  {
+    "continent": "Oceania",
+    "country": "Niue",
+    "city": "Niue",
+    "timezone": "Pacific/Niue",
+    "flagEmoji": "🇳🇺",
+    "coordinates": [
+      -19.0167,
+      -169.9167
+    ]
+  },
+  {
+    "continent": "Oceania",
+    "country": "Norfolk Island",
+    "city": "Norfolk",
+    "timezone": "Pacific/Norfolk",
+    "flagEmoji": "🇳🇫",
+    "coordinates": [
+      -29.05,
+      167.9667
+    ]
+  },
+  {
+    "continent": "Oceania",
+    "country": "Northern Mariana Islands",
+    "city": "Guam",
+    "timezone": "Pacific/Guam",
+    "flagEmoji": "🇲🇵",
+    "coordinates": [
+      13.4667,
+      144.75
+    ]
+  },
+  {
+    "continent": "Oceania",
+    "country": "Palau",
+    "city": "Palau",
+    "timezone": "Pacific/Palau",
+    "flagEmoji": "🇵🇼",
+    "coordinates": [
+      7.3333,
+      134.4833
+    ]
+  },
+  {
+    "continent": "Oceania",
+    "country": "Papua New Guinea",
+    "city": "Bougainville",
+    "timezone": "Pacific/Bougainville",
+    "flagEmoji": "🇵🇬",
+    "coordinates": [
+      -6.2167,
+      155.5667
+    ]
+  },
+  {
+    "continent": "Oceania",
+    "country": "Papua New Guinea",
+    "city": "Papua New Guinea",
+    "timezone": "Pacific/Port_Moresby",
+    "flagEmoji": "🇵🇬",
+    "coordinates": [
+      -9.5,
+      147.1667
+    ]
+  },
+  {
+    "continent": "Oceania",
+    "country": "Pitcairn",
+    "city": "Pitcairn",
+    "timezone": "Pacific/Pitcairn",
+    "flagEmoji": "🇵🇳",
+    "coordinates": [
+      -25.0667,
+      -130.0833
+    ]
+  },
+  {
+    "continent": "Oceania",
+    "country": "Samoa (American)",
+    "city": "Midway",
+    "timezone": "Pacific/Pago_Pago",
+    "flagEmoji": "🇦🇸",
+    "coordinates": [
+      -14.2667,
+      -170.7
+    ]
+  },
+  {
+    "continent": "Oceania",
+    "country": "Samoa (western)",
+    "city": "Apia",
+    "timezone": "Pacific/Apia",
+    "flagEmoji": "🇼🇸",
+    "coordinates": [
+      -13.8333,
+      -171.7333
+    ]
+  },
+  {
+    "continent": "Oceania",
+    "country": "Solomon Islands",
+    "city": "Pohnpei",
+    "timezone": "Pacific/Guadalcanal",
+    "flagEmoji": "🇸🇧",
+    "coordinates": [
+      -9.5333,
+      160.2
+    ]
+  },
+  {
+    "continent": "Oceania",
+    "country": "Tokelau",
+    "city": "Fakaofo",
+    "timezone": "Pacific/Fakaofo",
+    "flagEmoji": "🇹🇰",
+    "coordinates": [
+      -9.3667,
+      -171.2333
+    ]
+  },
+  {
+    "continent": "Oceania",
+    "country": "Tonga",
+    "city": "Tongatapu",
+    "timezone": "Pacific/Tongatapu",
+    "flagEmoji": "🇹🇴",
+    "coordinates": [
+      -21.1333,
+      -175.2
+    ]
+  },
+  {
+    "continent": "Oceania",
+    "country": "Tuvalu",
+    "city": "Gilberts, Marshalls, Wake",
+    "timezone": "Pacific/Tarawa",
+    "flagEmoji": "🇹🇻",
+    "coordinates": [
+      1.4167,
+      173.0
+    ]
+  },
+  {
+    "continent": "Oceania",
+    "country": "US minor outlying islands",
+    "city": "Gilberts, Marshalls, Wake",
+    "timezone": "Pacific/Tarawa",
+    "flagEmoji": "🇺🇲",
+    "coordinates": [
+      1.4167,
+      173.0
+    ]
+  },
+  {
+    "continent": "Oceania",
+    "country": "US minor outlying islands",
+    "city": "Midway",
+    "timezone": "Pacific/Pago_Pago",
+    "flagEmoji": "🇺🇲",
+    "coordinates": [
+      -14.2667,
+      -170.7
+    ]
+  },
+  {
+    "continent": "Oceania",
+    "country": "United States",
+    "city": "Hawaii",
+    "timezone": "Pacific/Honolulu",
+    "flagEmoji": "🇺🇸",
+    "coordinates": [
+      21.3069,
+      -157.8583
+    ]
+  },
+  {
+    "continent": "Oceania",
+    "country": "Vanuatu",
+    "city": "Efate",
+    "timezone": "Pacific/Efate",
+    "flagEmoji": "🇻🇺",
+    "coordinates": [
+      -17.6667,
+      168.4167
+    ]
+  },
+  {
+    "continent": "Oceania",
+    "country": "Wallis & Futuna",
+    "city": "Gilberts, Marshalls, Wake",
+    "timezone": "Pacific/Tarawa",
+    "flagEmoji": "🇼🇫",
+    "coordinates": [
+      1.4167,
+      173.0
+    ]
+  }
+]

@@ -1,0 +1,402 @@
+﻿continent,country,city,timezone,flagEmoji,lat,lon
+Africa,Algeria,Algiers,Africa/Algiers,🇩🇿,36.7833,3.05
+Africa,Angola,West Africa Time,Africa/Lagos,🇦🇴,6.45,3.4
+Africa,Benin,West Africa Time,Africa/Lagos,🇧🇯,6.45,3.4
+Africa,Botswana,Central Africa Time,Africa/Maputo,🇧🇼,-25.9667,32.5833
+Africa,Burkina Faso,Abidjan,Africa/Abidjan,🇧🇫,5.3167,-4.0333
+Africa,Burundi,Central Africa Time,Africa/Maputo,🇧🇮,-25.9667,32.5833
+Africa,Cameroon,West Africa Time,Africa/Lagos,🇨🇲,6.45,3.4
+Africa,Central African Rep.,West Africa Time,Africa/Lagos,🇨🇫,6.45,3.4
+Africa,Chad,Ndjamena,Africa/Ndjamena,🇹🇩,12.1167,15.05
+Africa,Comoros,Nairobi,Africa/Nairobi,🇰🇲,-1.2833,36.8167
+Africa,Congo (Dem. Rep.),Central Africa Time,Africa/Maputo,🇨🇩,-25.9667,32.5833
+Africa,Congo (Dem. Rep.),West Africa Time,Africa/Lagos,🇨🇩,6.45,3.4
+Africa,Congo (Rep.),West Africa Time,Africa/Lagos,🇨🇬,6.45,3.4
+Africa,Côte d'Ivoire,Abidjan,Africa/Abidjan,🇨🇮,5.3167,-4.0333
+Africa,Djibouti,Nairobi,Africa/Nairobi,🇩🇯,-1.2833,36.8167
+Africa,Egypt,Cairo,Africa/Cairo,🇪🇬,30.05,31.25
+Africa,Equatorial Guinea,West Africa Time,Africa/Lagos,🇬🇶,6.45,3.4
+Africa,Eritrea,Nairobi,Africa/Nairobi,🇪🇷,-1.2833,36.8167
+Africa,Eswatini (Swaziland),Johannesburg,Africa/Johannesburg,🇸🇿,-26.25,28.0
+Africa,Ethiopia,Nairobi,Africa/Nairobi,🇪🇹,-1.2833,36.8167
+Africa,Gabon,West Africa Time,Africa/Lagos,🇬🇦,6.45,3.4
+Africa,Gambia,Abidjan,Africa/Abidjan,🇬🇲,5.3167,-4.0333
+Africa,Ghana,Abidjan,Africa/Abidjan,🇬🇭,5.3167,-4.0333
+Africa,Guinea,Abidjan,Africa/Abidjan,🇬🇳,5.3167,-4.0333
+Africa,Guinea-Bissau,Bissau,Africa/Bissau,🇬🇼,11.85,-15.5833
+Africa,Iceland,Abidjan,Africa/Abidjan,🇮🇸,5.3167,-4.0333
+Africa,Kenya,Nairobi,Africa/Nairobi,🇰🇪,-1.2833,36.8167
+Africa,Lesotho,Johannesburg,Africa/Johannesburg,🇱🇸,-26.25,28.0
+Africa,Liberia,Monrovia,Africa/Monrovia,🇱🇷,6.3,-10.7833
+Africa,Libya,Tripoli,Africa/Tripoli,🇱🇾,32.9,13.1833
+Africa,Madagascar,Nairobi,Africa/Nairobi,🇲🇬,-1.2833,36.8167
+Africa,Malawi,Central Africa Time,Africa/Maputo,🇲🇼,-25.9667,32.5833
+Africa,Mali,Abidjan,Africa/Abidjan,🇲🇱,5.3167,-4.0333
+Africa,Mauritania,Abidjan,Africa/Abidjan,🇲🇷,5.3167,-4.0333
+Africa,Mayotte,Nairobi,Africa/Nairobi,🇾🇹,-1.2833,36.8167
+Africa,Morocco,Casablanca,Africa/Casablanca,🇲🇦,33.65,-7.5833
+Africa,Mozambique,Central Africa Time,Africa/Maputo,🇲🇿,-25.9667,32.5833
+Africa,Namibia,Windhoek,Africa/Windhoek,🇳🇦,-22.5667,17.1
+Africa,Niger,West Africa Time,Africa/Lagos,🇳🇪,6.45,3.4
+Africa,Nigeria,West Africa Time,Africa/Lagos,🇳🇬,6.45,3.4
+Africa,Rwanda,Central Africa Time,Africa/Maputo,🇷🇼,-25.9667,32.5833
+Africa,Sao Tome & Principe,Sao Tome,Africa/Sao_Tome,🇸🇹,0.3333,6.7333
+Africa,Senegal,Abidjan,Africa/Abidjan,🇸🇳,5.3167,-4.0333
+Africa,Sierra Leone,Abidjan,Africa/Abidjan,🇸🇱,5.3167,-4.0333
+Africa,Somalia,Nairobi,Africa/Nairobi,🇸🇴,-1.2833,36.8167
+Africa,South Africa,Johannesburg,Africa/Johannesburg,🇿🇦,-26.25,28.0
+Africa,South Sudan,Juba,Africa/Juba,🇸🇸,4.85,31.6167
+Africa,Spain,"Ceuta, Melilla",Africa/Ceuta,🇪🇸,35.8833,-5.3167
+Africa,St Helena,Abidjan,Africa/Abidjan,🇸🇭,5.3167,-4.0333
+Africa,Sudan,Khartoum,Africa/Khartoum,🇸🇩,15.6,32.5333
+Africa,Tanzania,Nairobi,Africa/Nairobi,🇹🇿,-1.2833,36.8167
+Africa,Togo,Abidjan,Africa/Abidjan,🇹🇬,5.3167,-4.0333
+Africa,Tunisia,Tunis,Africa/Tunis,🇹🇳,36.8,10.1833
+Africa,Uganda,Nairobi,Africa/Nairobi,🇺🇬,-1.2833,36.8167
+Africa,Western Sahara,El Aaiun,Africa/El_Aaiun,🇪🇭,27.15,-13.2
+Africa,Zambia,Central Africa Time,Africa/Maputo,🇿🇲,-25.9667,32.5833
+Africa,Zimbabwe,Central Africa Time,Africa/Maputo,🇿🇼,-25.9667,32.5833
+Americas,Anguilla,AST - QC,America/Puerto_Rico,🇦🇮,18.4683,-66.1061
+Americas,Antigua & Barbuda,AST - QC,America/Puerto_Rico,🇦🇬,18.4683,-66.1061
+Americas,Argentina,Buenos Aires,America/Argentina/Buenos_Aires,🇦🇷,-34.6,-58.45
+Americas,Argentina,Catamarca,America/Argentina/Catamarca,🇦🇷,-28.4667,-65.7833
+Americas,Argentina,Jujuy,America/Argentina/Jujuy,🇦🇷,-24.1833,-65.3
+Americas,Argentina,La Rioja,America/Argentina/La_Rioja,🇦🇷,-29.4333,-66.85
+Americas,Argentina,Mendoza,America/Argentina/Mendoza,🇦🇷,-32.8833,-68.8167
+Americas,Argentina,Salta,America/Argentina/Salta,🇦🇷,-24.7833,-65.4167
+Americas,Argentina,San Juan,America/Argentina/San_Juan,🇦🇷,-31.5333,-68.5167
+Americas,Argentina,San Luis,America/Argentina/San_Luis,🇦🇷,-33.3167,-66.35
+Americas,Argentina,Santa Cruz,America/Argentina/Rio_Gallegos,🇦🇷,-51.6333,-69.2167
+Americas,Argentina,Tierra del Fuego,America/Argentina/Ushuaia,🇦🇷,-54.8,-68.3
+Americas,Argentina,Tucumán,America/Argentina/Tucuman,🇦🇷,-26.8167,-65.2167
+Americas,Argentina,"most areas: CB, CC, CN, ER, FM, MN, SE, SF",America/Argentina/Cordoba,🇦🇷,-31.4,-64.1833
+Americas,Aruba,AST - QC,America/Puerto_Rico,🇦🇼,18.4683,-66.1061
+Americas,Bahamas,Eastern - ON & QC,America/Toronto,🇧🇸,43.65,-79.3833
+Americas,Barbados,Barbados,America/Barbados,🇧🇧,13.1,-59.6167
+Americas,Belize,Belize,America/Belize,🇧🇿,17.5,-88.2
+Americas,Bolivia,La Paz,America/La_Paz,🇧🇴,-16.5,-68.15
+Americas,Brazil,Acre,America/Rio_Branco,🇧🇷,-9.9667,-67.8
+Americas,Brazil,"Alagoas, Sergipe",America/Maceio,🇧🇷,-9.6667,-35.7167
+Americas,Brazil,Amazonas,America/Eirunepe,🇧🇷,-6.6667,-69.8667
+Americas,Brazil,Amazonas,America/Manaus,🇧🇷,-3.1333,-60.0167
+Americas,Brazil,Atlantic islands,America/Noronha,🇧🇷,-3.85,-32.4167
+Americas,Brazil,Bahia,America/Bahia,🇧🇷,-12.9833,-38.5167
+Americas,Brazil,Brazil,America/Fortaleza,🇧🇷,-3.7167,-38.5
+Americas,Brazil,Brazil,America/Sao_Paulo,🇧🇷,-23.5333,-46.6167
+Americas,Brazil,Mato Grosso,America/Cuiaba,🇧🇷,-15.5833,-56.0833
+Americas,Brazil,Mato Grosso do Sul,America/Campo_Grande,🇧🇷,-20.45,-54.6167
+Americas,Brazil,Pará,America/Belem,🇧🇷,-1.45,-48.4833
+Americas,Brazil,Pará,America/Santarem,🇧🇷,-2.4333,-54.8667
+Americas,Brazil,Pernambuco,America/Recife,🇧🇷,-8.05,-34.9
+Americas,Brazil,Rondônia,America/Porto_Velho,🇧🇷,-8.7667,-63.9
+Americas,Brazil,Roraima,America/Boa_Vista,🇧🇷,2.8167,-60.6667
+Americas,Brazil,Tocantins,America/Araguaina,🇧🇷,-7.2,-48.2
+Americas,Canada,AST - QC,America/Puerto_Rico,🇨🇦,18.4683,-66.1061
+Americas,Canada,Atlantic - Labrador,America/Goose_Bay,🇨🇦,53.3333,-60.4167
+Americas,Canada,Atlantic - NS,America/Glace_Bay,🇨🇦,46.2,-59.95
+Americas,Canada,Atlantic - NS,America/Halifax,🇨🇦,44.65,-63.6
+Americas,Canada,Atlantic - New Brunswick,America/Moncton,🇨🇦,46.1,-64.7833
+Americas,Canada,CST - SK,America/Regina,🇨🇦,50.4,-104.65
+Americas,Canada,CST - SK,America/Swift_Current,🇨🇦,50.2833,-107.8333
+Americas,Canada,Central - NU,America/Rankin_Inlet,🇨🇦,62.8167,-92.0831
+Americas,Canada,Central - NU,America/Resolute,🇨🇦,74.6956,-94.8292
+Americas,Canada,Central - ON,America/Winnipeg,🇨🇦,49.8833,-97.15
+Americas,Canada,EST - ON,America/Panama,🇨🇦,8.9667,-79.5333
+Americas,Canada,Eastern - NU,America/Iqaluit,🇨🇦,63.7333,-68.4667
+Americas,Canada,Eastern - ON & QC,America/Toronto,🇨🇦,43.65,-79.3833
+Americas,Canada,MST - AZ,America/Phoenix,🇨🇦,33.4483,-112.0733
+Americas,Canada,MST - BC,America/Dawson_Creek,🇨🇦,55.7667,-120.2333
+Americas,Canada,MST - BC,America/Fort_Nelson,🇨🇦,58.8,-122.7
+Americas,Canada,MST - Yukon,America/Dawson,🇨🇦,64.0667,-139.4167
+Americas,Canada,MST - Yukon,America/Whitehorse,🇨🇦,60.7167,-135.05
+Americas,Canada,"Mountain - AB, BC",America/Edmonton,🇨🇦,53.55,-113.4667
+Americas,Canada,Mountain - NT,America/Inuvik,🇨🇦,68.3497,-133.7167
+Americas,Canada,Mountain - NU,America/Cambridge_Bay,🇨🇦,69.1139,-105.0528
+Americas,Canada,"Newfoundland, Labrador",America/St_Johns,🇨🇦,47.5667,-52.7167
+Americas,Canada,Pacific - BC,America/Vancouver,🇨🇦,49.2667,-123.1167
+Americas,Caribbean NL,AST - QC,America/Puerto_Rico,🇧🇶,18.4683,-66.1061
+Americas,Cayman Islands,EST - ON,America/Panama,🇰🇾,8.9667,-79.5333
+Americas,Chile,Region of Magallanes,America/Punta_Arenas,🇨🇱,-53.15,-70.9167
+Americas,Chile,most of Chile,America/Santiago,🇨🇱,-33.45,-70.6667
+Americas,Colombia,Bogota,America/Bogota,🇨🇴,4.6,-74.0833
+Americas,Costa Rica,Costa Rica,America/Costa_Rica,🇨🇷,9.9333,-84.0833
+Americas,Cuba,Havana,America/Havana,🇨🇺,23.1333,-82.3667
+Americas,Curaçao,AST - QC,America/Puerto_Rico,🇨🇼,18.4683,-66.1061
+Americas,Dominica,AST - QC,America/Puerto_Rico,🇩🇲,18.4683,-66.1061
+Americas,Dominican Republic,Santo Domingo,America/Santo_Domingo,🇩🇴,18.4667,-69.9
+Americas,Ecuador,Ecuador,America/Guayaquil,🇪🇨,-2.1667,-79.8333
+Americas,El Salvador,El Salvador,America/El_Salvador,🇸🇻,13.7,-89.2
+Americas,French Guiana,Cayenne,America/Cayenne,🇬🇫,4.9333,-52.3333
+Americas,Greenland,National Park,America/Danmarkshavn,🇬🇱,76.7667,-18.6667
+Americas,Greenland,Scoresbysund/Ittoqqortoormiit,America/Scoresbysund,🇬🇱,70.4833,-21.9667
+Americas,Greenland,Thule/Pituffik,America/Thule,🇬🇱,76.5667,-68.7833
+Americas,Greenland,most of Greenland,America/Nuuk,🇬🇱,64.1833,-51.7333
+Americas,Grenada,AST - QC,America/Puerto_Rico,🇬🇩,18.4683,-66.1061
+Americas,Guadeloupe,AST - QC,America/Puerto_Rico,🇬🇵,18.4683,-66.1061
+Americas,Guatemala,Guatemala,America/Guatemala,🇬🇹,14.6333,-90.5167
+Americas,Guyana,Guyana,America/Guyana,🇬🇾,6.8,-58.1667
+Americas,Haiti,Port-au-Prince,America/Port-au-Prince,🇭🇹,18.5333,-72.3333
+Americas,Honduras,Tegucigalpa,America/Tegucigalpa,🇭🇳,14.1,-87.2167
+Americas,Jamaica,Jamaica,America/Jamaica,🇯🇲,17.9681,-76.7933
+Americas,Martinique,Martinique,America/Martinique,🇲🇶,14.6,-61.0833
+Americas,Mexico,Bahía de Banderas,America/Bahia_Banderas,🇲🇽,20.8,-105.25
+Americas,Mexico,Baja California,America/Tijuana,🇲🇽,32.5333,-117.0167
+Americas,Mexico,"Baja California Sur, Nayarit",America/Mazatlan,🇲🇽,23.2167,-106.4167
+Americas,Mexico,"Campeche, Yucatán",America/Merida,🇲🇽,20.9667,-89.6167
+Americas,Mexico,Central Mexico,America/Mexico_City,🇲🇽,19.4,-99.15
+Americas,Mexico,Chihuahua,America/Chihuahua,🇲🇽,28.6333,-106.0833
+Americas,Mexico,Chihuahua,America/Ciudad_Juarez,🇲🇽,31.7333,-106.4833
+Americas,Mexico,Chihuahua,America/Ojinaga,🇲🇽,29.5667,-104.4167
+Americas,Mexico,"Coahuila, Nuevo León, Tamaulipas",America/Matamoros,🇲🇽,25.8333,-97.5
+Americas,Mexico,"Durango; Coahuila, Nuevo León, Tamaulipas",America/Monterrey,🇲🇽,25.6667,-100.3167
+Americas,Mexico,Quintana Roo,America/Cancun,🇲🇽,21.0833,-86.7667
+Americas,Mexico,Sonora,America/Hermosillo,🇲🇽,29.0667,-110.9667
+Americas,Montserrat,AST - QC,America/Puerto_Rico,🇲🇸,18.4683,-66.1061
+Americas,Nicaragua,Managua,America/Managua,🇳🇮,12.15,-86.2833
+Americas,Panama,EST - ON,America/Panama,🇵🇦,8.9667,-79.5333
+Americas,Paraguay,Asuncion,America/Asuncion,🇵🇾,-25.2667,-57.6667
+Americas,Peru,Lima,America/Lima,🇵🇪,-12.05,-77.05
+Americas,Puerto Rico,AST - QC,America/Puerto_Rico,🇵🇷,18.4683,-66.1061
+Americas,St Barthelemy,AST - QC,America/Puerto_Rico,🇧🇱,18.4683,-66.1061
+Americas,St Kitts & Nevis,AST - QC,America/Puerto_Rico,🇰🇳,18.4683,-66.1061
+Americas,St Lucia,AST - QC,America/Puerto_Rico,🇱🇨,18.4683,-66.1061
+Americas,St Maarten (Dutch),AST - QC,America/Puerto_Rico,🇸🇽,18.4683,-66.1061
+Americas,St Martin (French),AST - QC,America/Puerto_Rico,🇲🇫,18.4683,-66.1061
+Americas,St Pierre & Miquelon,Miquelon,America/Miquelon,🇵🇲,47.05,-56.3333
+Americas,St Vincent,AST - QC,America/Puerto_Rico,🇻🇨,18.4683,-66.1061
+Americas,Suriname,Paramaribo,America/Paramaribo,🇸🇷,5.8333,-55.1667
+Americas,Trinidad & Tobago,AST - QC,America/Puerto_Rico,🇹🇹,18.4683,-66.1061
+Americas,Turks & Caicos Is,Grand Turk,America/Grand_Turk,🇹🇨,21.4667,-71.1333
+Americas,United States,Alaska,America/Anchorage,🇺🇸,61.2181,-149.9003
+Americas,United States,Alaska,America/Nome,🇺🇸,64.5011,-165.4064
+Americas,United States,Alaska - Annette Island,America/Metlakatla,🇺🇸,55.1269,-131.5764
+Americas,United States,Alaska - Juneau area,America/Juneau,🇺🇸,58.3019,-134.4197
+Americas,United States,Alaska - Sitka area,America/Sitka,🇺🇸,57.1764,-135.3019
+Americas,United States,Alaska - Yakutat,America/Yakutat,🇺🇸,59.5469,-139.7272
+Americas,United States,Alaska - western Aleutians,America/Adak,🇺🇸,51.88,-176.6581
+Americas,United States,Central,America/Chicago,🇺🇸,41.85,-87.65
+Americas,United States,Central - IN,America/Indiana/Knox,🇺🇸,41.2958,-86.625
+Americas,United States,Central - IN,America/Indiana/Tell_City,🇺🇸,37.9531,-86.7614
+Americas,United States,Central - MI,America/Menominee,🇺🇸,45.1078,-87.6142
+Americas,United States,Central - ND,America/North_Dakota/Beulah,🇺🇸,47.2642,-101.7778
+Americas,United States,Central - ND,America/North_Dakota/Center,🇺🇸,47.1164,-101.2992
+Americas,United States,Central - ND,America/North_Dakota/New_Salem,🇺🇸,46.845,-101.4108
+Americas,United States,Eastern,America/New_York,🇺🇸,40.7142,-74.0064
+Americas,United States,Eastern - IN,America/Indiana/Indianapolis,🇺🇸,39.7683,-86.1581
+Americas,United States,Eastern - IN,America/Indiana/Marengo,🇺🇸,38.3756,-86.3447
+Americas,United States,Eastern - IN,America/Indiana/Petersburg,🇺🇸,38.4919,-87.2786
+Americas,United States,Eastern - IN,America/Indiana/Vevay,🇺🇸,38.7478,-85.0672
+Americas,United States,Eastern - IN,America/Indiana/Vincennes,🇺🇸,38.6772,-87.5286
+Americas,United States,Eastern - IN,America/Indiana/Winamac,🇺🇸,41.0514,-86.6031
+Americas,United States,Eastern - KY,America/Kentucky/Louisville,🇺🇸,38.2542,-85.7594
+Americas,United States,Eastern - KY,America/Kentucky/Monticello,🇺🇸,36.8297,-84.8492
+Americas,United States,Eastern - MI,America/Detroit,🇺🇸,42.3314,-83.0458
+Americas,United States,MST - AZ,America/Phoenix,🇺🇸,33.4483,-112.0733
+Americas,United States,Mountain,America/Denver,🇺🇸,39.7392,-104.9842
+Americas,United States,Mountain - ID,America/Boise,🇺🇸,43.6136,-116.2025
+Americas,United States,Pacific,America/Los_Angeles,🇺🇸,34.0522,-118.2428
+Americas,Uruguay,Montevideo,America/Montevideo,🇺🇾,-34.9092,-56.2125
+Americas,Venezuela,Caracas,America/Caracas,🇻🇪,10.5,-66.9333
+Americas,Virgin Islands (UK),AST - QC,America/Puerto_Rico,🇻🇬,18.4683,-66.1061
+Americas,Virgin Islands (US),AST - QC,America/Puerto_Rico,🇻🇮,18.4683,-66.1061
+Asia,Afghanistan,Kabul,Asia/Kabul,🇦🇫,34.5167,69.2
+Asia,Antarctica,Syowa,Asia/Riyadh,🇦🇶,24.6333,46.7167
+Asia,Armenia,Yerevan,Asia/Yerevan,🇦🇲,40.1833,44.5
+Asia,Azerbaijan,Baku,Asia/Baku,🇦🇿,40.3833,49.85
+Asia,Bahrain,Qatar,Asia/Qatar,🇧🇭,25.2833,51.5333
+Asia,Bangladesh,Dhaka,Asia/Dhaka,🇧🇩,23.7167,90.4167
+Asia,Bhutan,Thimphu,Asia/Thimphu,🇧🇹,27.4667,89.65
+Asia,Brunei,"Sabah, Sarawak",Asia/Kuching,🇧🇳,1.55,110.3333
+Asia,Cambodia,north Vietnam,Asia/Bangkok,🇰🇭,13.75,100.5167
+Asia,China,Beijing Time,Asia/Shanghai,🇨🇳,31.2333,121.4667
+Asia,China,Xinjiang Time,Asia/Urumqi,🇨🇳,43.8,87.5833
+Asia,Christmas Island,north Vietnam,Asia/Bangkok,🇨🇽,13.75,100.5167
+Asia,Cocos (Keeling) Islands,Yangon,Asia/Yangon,🇨🇨,16.7833,96.1667
+Asia,Cyprus,Northern Cyprus,Asia/Famagusta,🇨🇾,35.1167,33.95
+Asia,Cyprus,most of Cyprus,Asia/Nicosia,🇨🇾,35.1667,33.3667
+Asia,East Timor,Dili,Asia/Dili,🇹🇱,-8.55,125.5833
+Asia,French S. Terr.,Crozet,Asia/Dubai,🇹🇫,25.3,55.3
+Asia,Georgia,Tbilisi,Asia/Tbilisi,🇬🇪,41.7167,44.8167
+Asia,Hong Kong,Hong Kong,Asia/Hong_Kong,🇭🇰,22.2833,114.15
+Asia,India,Kolkata,Asia/Kolkata,🇮🇳,22.5333,88.3667
+Asia,Indonesia,Borneo,Asia/Makassar,🇮🇩,-5.1167,119.4
+Asia,Indonesia,Borneo,Asia/Pontianak,🇮🇩,-0.0333,109.3333
+Asia,Indonesia,"Java, Sumatra",Asia/Jakarta,🇮🇩,-6.1667,106.8
+Asia,Indonesia,New Guinea,Asia/Jayapura,🇮🇩,-2.5333,140.7
+Asia,Iran,Tehran,Asia/Tehran,🇮🇷,35.6667,51.4333
+Asia,Iraq,Baghdad,Asia/Baghdad,🇮🇶,33.35,44.4167
+Asia,Israel,Jerusalem,Asia/Jerusalem,🇮🇱,31.7806,35.2239
+Asia,Japan,Tokyo,Asia/Tokyo,🇯🇵,35.6544,139.7447
+Asia,Jordan,Amman,Asia/Amman,🇯🇴,31.95,35.9333
+Asia,Kazakhstan,Aqtöbe/Aktobe,Asia/Aqtobe,🇰🇿,50.2833,57.1667
+Asia,Kazakhstan,Atyraū/Atirau/Gur'yev,Asia/Atyrau,🇰🇿,47.1167,51.9333
+Asia,Kazakhstan,Mangghystaū/Mankistau,Asia/Aqtau,🇰🇿,44.5167,50.2667
+Asia,Kazakhstan,Qostanay/Kostanay/Kustanay,Asia/Qostanay,🇰🇿,53.2,63.6167
+Asia,Kazakhstan,Qyzylorda/Kyzylorda/Kzyl-Orda,Asia/Qyzylorda,🇰🇿,44.8,65.4667
+Asia,Kazakhstan,West Kazakhstan,Asia/Oral,🇰🇿,51.2167,51.35
+Asia,Kazakhstan,most of Kazakhstan,Asia/Almaty,🇰🇿,43.25,76.95
+Asia,Korea (North),Pyongyang,Asia/Pyongyang,🇰🇵,39.0167,125.75
+Asia,Korea (South),Seoul,Asia/Seoul,🇰🇷,37.55,126.9667
+Asia,Kuwait,Syowa,Asia/Riyadh,🇰🇼,24.6333,46.7167
+Asia,Kyrgyzstan,Bishkek,Asia/Bishkek,🇰🇬,42.9,74.6
+Asia,Laos,north Vietnam,Asia/Bangkok,🇱🇦,13.75,100.5167
+Asia,Lebanon,Beirut,Asia/Beirut,🇱🇧,33.8833,35.5
+Asia,Macau,Macau,Asia/Macau,🇲🇴,22.1972,113.5417
+Asia,Malaysia,"Sabah, Sarawak",Asia/Kuching,🇲🇾,1.55,110.3333
+Asia,Malaysia,peninsular Malaysia,Asia/Singapore,🇲🇾,1.2833,103.85
+Asia,Mongolia,"Bayan-Ölgii, Govi-Altai, Hovd, Uvs, Zavkhan",Asia/Hovd,🇲🇳,48.0167,91.65
+Asia,Mongolia,"Dornod, Sükhbaatar",Asia/Choibalsan,🇲🇳,48.0667,114.5
+Asia,Mongolia,most of Mongolia,Asia/Ulaanbaatar,🇲🇳,47.9167,106.8833
+Asia,Myanmar (Burma),Yangon,Asia/Yangon,🇲🇲,16.7833,96.1667
+Asia,Nepal,Kathmandu,Asia/Kathmandu,🇳🇵,27.7167,85.3167
+Asia,Oman,Crozet,Asia/Dubai,🇴🇲,25.3,55.3
+Asia,Pakistan,Karachi,Asia/Karachi,🇵🇰,24.8667,67.05
+Asia,Palestine,Gaza Strip,Asia/Gaza,🇵🇸,31.5,34.4667
+Asia,Palestine,West Bank,Asia/Hebron,🇵🇸,31.5333,35.095
+Asia,Philippines,Manila,Asia/Manila,🇵🇭,14.5833,121.0
+Asia,Qatar,Qatar,Asia/Qatar,🇶🇦,25.2833,51.5333
+Asia,Russia,MSK+02 - Urals,Asia/Yekaterinburg,🇷🇺,56.85,60.6
+Asia,Russia,MSK+03 - Omsk,Asia/Omsk,🇷🇺,55.0,73.4
+Asia,Russia,MSK+04 - Altai,Asia/Barnaul,🇷🇺,53.3667,83.75
+Asia,Russia,MSK+04 - Kemerovo,Asia/Novokuznetsk,🇷🇺,53.75,87.1167
+Asia,Russia,MSK+04 - Krasnoyarsk area,Asia/Krasnoyarsk,🇷🇺,56.0167,92.8333
+Asia,Russia,MSK+04 - Novosibirsk,Asia/Novosibirsk,🇷🇺,55.0333,82.9167
+Asia,Russia,MSK+04 - Tomsk,Asia/Tomsk,🇷🇺,56.5,84.9667
+Asia,Russia,"MSK+05 - Irkutsk, Buryatia",Asia/Irkutsk,🇷🇺,52.2667,104.3333
+Asia,Russia,MSK+06 - Lena River,Asia/Yakutsk,🇷🇺,62.0,129.6667
+Asia,Russia,"MSK+06 - Tomponsky, Ust-Maysky",Asia/Khandyga,🇷🇺,62.6564,135.5539
+Asia,Russia,MSK+06 - Zabaykalsky,Asia/Chita,🇷🇺,52.05,113.4667
+Asia,Russia,MSK+07 - Amur River,Asia/Vladivostok,🇷🇺,43.1667,131.9333
+Asia,Russia,MSK+07 - Oymyakonsky,Asia/Ust-Nera,🇷🇺,64.5603,143.2267
+Asia,Russia,MSK+08 - Magadan,Asia/Magadan,🇷🇺,59.5667,150.8
+Asia,Russia,MSK+08 - Sakha,Asia/Srednekolymsk,🇷🇺,67.4667,153.7167
+Asia,Russia,MSK+08 - Sakhalin Island,Asia/Sakhalin,🇷🇺,46.9667,142.7
+Asia,Russia,MSK+09 - Bering Sea,Asia/Anadyr,🇷🇺,64.75,177.4833
+Asia,Russia,MSK+09 - Kamchatka,Asia/Kamchatka,🇷🇺,53.0167,158.65
+Asia,Réunion,Crozet,Asia/Dubai,🇷🇪,25.3,55.3
+Asia,Saudi Arabia,Syowa,Asia/Riyadh,🇸🇦,24.6333,46.7167
+Asia,Seychelles,Crozet,Asia/Dubai,🇸🇨,25.3,55.3
+Asia,Singapore,peninsular Malaysia,Asia/Singapore,🇸🇬,1.2833,103.85
+Asia,Sri Lanka,Colombo,Asia/Colombo,🇱🇰,6.9333,79.85
+Asia,Syria,Damascus,Asia/Damascus,🇸🇾,33.5,36.3
+Asia,Taiwan,Taipei,Asia/Taipei,🇹🇼,25.05,121.5
+Asia,Tajikistan,Dushanbe,Asia/Dushanbe,🇹🇯,38.5833,68.8
+Asia,Thailand,north Vietnam,Asia/Bangkok,🇹🇭,13.75,100.5167
+Asia,Turkmenistan,Ashgabat,Asia/Ashgabat,🇹🇲,37.95,58.3833
+Asia,United Arab Emirates,Crozet,Asia/Dubai,🇦🇪,25.3,55.3
+Asia,Uzbekistan,Uzbekistan,Asia/Samarkand,🇺🇿,39.6667,66.8
+Asia,Uzbekistan,Uzbekistan,Asia/Tashkent,🇺🇿,41.3333,69.3
+Asia,Vietnam,north Vietnam,Asia/Bangkok,🇻🇳,13.75,100.5167
+Asia,Vietnam,south Vietnam,Asia/Ho_Chi_Minh,🇻🇳,10.75,106.6667
+Asia,Yemen,Syowa,Asia/Riyadh,🇾🇪,24.6333,46.7167
+Europe,Albania,Tirane,Europe/Tirane,🇦🇱,41.3333,19.8333
+Europe,Andorra,Andorra,Europe/Andorra,🇦🇩,42.5,1.5167
+Europe,Austria,Vienna,Europe/Vienna,🇦🇹,48.2167,16.3333
+Europe,Belarus,Minsk,Europe/Minsk,🇧🇾,53.9,27.5667
+Europe,Belgium,Brussels,Europe/Brussels,🇧🇪,50.8333,4.3333
+Europe,Bosnia & Herzegovina,Belgrade,Europe/Belgrade,🇧🇦,44.8333,20.5
+Europe,Britain (UK),London,Europe/London,🇬🇧,51.5083,-0.1253
+Europe,Bulgaria,Sofia,Europe/Sofia,🇧🇬,42.6833,23.3167
+Europe,Croatia,Belgrade,Europe/Belgrade,🇭🇷,44.8333,20.5
+Europe,Czech Republic,Prague,Europe/Prague,🇨🇿,50.0833,14.4333
+Europe,Denmark,most of Germany,Europe/Berlin,🇩🇰,52.5,13.3667
+Europe,Estonia,Tallinn,Europe/Tallinn,🇪🇪,59.4167,24.75
+Europe,Finland,Helsinki,Europe/Helsinki,🇫🇮,60.1667,24.9667
+Europe,France,Paris,Europe/Paris,🇫🇷,48.8667,2.3333
+Europe,Germany,Büsingen,Europe/Zurich,🇩🇪,47.3833,8.5333
+Europe,Germany,most of Germany,Europe/Berlin,🇩🇪,52.5,13.3667
+Europe,Gibraltar,Gibraltar,Europe/Gibraltar,🇬🇮,36.1333,-5.35
+Europe,Greece,Athens,Europe/Athens,🇬🇷,37.9667,23.7167
+Europe,Guernsey,London,Europe/London,🇬🇬,51.5083,-0.1253
+Europe,Hungary,Budapest,Europe/Budapest,🇭🇺,47.5,19.0833
+Europe,Ireland,Dublin,Europe/Dublin,🇮🇪,53.3333,-6.25
+Europe,Isle of Man,London,Europe/London,🇮🇲,51.5083,-0.1253
+Europe,Italy,Rome,Europe/Rome,🇮🇹,41.9,12.4833
+Europe,Jersey,London,Europe/London,🇯🇪,51.5083,-0.1253
+Europe,Latvia,Riga,Europe/Riga,🇱🇻,56.95,24.1
+Europe,Liechtenstein,Büsingen,Europe/Zurich,🇱🇮,47.3833,8.5333
+Europe,Lithuania,Vilnius,Europe/Vilnius,🇱🇹,54.6833,25.3167
+Europe,Luxembourg,Brussels,Europe/Brussels,🇱🇺,50.8333,4.3333
+Europe,Malta,Malta,Europe/Malta,🇲🇹,35.9,14.5167
+Europe,Moldova,Chisinau,Europe/Chisinau,🇲🇩,47.0,28.8333
+Europe,Monaco,Paris,Europe/Paris,🇲🇨,48.8667,2.3333
+Europe,Montenegro,Belgrade,Europe/Belgrade,🇲🇪,44.8333,20.5
+Europe,Netherlands,Brussels,Europe/Brussels,🇳🇱,50.8333,4.3333
+Europe,North Macedonia,Belgrade,Europe/Belgrade,🇲🇰,44.8333,20.5
+Europe,Norway,most of Germany,Europe/Berlin,🇳🇴,52.5,13.3667
+Europe,Poland,Warsaw,Europe/Warsaw,🇵🇱,52.25,21.0
+Europe,Portugal,Portugal,Europe/Lisbon,🇵🇹,38.7167,-9.1333
+Europe,Romania,Bucharest,Europe/Bucharest,🇷🇴,44.4333,26.1
+Europe,Russia,Crimea,Europe/Simferopol,🇷🇺,44.95,34.1
+Europe,Russia,MSK+00 - Kirov,Europe/Kirov,🇷🇺,58.6,49.65
+Europe,Russia,MSK+00 - Moscow area,Europe/Moscow,🇷🇺,55.7558,37.6178
+Europe,Russia,MSK+00 - Volgograd,Europe/Volgograd,🇷🇺,48.7333,44.4167
+Europe,Russia,MSK+01 - Astrakhan,Europe/Astrakhan,🇷🇺,46.35,48.05
+Europe,Russia,"MSK+01 - Samara, Udmurtia",Europe/Samara,🇷🇺,53.2,50.15
+Europe,Russia,MSK+01 - Saratov,Europe/Saratov,🇷🇺,51.5667,46.0333
+Europe,Russia,MSK+01 - Ulyanovsk,Europe/Ulyanovsk,🇷🇺,54.3333,48.4
+Europe,Russia,MSK-01 - Kaliningrad,Europe/Kaliningrad,🇷🇺,54.7167,20.5
+Europe,San Marino,Rome,Europe/Rome,🇸🇲,41.9,12.4833
+Europe,Serbia,Belgrade,Europe/Belgrade,🇷🇸,44.8333,20.5
+Europe,Slovakia,Prague,Europe/Prague,🇸🇰,50.0833,14.4333
+Europe,Slovenia,Belgrade,Europe/Belgrade,🇸🇮,44.8333,20.5
+Europe,Spain,Spain,Europe/Madrid,🇪🇸,40.4,-3.6833
+Europe,Svalbard & Jan Mayen,most of Germany,Europe/Berlin,🇸🇯,52.5,13.3667
+Europe,Sweden,most of Germany,Europe/Berlin,🇸🇪,52.5,13.3667
+Europe,Switzerland,Büsingen,Europe/Zurich,🇨🇭,47.3833,8.5333
+Europe,Turkey,Istanbul,Europe/Istanbul,🇹🇷,41.0167,28.9667
+Europe,Ukraine,Crimea,Europe/Simferopol,🇺🇦,44.95,34.1
+Europe,Ukraine,most of Ukraine,Europe/Kyiv,🇺🇦,50.4333,30.5167
+Europe,Vatican City,Rome,Europe/Rome,🇻🇦,41.9,12.4833
+Europe,Åland Islands,Helsinki,Europe/Helsinki,🇦🇽,60.1667,24.9667
+Oceania,Antarctica,New Zealand time,Pacific/Auckland,🇦🇶,-36.8667,174.7667
+Oceania,Antarctica,Papua New Guinea,Pacific/Port_Moresby,🇦🇶,-9.5,147.1667
+Oceania,Australia,Lord Howe Island,Australia/Lord_Howe,🇦🇺,-31.55,159.0833
+Oceania,Australia,New South Wales,Australia/Broken_Hill,🇦🇺,-31.95,141.45
+Oceania,Australia,New South Wales,Australia/Sydney,🇦🇺,-33.8667,151.2167
+Oceania,Australia,Northern Territory,Australia/Darwin,🇦🇺,-12.4667,130.8333
+Oceania,Australia,Queensland,Australia/Brisbane,🇦🇺,-27.4667,153.0333
+Oceania,Australia,Queensland,Australia/Lindeman,🇦🇺,-20.2667,149.0
+Oceania,Australia,South Australia,Australia/Adelaide,🇦🇺,-34.9167,138.5833
+Oceania,Australia,Tasmania,Australia/Hobart,🇦🇺,-42.8833,147.3167
+Oceania,Australia,Victoria,Australia/Melbourne,🇦🇺,-37.8167,144.9667
+Oceania,Australia,Western Australia,Australia/Eucla,🇦🇺,-31.7167,128.8667
+Oceania,Australia,Western Australia,Australia/Perth,🇦🇺,-31.95,115.85
+Oceania,Chile,Easter Island,Pacific/Easter,🇨🇱,-27.15,-109.4333
+Oceania,Cook Islands,Rarotonga,Pacific/Rarotonga,🇨🇰,-21.2333,-159.7667
+Oceania,Ecuador,Galápagos Islands,Pacific/Galapagos,🇪🇨,-0.9,-89.6
+Oceania,Fiji,Fiji,Pacific/Fiji,🇫🇯,-18.1333,178.4167
+Oceania,French Polynesia,Gambier Islands,Pacific/Gambier,🇵🇫,-23.1333,-134.95
+Oceania,French Polynesia,Marquesas Islands,Pacific/Marquesas,🇵🇫,-9.0,-139.5
+Oceania,French Polynesia,Society Islands,Pacific/Tahiti,🇵🇫,-17.5333,-149.5667
+Oceania,Guam,Guam,Pacific/Guam,🇬🇺,13.4667,144.75
+Oceania,Kiribati,"Gilberts, Marshalls, Wake",Pacific/Tarawa,🇰🇮,1.4167,173.0
+Oceania,Kiribati,Line Islands,Pacific/Kiritimati,🇰🇮,1.8667,-157.3333
+Oceania,Kiribati,Phoenix Islands,Pacific/Kanton,🇰🇮,-2.7833,-171.7167
+Oceania,Marshall Islands,"Gilberts, Marshalls, Wake",Pacific/Tarawa,🇲🇭,1.4167,173.0
+Oceania,Marshall Islands,Kwajalein,Pacific/Kwajalein,🇲🇭,9.0833,167.3333
+Oceania,Micronesia,Kosrae,Pacific/Kosrae,🇫🇲,5.3167,162.9833
+Oceania,Micronesia,Papua New Guinea,Pacific/Port_Moresby,🇫🇲,-9.5,147.1667
+Oceania,Micronesia,Pohnpei,Pacific/Guadalcanal,🇫🇲,-9.5333,160.2
+Oceania,Nauru,Nauru,Pacific/Nauru,🇳🇷,-0.5167,166.9167
+Oceania,New Caledonia,Noumea,Pacific/Noumea,🇳🇨,-22.2667,166.45
+Oceania,New Zealand,Chatham Islands,Pacific/Chatham,🇳🇿,-43.95,-176.55
+Oceania,New Zealand,New Zealand time,Pacific/Auckland,🇳🇿,-36.8667,174.7667
+Oceania,Niue,Niue,Pacific/Niue,🇳🇺,-19.0167,-169.9167
+Oceania,Norfolk Island,Norfolk,Pacific/Norfolk,🇳🇫,-29.05,167.9667
+Oceania,Northern Mariana Islands,Guam,Pacific/Guam,🇲🇵,13.4667,144.75
+Oceania,Palau,Palau,Pacific/Palau,🇵🇼,7.3333,134.4833
+Oceania,Papua New Guinea,Bougainville,Pacific/Bougainville,🇵🇬,-6.2167,155.5667
+Oceania,Papua New Guinea,Papua New Guinea,Pacific/Port_Moresby,🇵🇬,-9.5,147.1667
+Oceania,Pitcairn,Pitcairn,Pacific/Pitcairn,🇵🇳,-25.0667,-130.0833
+Oceania,Samoa (American),Midway,Pacific/Pago_Pago,🇦🇸,-14.2667,-170.7
+Oceania,Samoa (western),Apia,Pacific/Apia,🇼🇸,-13.8333,-171.7333
+Oceania,Solomon Islands,Pohnpei,Pacific/Guadalcanal,🇸🇧,-9.5333,160.2
+Oceania,Tokelau,Fakaofo,Pacific/Fakaofo,🇹🇰,-9.3667,-171.2333
+Oceania,Tonga,Tongatapu,Pacific/Tongatapu,🇹🇴,-21.1333,-175.2
+Oceania,Tuvalu,"Gilberts, Marshalls, Wake",Pacific/Tarawa,🇹🇻,1.4167,173.0
+Oceania,US minor outlying islands,"Gilberts, Marshalls, Wake",Pacific/Tarawa,🇺🇲,1.4167,173.0
+Oceania,US minor outlying islands,Midway,Pacific/Pago_Pago,🇺🇲,-14.2667,-170.7
+Oceania,United States,Hawaii,Pacific/Honolulu,🇺🇸,21.3069,-157.8583
+Oceania,Vanuatu,Efate,Pacific/Efate,🇻🇺,-17.6667,168.4167
+Oceania,Wallis & Futuna,"Gilberts, Marshalls, Wake",Pacific/Tarawa,🇼🇫,1.4167,173.0
