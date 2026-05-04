@@ -1,0 +1,298 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <title>Chronos</title>
+    <meta name="color-scheme" content="dark light" />
+    <link rel="stylesheet" href="/static/css/styles.css" />
+    <link rel="manifest" href="/static/manifest.webmanifest" />
+  </head>
+  <body>
+    <div class="app" id="app">
+      <header class="topbar" role="banner">
+        <div class="topbar-left" aria-label="App description">
+          <div class="app-tagline">Chronos</div>
+          <div class="app-subtag">World Clock • Time Zones •<br /> Chronometer • Timer</div>
+        </div>
+
+        <div class="worldclock" aria-label="World clock">
+          <div class="worldclock-date" id="worldDate">—</div>
+          <div class="worldclock-time" id="worldTime">--:--:--</div>
+          <div class="worldclock-tz" id="activeTzLabel">Auto-detected timezone</div>
+        </div>
+
+        <div class="topbar-actions">
+          <button class="icon-btn" id="themeBtn" type="button" aria-label="Themes (T)">
+            <img src="/static/assets/icons/settings.svg" alt="" aria-hidden="true" />
+          </button>
+          <div class="theme-menu" id="themeMenu" hidden>
+            <button class="theme-item" data-theme="light" type="button">
+              <span class="swatch swatch-light" aria-hidden="true"></span>
+              Light
+              <span class="check" aria-hidden="true"></span>
+            </button>
+            <button class="theme-item" data-theme="dark" type="button">
+              <span class="swatch swatch-dark" aria-hidden="true"></span>
+              Dark
+              <span class="check" aria-hidden="true"></span>
+            </button>
+            <button class="theme-item" data-theme="ocean" type="button">
+              <span class="swatch swatch-ocean" aria-hidden="true"></span>
+              Ocean
+              <span class="check" aria-hidden="true"></span>
+            </button>
+            <button class="theme-item" data-theme="forest" type="button">
+              <span class="swatch swatch-forest" aria-hidden="true"></span>
+              Forest
+              <span class="check" aria-hidden="true"></span>
+            </button>
+            <button class="theme-item" data-theme="sunset" type="button">
+              <span class="swatch" style="background:#e76f51" aria-hidden="true"></span>
+              Sunset
+              <span class="check" aria-hidden="true"></span>
+            </button>
+            <button class="theme-item" data-theme="purple" type="button">
+              <span class="swatch" style="background:#6a0dad" aria-hidden="true"></span>
+              Purple
+              <span class="check" aria-hidden="true"></span>
+            </button>
+            <button class="theme-item" data-theme="monochrome" type="button">
+              <span class="swatch" style="background:#333333" aria-hidden="true"></span>
+              Monochrome
+              <span class="check" aria-hidden="true"></span>
+            </button>
+            <button class="theme-item" data-theme="emerald" type="button">
+              <span class="swatch" style="background:#2ecc71" aria-hidden="true"></span>
+              Emerald
+              <span class="check" aria-hidden="true"></span>
+            </button>
+          </div>
+        </div>
+      </header>
+
+      <nav class="nav" aria-label="Navigation">
+        <button class="nav-item" data-nav="home" type="button" aria-label="Home (Esc)">
+          <img src="/static/assets/icons/home.svg" alt="" aria-hidden="true" />
+          <span>Home</span>
+        </button>
+        <button class="nav-item" data-nav="timezones" type="button">
+          <img src="/static/assets/icons/globe.svg" alt="" aria-hidden="true" />
+          <span>Time Zones</span>
+        </button>
+        <button class="nav-item" data-nav="stopwatch" type="button">
+          <img src="/static/assets/icons/stopwatch.svg" alt="" aria-hidden="true" />
+          <span>Chronometer</span>
+        </button>
+        <button class="nav-item" data-nav="timer" type="button">
+          <img src="/static/assets/icons/timer.svg" alt="" aria-hidden="true" />
+          <span>Timer</span>
+        </button>
+      </nav>
+
+      <main class="main" id="main" role="main">
+        <section class="view" data-view="home" aria-label="Widgets">
+          <div class="grid">
+            <button class="widget widget-preview" data-goto="timezones" type="button" aria-label="Time zones">
+              <div class="widget-top">
+                <div class="widget-icon">
+                  <img src="/static/assets/icons/globe.svg" alt="" aria-hidden="true" />
+                </div>
+                <div class="widget-body">
+                  <div class="widget-title">Time Zones</div>
+                  <div class="widget-desc">Search and apply a timezone.</div>
+                </div>
+                <img class="widget-arrow" src="/static/assets/icons/arrow-right.svg" alt="" aria-hidden="true" />
+              </div>
+              <div class="widget-preview timezone-preview" id="homeTzPreview" aria-hidden="true">
+                <div class="preview-header">
+                  <span class="flag-emoji" id="homeTzFlag" aria-hidden="true">🏳️</span>
+                  <span class="location" id="homeTzLocation">—</span>
+                </div>
+                <div class="preview-time" id="homeTzTime">--:--:--</div>
+                <div class="preview-footer" id="homeTzTz">—</div>
+              </div>
+            </button>
+
+            <button class="widget widget-preview" data-goto="timezones" type="button" aria-label="World clock">
+              <div class="widget-top">
+                <div class="widget-icon">
+                  <img src="/static/assets/icons/clock.svg" alt="" aria-hidden="true" />
+                </div>
+                <div class="widget-body">
+                  <div class="widget-title">World Clock</div>
+                  <div class="widget-desc">Always visible above, configurable.</div>
+                </div>
+                <img class="widget-arrow" src="/static/assets/icons/arrow-right.svg" alt="" aria-hidden="true" />
+              </div>
+              <div class="widget-preview timezone-preview" id="homeClockPreview" aria-hidden="true">
+                <div class="preview-header">
+                  <span class="flag-emoji" id="homeClockFlag" aria-hidden="true">🏳️</span>
+                  <span class="location" id="homeClockLocation">—</span>
+                </div>
+                <div class="preview-time" id="homeClockTime">--:--:--</div>
+                <div class="preview-footer" id="homeClockTz">—</div>
+              </div>
+            </button>
+
+            <button class="widget widget-preview" data-goto="stopwatch" type="button" aria-label="Chronometer">
+              <div class="widget-top">
+                <div class="widget-icon">
+                  <img src="/static/assets/icons/stopwatch.svg" alt="" aria-hidden="true" />
+                </div>
+                <div class="widget-body">
+                  <div class="widget-title">Chronometer</div>
+                  <div class="widget-desc">Laps + keyboard shortcuts.</div>
+                </div>
+                <img class="widget-arrow" src="/static/assets/icons/arrow-right.svg" alt="" aria-hidden="true" />
+              </div>
+              <div class="widget-preview status-preview" id="homeSwPreview" aria-hidden="true">
+                <div class="preview-header">
+                  <img src="/static/assets/icons/stopwatch.svg" alt="" class="preview-icon" />
+                  <span class="location">Chronometer</span>
+                  <span class="status-chip" id="homeSwStatus" data-status="stopped">Stopped</span>
+                </div>
+                <div class="preview-time" id="homeSwTime">00:00:00.000</div>
+                <div class="preview-footer">Space: Start/Pause · R: Reset · L: Lap</div>
+              </div>
+            </button>
+
+            <button class="widget widget-preview" data-goto="timer" type="button" aria-label="Timer">
+              <div class="widget-top">
+                <div class="widget-icon">
+                  <img src="/static/assets/icons/timer.svg" alt="" aria-hidden="true" />
+                </div>
+                <div class="widget-body">
+                  <div class="widget-title">Timer</div>
+                  <div class="widget-desc">Days + sound/visual alert at 0.</div>
+                </div>
+                <img class="widget-arrow" src="/static/assets/icons/arrow-right.svg" alt="" aria-hidden="true" />
+              </div>
+              <div class="widget-preview status-preview" id="homeTmPreview" aria-hidden="true">
+                <div class="preview-header">
+                  <img src="/static/assets/icons/timer.svg" alt="" class="preview-icon" />
+                  <span class="location">Timer</span>
+                  <span class="status-chip" id="homeTmStatus" data-status="stopped">Stopped</span>
+                </div>
+                <div class="preview-time" id="homeTmTime">00:00:00:00</div>
+                <div class="preview-footer">Scroll units to adjust · Space/R to control</div>
+              </div>
+            </button>
+          </div>
+        </section>
+
+        <section class="view" data-view="timezones" hidden aria-label="Time zones">
+          <div class="panel">
+            <div class="panel-head">
+              <h2>Time Zones</h2>
+              <div class="panel-actions">
+                <label class="field">
+                  <span class="field-label">Search</span>
+                  <input id="tzSearch" type="search" placeholder="City or country…" autocomplete="off" />
+                </label>
+                <label class="field">
+                  <span class="field-label">Sort</span>
+                  <select id="tzSort" aria-label="Sort time zones">
+                    <option value="continent">Continent → Country</option>
+                    <option value="alpha">A → Z</option>
+                    <option value="time">Local time</option>
+                  </select>
+                </label>
+              </div>
+            </div>
+            <div class="tz-list" id="tzList" role="list" aria-label="Time zone list"></div>
+          </div>
+        </section>
+
+        <section class="view" data-view="stopwatch" hidden aria-label="Chronometer">
+          <div class="panel">
+            <div class="panel-head">
+              <h2>Chronometer</h2>
+              <div class="hint">Space: Start/Pause · R: Reset · L: Lap</div>
+            </div>
+            <div class="timer-face">
+              <div class="bigtime" id="swTime">00:00:00.000</div>
+            </div>
+            <div class="controls">
+              <button class="btn control-btn control-start" id="swStartPause" type="button">
+                <img src="/static/assets/icons/play.svg" alt="" aria-hidden="true" />
+                <span>Start</span>
+              </button>
+              <button class="btn" id="swLap" type="button">
+                <img src="/static/assets/icons/flag.svg" alt="" aria-hidden="true" />
+                <span>Lap</span>
+              </button>
+              <button class="btn control-btn control-reset" id="swReset" type="button">
+                <img src="/static/assets/icons/rotate-ccw.svg" alt="" aria-hidden="true" />
+                <span>Reset</span>
+              </button>
+            </div>
+            <div class="laps" aria-label="Laps">
+              <div class="laps-head">
+                <span>Lap</span>
+                <span>Δ</span>
+                <span>Total</span>
+              </div>
+              <div class="laps-list" id="swLaps"></div>
+            </div>
+          </div>
+        </section>
+
+        <section class="view" data-view="timer" hidden aria-label="Timer">
+          <div class="panel">
+            <div class="panel-head">
+              <h2>Timer</h2>
+              <div class="hint">Space: Start/Pause · R: Reset · ↑/↓: adjust focused unit</div>
+            </div>
+            <div class="panel-actions">
+              <div class="timer-setter" id="tmSetter" aria-label="Set countdown duration">
+                <div class="time-unit">
+                  <span class="unit-label">Days</span>
+                  <div class="unit-value" data-unit="days" tabindex="0" role="spinbutton" aria-label="Days">00</div>
+                </div>
+                <div class="time-unit">
+                  <span class="unit-label">Hours</span>
+                  <div class="unit-value" data-unit="hours" tabindex="0" role="spinbutton" aria-label="Hours">00</div>
+                </div>
+                <div class="time-unit">
+                  <span class="unit-label">Minutes</span>
+                  <div class="unit-value" data-unit="minutes" tabindex="0" role="spinbutton" aria-label="Minutes">00</div>
+                </div>
+                <div class="time-unit">
+                  <span class="unit-label">Seconds</span>
+                  <div class="unit-value" data-unit="seconds" tabindex="0" role="spinbutton" aria-label="Seconds">00</div>
+                </div>
+              </div>
+            </div>
+
+            <div class="timer-face">
+              <div class="bigtime" id="tmTime">00:00:00:00</div>
+              <div class="subtime" id="tmSub">Ready</div>
+            </div>
+            <div class="controls">
+              <button class="btn control-btn control-start" id="tmStartPause" type="button">
+                <img src="/static/assets/icons/play.svg" alt="" aria-hidden="true" />
+                <span>Start</span>
+              </button>
+              <button class="btn control-btn control-reset" id="tmReset" type="button">
+                <img src="/static/assets/icons/rotate-ccw.svg" alt="" aria-hidden="true" />
+                <span>Reset</span>
+              </button>
+            </div>
+            <div class="alert" id="tmAlert" role="status" aria-live="polite" hidden>
+              <strong>Completed.</strong> Press Reset to stop the alert.
+            </div>
+          </div>
+        </section>
+      </main>
+
+      <footer class="footer">
+        <small>
+          Shortcuts: T (themes) · Esc (home) · Space/R/L (chronometer/timer)
+        </small>
+      </footer>
+    </div>
+
+    <script type="module" src="/static/js/main.js"></script>
+  </body>
+</html>
