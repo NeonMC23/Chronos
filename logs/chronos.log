@@ -1,0 +1,217 @@
+2026-05-10 16:23:55 [control-hub] Launching: C:\Users\piotr\AppData\Local\Programs\Python\Python312\python.exe \\Nas-lseau\kids\02. Pierre\Documents\Code\Project\Chronos\start.py (port=5000)
+2026-05-10 16:23:56 [stdout]  * Serving Flask app 'server.app'
+2026-05-10 16:23:56 [stdout]  * Debug mode: on
+2026-05-10 16:23:57 [stderr] WARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.
+2026-05-10 16:23:57 [stderr]  * Running on all addresses (0.0.0.0)
+2026-05-10 16:23:57 [stderr]  * Running on http://127.0.0.1:5000
+2026-05-10 16:23:57 [stderr]  * Running on http://192.168.0.62:5000
+2026-05-10 16:23:57 [stderr] Press CTRL+C to quit
+2026-05-10 16:23:57 [stderr]  * Restarting with stat
+2026-05-10 16:23:58 [stderr]  * Debugger is active!
+2026-05-10 16:23:58 [stderr]  * Debugger PIN: 105-305-916
+2026-05-10 16:23:58 [stderr] 127.0.0.1 - - [10/May/2026 16:23:58] "GET / HTTP/1.1" 200 -
+2026-05-10 16:23:58 [stderr] 127.0.0.1 - - [10/May/2026 16:23:58] "GET /static/js/main.js HTTP/1.1" 200 -
+2026-05-10 16:23:58 [stderr] 127.0.0.1 - - [10/May/2026 16:23:58] "GET /static/css/styles.css HTTP/1.1" 200 -
+2026-05-10 16:23:58 [stderr] 127.0.0.1 - - [10/May/2026 16:23:58] "GET /static/assets/icons/rotate-ccw.svg HTTP/1.1" 200 -
+2026-05-10 16:23:58 [stderr] 127.0.0.1 - - [10/May/2026 16:23:58] "GET /static/assets/icons/stopwatch.svg HTTP/1.1" 200 -
+2026-05-10 16:23:58 [stderr] 127.0.0.1 - - [10/May/2026 16:23:58] "GET /static/assets/icons/home.svg HTTP/1.1" 200 -
+2026-05-10 16:23:58 [stderr] 127.0.0.1 - - [10/May/2026 16:23:58] "GET /static/assets/icons/settings.svg HTTP/1.1" 200 -
+2026-05-10 16:23:58 [stderr] 127.0.0.1 - - [10/May/2026 16:23:58] "GET /static/assets/icons/flag.svg HTTP/1.1" 200 -
+2026-05-10 16:23:58 [stderr] 127.0.0.1 - - [10/May/2026 16:23:58] "GET /static/assets/icons/globe.svg HTTP/1.1" 200 -
+2026-05-10 16:23:58 [stderr] 127.0.0.1 - - [10/May/2026 16:23:58] "GET /static/js/modules/Theme.js HTTP/1.1" 200 -
+2026-05-10 16:23:58 [stderr] 127.0.0.1 - - [10/May/2026 16:23:58] "GET /static/js/modules/Clock.js HTTP/1.1" 200 -
+2026-05-10 16:23:58 [stderr] 127.0.0.1 - - [10/May/2026 16:23:58] "GET /static/js/modules/Stopwatch.js HTTP/1.1" 200 -
+2026-05-10 16:23:58 [stderr] 127.0.0.1 - - [10/May/2026 16:23:58] "GET /static/js/modules/Timer.js HTTP/1.1" 200 -
+2026-05-10 16:23:58 [stderr] 127.0.0.1 - - [10/May/2026 16:23:58] "GET /static/js/modules/UI.js HTTP/1.1" 200 -
+2026-05-10 16:23:58 [stderr] 127.0.0.1 - - [10/May/2026 16:23:58] "GET /static/js/pages/shared.js HTTP/1.1" 200 -
+2026-05-10 16:23:58 [stderr] 127.0.0.1 - - [10/May/2026 16:23:58] "GET /static/fonts/Inter/Inter-Variable.woff2 HTTP/1.1" 200 -
+2026-05-10 16:23:58 [stderr] 127.0.0.1 - - [10/May/2026 16:23:58] "GET /static/assets/icons/timer.svg HTTP/1.1" 200 -
+2026-05-10 16:23:58 [stderr] 127.0.0.1 - - [10/May/2026 16:23:58] "GET /static/assets/icons/arrow-right.svg HTTP/1.1" 200 -
+2026-05-10 16:23:58 [stderr] 127.0.0.1 - - [10/May/2026 16:23:58] "GET /static/assets/icons/clock.svg HTTP/1.1" 200 -
+2026-05-10 16:23:58 [stderr] 127.0.0.1 - - [10/May/2026 16:23:58] "GET /static/assets/icons/play.svg HTTP/1.1" 200 -
+2026-05-10 16:23:58 [stderr] 127.0.0.1 - - [10/May/2026 16:23:58] "GET /static/data/timezones.json HTTP/1.1" 200 -
+2026-05-10 16:23:58 [stderr] 127.0.0.1 - - [10/May/2026 16:23:58] "GET /static/data/timezones.json HTTP/1.1" 200 -
+2026-05-10 16:23:58 [stderr] 127.0.0.1 - - [10/May/2026 16:23:58] "GET /favicon.ico HTTP/1.1" 404 -
+2026-05-10 16:23:59 [stderr] 127.0.0.1 - - [10/May/2026 16:23:59] "GET / HTTP/1.1" 200 -
+2026-05-10 16:23:59 [stderr] 127.0.0.1 - - [10/May/2026 16:23:59] "GET /static/css/styles.css HTTP/1.1" 304 -
+2026-05-10 16:23:59 [stderr] 127.0.0.1 - - [10/May/2026 16:23:59] "GET /static/js/main.js HTTP/1.1" 304 -
+2026-05-10 16:23:59 [stderr] 127.0.0.1 - - [10/May/2026 16:23:59] "GET /static/assets/icons/globe.svg HTTP/1.1" 304 -
+2026-05-10 16:23:59 [stderr] 127.0.0.1 - - [10/May/2026 16:23:59] "GET /static/assets/icons/home.svg HTTP/1.1" 304 -
+2026-05-10 16:23:59 [stderr] 127.0.0.1 - - [10/May/2026 16:23:59] "GET /static/assets/icons/timer.svg HTTP/1.1" 304 -
+2026-05-10 16:23:59 [stderr] 127.0.0.1 - - [10/May/2026 16:23:59] "GET /static/assets/icons/stopwatch.svg HTTP/1.1" 304 -
+2026-05-10 16:23:59 [stderr] 127.0.0.1 - - [10/May/2026 16:23:59] "GET /static/assets/icons/settings.svg HTTP/1.1" 304 -
+2026-05-10 16:23:59 [stderr] 127.0.0.1 - - [10/May/2026 16:23:59] "GET /static/assets/icons/arrow-right.svg HTTP/1.1" 304 -
+2026-05-10 16:23:59 [stderr] 127.0.0.1 - - [10/May/2026 16:23:59] "GET /static/assets/icons/clock.svg HTTP/1.1" 304 -
+2026-05-10 16:23:59 [stderr] 127.0.0.1 - - [10/May/2026 16:23:59] "GET /static/assets/icons/play.svg HTTP/1.1" 304 -
+2026-05-10 16:23:59 [stderr] 127.0.0.1 - - [10/May/2026 16:23:59] "GET /static/assets/icons/flag.svg HTTP/1.1" 304 -
+2026-05-10 16:23:59 [stderr] 127.0.0.1 - - [10/May/2026 16:23:59] "GET /static/assets/icons/rotate-ccw.svg HTTP/1.1" 304 -
+2026-05-10 16:23:59 [stderr] 127.0.0.1 - - [10/May/2026 16:23:59] "GET /static/js/modules/Theme.js HTTP/1.1" 304 -
+2026-05-10 16:23:59 [stderr] 127.0.0.1 - - [10/May/2026 16:23:59] "GET /static/js/modules/Clock.js HTTP/1.1" 304 -
+2026-05-10 16:23:59 [stderr] 127.0.0.1 - - [10/May/2026 16:23:59] "GET /static/js/modules/Stopwatch.js HTTP/1.1" 304 -
+2026-05-10 16:23:59 [stderr] 127.0.0.1 - - [10/May/2026 16:23:59] "GET /static/js/modules/Timer.js HTTP/1.1" 304 -
+2026-05-10 16:23:59 [stderr] 127.0.0.1 - - [10/May/2026 16:23:59] "GET /static/js/modules/UI.js HTTP/1.1" 304 -
+2026-05-10 16:23:59 [stderr] 127.0.0.1 - - [10/May/2026 16:23:59] "GET /static/js/pages/shared.js HTTP/1.1" 304 -
+2026-05-10 16:23:59 [stderr] 127.0.0.1 - - [10/May/2026 16:23:59] "GET /static/fonts/Inter/Inter-Variable.woff2 HTTP/1.1" 304 -
+2026-05-10 16:23:59 [stderr] 127.0.0.1 - - [10/May/2026 16:23:59] "GET /static/data/timezones.json HTTP/1.1" 304 -
+2026-05-10 16:23:59 [stderr] 127.0.0.1 - - [10/May/2026 16:23:59] "GET /static/data/timezones.json HTTP/1.1" 304 -
+2026-05-10 16:28:01 [control-hub] Stopping...
+2026-05-10 16:28:01 [control-hub] Process exited with code 1
+2026-05-10 16:28:02 [control-hub] Launching: C:\Users\piotr\AppData\Local\Programs\Python\Python312\python.exe \\Nas-lseau\kids\02. Pierre\Documents\Code\Project\Chronos\start.py (port=None)
+2026-05-10 16:28:03 [stdout]  * Serving Flask app 'server.app'
+2026-05-10 16:28:03 [stdout]  * Debug mode: on
+2026-05-10 16:28:04 [stderr] 127.0.0.1 - - [10/May/2026 16:28:04] "GET / HTTP/1.1" 200 -
+2026-05-10 16:28:04 [stderr] 127.0.0.1 - - [10/May/2026 16:28:04] "GET /static/css/styles.css HTTP/1.1" 304 -
+2026-05-10 16:28:04 [stderr] 127.0.0.1 - - [10/May/2026 16:28:04] "GET /static/js/main.js HTTP/1.1" 304 -
+2026-05-10 16:28:04 [stderr] 127.0.0.1 - - [10/May/2026 16:28:04] "GET /static/assets/icons/settings.svg HTTP/1.1" 304 -
+2026-05-10 16:28:04 [stderr] 127.0.0.1 - - [10/May/2026 16:28:04] "GET /static/assets/icons/home.svg HTTP/1.1" 304 -
+2026-05-10 16:28:04 [stderr] 127.0.0.1 - - [10/May/2026 16:28:04] "GET /static/assets/icons/stopwatch.svg HTTP/1.1" 304 -
+2026-05-10 16:28:04 [stderr] 127.0.0.1 - - [10/May/2026 16:28:04] "GET /static/assets/icons/globe.svg HTTP/1.1" 304 -
+2026-05-10 16:28:04 [stderr] 127.0.0.1 - - [10/May/2026 16:28:04] "GET /static/assets/icons/timer.svg HTTP/1.1" 304 -
+2026-05-10 16:28:04 [stderr] WARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.
+2026-05-10 16:28:04 [stderr] 127.0.0.1 - - [10/May/2026 16:28:04] "GET /static/assets/icons/arrow-right.svg HTTP/1.1" 304 -
+2026-05-10 16:28:04 [stderr]  * Running on all addresses (0.0.0.0)
+2026-05-10 16:28:04 [stderr] 127.0.0.1 - - [10/May/2026 16:28:04] "GET /static/assets/icons/clock.svg HTTP/1.1" 304 -
+2026-05-10 16:28:04 [stderr]  * Running on http://127.0.0.1:5000
+2026-05-10 16:28:04 [stderr] 127.0.0.1 - - [10/May/2026 16:28:04] "GET /static/assets/icons/play.svg HTTP/1.1" 304 -
+2026-05-10 16:28:04 [stderr]  * Running on http://192.168.0.62:5000
+2026-05-10 16:28:04 [stderr] 127.0.0.1 - - [10/May/2026 16:28:04] "GET /static/assets/icons/flag.svg HTTP/1.1" 304 -
+2026-05-10 16:28:04 [stderr] Press CTRL+C to quit
+2026-05-10 16:28:04 [stderr] 127.0.0.1 - - [10/May/2026 16:28:04] "GET /static/assets/icons/rotate-ccw.svg HTTP/1.1" 304 -
+2026-05-10 16:28:04 [stderr]  * Restarting with stat
+2026-05-10 16:28:04 [stderr] 127.0.0.1 - - [10/May/2026 16:28:04] "GET /static/js/modules/Theme.js HTTP/1.1" 304 -
+2026-05-10 16:28:04 [stderr] 127.0.0.1 - - [10/May/2026 16:28:04] "GET /static/js/modules/Clock.js HTTP/1.1" 304 -
+2026-05-10 16:28:04 [stderr] 127.0.0.1 - - [10/May/2026 16:28:04] "GET /static/js/modules/Stopwatch.js HTTP/1.1" 304 -
+2026-05-10 16:28:04 [stderr] 127.0.0.1 - - [10/May/2026 16:28:04] "GET /static/js/modules/Timer.js HTTP/1.1" 304 -
+2026-05-10 16:28:04 [stderr] 127.0.0.1 - - [10/May/2026 16:28:04] "GET /static/js/modules/UI.js HTTP/1.1" 304 -
+2026-05-10 16:28:04 [stderr] 127.0.0.1 - - [10/May/2026 16:28:04] "GET /static/js/pages/shared.js HTTP/1.1" 304 -
+2026-05-10 16:28:04 [stderr] 127.0.0.1 - - [10/May/2026 16:28:04] "GET /static/fonts/Inter/Inter-Variable.woff2 HTTP/1.1" 304 -
+2026-05-10 16:28:04 [stderr] 127.0.0.1 - - [10/May/2026 16:28:04] "GET /static/data/timezones.json HTTP/1.1" 304 -
+2026-05-10 16:28:04 [stderr] 127.0.0.1 - - [10/May/2026 16:28:04] "GET /static/data/timezones.json HTTP/1.1" 304 -
+2026-05-10 16:28:05 [stderr]  * Debugger is active!
+2026-05-10 16:28:05 [stderr]  * Debugger PIN: 105-305-916
+2026-05-10 16:28:06 [stderr] 127.0.0.1 - - [10/May/2026 16:28:06] "GET / HTTP/1.1" 200 -
+2026-05-10 16:28:06 [stderr] 127.0.0.1 - - [10/May/2026 16:28:06] "GET /static/css/styles.css HTTP/1.1" 304 -
+2026-05-10 16:28:06 [stderr] 127.0.0.1 - - [10/May/2026 16:28:06] "GET /static/js/main.js HTTP/1.1" 304 -
+2026-05-10 16:28:06 [stderr] 127.0.0.1 - - [10/May/2026 16:28:06] "GET /static/assets/icons/settings.svg HTTP/1.1" 304 -
+2026-05-10 16:28:06 [stderr] 127.0.0.1 - - [10/May/2026 16:28:06] "GET /static/assets/icons/home.svg HTTP/1.1" 304 -
+2026-05-10 16:28:06 [stderr] 127.0.0.1 - - [10/May/2026 16:28:06] "GET /static/assets/icons/stopwatch.svg HTTP/1.1" 304 -
+2026-05-10 16:28:06 [stderr] 127.0.0.1 - - [10/May/2026 16:28:06] "GET /static/assets/icons/arrow-right.svg HTTP/1.1" 304 -
+2026-05-10 16:28:06 [stderr] 127.0.0.1 - - [10/May/2026 16:28:06] "GET /static/assets/icons/globe.svg HTTP/1.1" 304 -
+2026-05-10 16:28:06 [stderr] 127.0.0.1 - - [10/May/2026 16:28:06] "GET /static/assets/icons/timer.svg HTTP/1.1" 304 -
+2026-05-10 16:28:06 [stderr] 127.0.0.1 - - [10/May/2026 16:28:06] "GET /static/assets/icons/clock.svg HTTP/1.1" 304 -
+2026-05-10 16:28:06 [stderr] 127.0.0.1 - - [10/May/2026 16:28:06] "GET /static/assets/icons/play.svg HTTP/1.1" 304 -
+2026-05-10 16:28:06 [stderr] 127.0.0.1 - - [10/May/2026 16:28:06] "GET /static/assets/icons/flag.svg HTTP/1.1" 304 -
+2026-05-10 16:28:06 [stderr] 127.0.0.1 - - [10/May/2026 16:28:06] "GET /static/assets/icons/rotate-ccw.svg HTTP/1.1" 304 -
+2026-05-10 16:28:06 [stderr] 127.0.0.1 - - [10/May/2026 16:28:06] "GET /static/js/modules/Theme.js HTTP/1.1" 304 -
+2026-05-10 16:28:06 [stderr] 127.0.0.1 - - [10/May/2026 16:28:06] "GET /static/js/modules/Clock.js HTTP/1.1" 304 -
+2026-05-10 16:28:06 [stderr] 127.0.0.1 - - [10/May/2026 16:28:06] "GET /static/js/modules/UI.js HTTP/1.1" 304 -
+2026-05-10 16:28:06 [stderr] 127.0.0.1 - - [10/May/2026 16:28:06] "GET /static/js/modules/Timer.js HTTP/1.1" 304 -
+2026-05-10 16:28:06 [stderr] 127.0.0.1 - - [10/May/2026 16:28:06] "GET /static/js/modules/Stopwatch.js HTTP/1.1" 304 -
+2026-05-10 16:28:06 [stderr] 127.0.0.1 - - [10/May/2026 16:28:06] "GET /static/js/pages/shared.js HTTP/1.1" 304 -
+2026-05-10 16:28:06 [stderr] 127.0.0.1 - - [10/May/2026 16:28:06] "GET /static/fonts/Inter/Inter-Variable.woff2 HTTP/1.1" 304 -
+2026-05-10 16:28:06 [stderr] 127.0.0.1 - - [10/May/2026 16:28:06] "GET /static/data/timezones.json HTTP/1.1" 304 -
+2026-05-10 16:28:06 [stderr] 127.0.0.1 - - [10/May/2026 16:28:06] "GET /static/data/timezones.json HTTP/1.1" 304 -
+2026-05-10 16:28:12 [control-hub] Stopping...
+2026-05-10 16:28:12 [control-hub] Process exited with code 1
+2026-05-10 16:41:24 [control-hub] Launching: C:\Users\piotr\AppData\Local\Programs\Python\Python312\python.exe \\Nas-lseau\kids\02. Pierre\Documents\Code\Project\Chronos\start.py (port=5000)
+2026-05-10 16:41:24 [stdout]  * Serving Flask app 'server.app'
+2026-05-10 16:41:24 [stdout]  * Debug mode: on
+2026-05-10 16:41:26 [stderr] WARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.
+2026-05-10 16:41:26 [stderr]  * Running on all addresses (0.0.0.0)
+2026-05-10 16:41:26 [stderr]  * Running on http://127.0.0.1:5000
+2026-05-10 16:41:26 [stderr]  * Running on http://192.168.0.62:5000
+2026-05-10 16:41:26 [stderr] Press CTRL+C to quit
+2026-05-10 16:41:26 [stderr]  * Restarting with stat
+2026-05-10 16:41:26 [stderr]  * Debugger is active!
+2026-05-10 16:41:26 [stderr]  * Debugger PIN: 105-305-916
+2026-05-10 16:41:38 [control-hub] Stopping...
+2026-05-10 16:41:38 [control-hub] Process exited with code 1
+2026-05-10 16:51:19 [control-hub] Launching: C:\Users\piotr\AppData\Local\Programs\Python\Python312\python.exe \\Nas-lseau\kids\02. Pierre\Documents\Code\Project\Chronos\start.py (port=5000)
+2026-05-10 16:51:19 [stdout]  * Serving Flask app 'server.app'
+2026-05-10 16:51:19 [stdout]  * Debug mode: on
+2026-05-10 16:51:21 [stderr] WARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.
+2026-05-10 16:51:21 [stderr]  * Running on all addresses (0.0.0.0)
+2026-05-10 16:51:21 [stderr]  * Running on http://127.0.0.1:5000
+2026-05-10 16:51:21 [stderr]  * Running on http://192.168.0.62:5000
+2026-05-10 16:51:21 [stderr] Press CTRL+C to quit
+2026-05-10 16:51:21 [stderr]  * Restarting with stat
+2026-05-10 16:51:21 [stderr]  * Debugger is active!
+2026-05-10 16:51:21 [stderr]  * Debugger PIN: 105-305-916
+2026-05-10 16:51:30 [control-hub] Stopping...
+2026-05-10 16:51:30 [control-hub] Process exited with code 1
+2026-05-10 16:51:51 [control-hub] Launching: C:\Users\piotr\AppData\Local\Programs\Python\Python312\python.exe \\Nas-lseau\kids\02. Pierre\Documents\Code\Project\Chronos\start.py (port=5010)
+2026-05-10 16:51:51 [stdout]  * Serving Flask app 'server.app'
+2026-05-10 16:51:51 [stdout]  * Debug mode: on
+2026-05-10 16:51:52 [stderr] WARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.
+2026-05-10 16:51:52 [stderr]  * Running on all addresses (0.0.0.0)
+2026-05-10 16:51:52 [stderr]  * Running on http://127.0.0.1:5000
+2026-05-10 16:51:52 [stderr]  * Running on http://192.168.0.62:5000
+2026-05-10 16:51:52 [stderr] Press CTRL+C to quit
+2026-05-10 16:51:52 [stderr]  * Restarting with stat
+2026-05-10 16:51:53 [stderr]  * Debugger is active!
+2026-05-10 16:51:53 [stderr]  * Debugger PIN: 105-305-916
+2026-05-10 16:52:01 [control-hub] Stopping...
+2026-05-10 16:52:01 [control-hub] Process exited with code 1
+2026-05-10 17:32:42 [control-hub] Launching: C:\Users\piotr\AppData\Local\Programs\Python\Python312\python.exe \\Nas-lseau\kids\02. Pierre\Documents\Code\Project\Chronos\start.py (port=5010)
+2026-05-10 17:32:43 [stdout]  * Serving Flask app 'server.app'
+2026-05-10 17:32:43 [stdout]  * Debug mode: on
+2026-05-10 17:32:44 [stderr] WARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.
+2026-05-10 17:32:44 [stderr]  * Running on all addresses (0.0.0.0)
+2026-05-10 17:32:44 [stderr]  * Running on http://127.0.0.1:5010
+2026-05-10 17:32:44 [stderr]  * Running on http://192.168.0.62:5010
+2026-05-10 17:32:44 [stderr] Press CTRL+C to quit
+2026-05-10 17:32:44 [stderr]  * Restarting with stat
+2026-05-10 17:32:45 [stderr]  * Debugger is active!
+2026-05-10 17:32:45 [stderr]  * Debugger PIN: 105-305-916
+2026-05-10 17:32:45 [stderr] 127.0.0.1 - - [10/May/2026 17:32:45] "GET / HTTP/1.1" 200 -
+2026-05-10 17:32:45 [stderr] 127.0.0.1 - - [10/May/2026 17:32:45] "GET /static/css/styles.css HTTP/1.1" 200 -
+2026-05-10 17:32:45 [stderr] 127.0.0.1 - - [10/May/2026 17:32:45] "GET /static/js/main.js HTTP/1.1" 200 -
+2026-05-10 17:32:45 [stderr] 127.0.0.1 - - [10/May/2026 17:32:45] "GET /static/assets/icons/flag.svg HTTP/1.1" 200 -
+2026-05-10 17:32:45 [stderr] 127.0.0.1 - - [10/May/2026 17:32:45] "GET /static/assets/icons/rotate-ccw.svg HTTP/1.1" 200 -
+2026-05-10 17:32:45 [stderr] 127.0.0.1 - - [10/May/2026 17:32:45] "GET /static/assets/icons/stopwatch.svg HTTP/1.1" 200 -
+2026-05-10 17:32:45 [stderr] 127.0.0.1 - - [10/May/2026 17:32:45] "GET /static/assets/icons/globe.svg HTTP/1.1" 200 -
+2026-05-10 17:32:45 [stderr] 127.0.0.1 - - [10/May/2026 17:32:45] "GET /static/assets/icons/settings.svg HTTP/1.1" 200 -
+2026-05-10 17:32:45 [stderr] 127.0.0.1 - - [10/May/2026 17:32:45] "GET /static/assets/icons/home.svg HTTP/1.1" 200 -
+2026-05-10 17:32:45 [stderr] 127.0.0.1 - - [10/May/2026 17:32:45] "GET /static/assets/icons/play.svg HTTP/1.1" 200 -
+2026-05-10 17:32:45 [stderr] 127.0.0.1 - - [10/May/2026 17:32:45] "GET /static/assets/icons/timer.svg HTTP/1.1" 200 -
+2026-05-10 17:32:45 [stderr] 127.0.0.1 - - [10/May/2026 17:32:45] "GET /static/assets/icons/clock.svg HTTP/1.1" 200 -
+2026-05-10 17:32:45 [stderr] 127.0.0.1 - - [10/May/2026 17:32:45] "GET /static/assets/icons/arrow-right.svg HTTP/1.1" 200 -
+2026-05-10 17:32:45 [stderr] 127.0.0.1 - - [10/May/2026 17:32:45] "GET /static/js/modules/Theme.js HTTP/1.1" 200 -
+2026-05-10 17:32:45 [stderr] 127.0.0.1 - - [10/May/2026 17:32:45] "GET /static/js/modules/Clock.js HTTP/1.1" 200 -
+2026-05-10 17:32:45 [stderr] 127.0.0.1 - - [10/May/2026 17:32:45] "GET /static/js/modules/Stopwatch.js HTTP/1.1" 200 -
+2026-05-10 17:32:45 [stderr] 127.0.0.1 - - [10/May/2026 17:32:45] "GET /static/js/modules/Timer.js HTTP/1.1" 200 -
+2026-05-10 17:32:46 [stderr] 127.0.0.1 - - [10/May/2026 17:32:45] "GET /static/js/modules/UI.js HTTP/1.1" 200 -
+2026-05-10 17:32:46 [stderr] 127.0.0.1 - - [10/May/2026 17:32:45] "GET /static/js/modules/Anim.js HTTP/1.1" 200 -
+2026-05-10 17:32:46 [stderr] 127.0.0.1 - - [10/May/2026 17:32:45] "GET /static/js/pages/shared.js HTTP/1.1" 200 -
+2026-05-10 17:32:46 [stderr] 127.0.0.1 - - [10/May/2026 17:32:45] "GET /static/fonts/Inter/Inter-Variable.woff2 HTTP/1.1" 200 -
+2026-05-10 17:32:46 [stderr] 127.0.0.1 - - [10/May/2026 17:32:45] "GET /static/data/timezones.json HTTP/1.1" 200 -
+2026-05-10 17:32:46 [stderr] 127.0.0.1 - - [10/May/2026 17:32:46] "GET /static/data/timezones.json HTTP/1.1" 200 -
+2026-05-10 17:32:46 [stderr] 127.0.0.1 - - [10/May/2026 17:32:46] "GET /static/sw.js HTTP/1.1" 200 -
+2026-05-10 17:32:46 [stderr] 127.0.0.1 - - [10/May/2026 17:32:46] "GET / HTTP/1.1" 200 -
+2026-05-10 17:32:46 [stderr] 127.0.0.1 - - [10/May/2026 17:32:46] "GET /static/css/styles.css HTTP/1.1" 304 -
+2026-05-10 17:32:46 [stderr] 127.0.0.1 - - [10/May/2026 17:32:46] "GET /static/js/modules/Theme.js HTTP/1.1" 304 -
+2026-05-10 17:32:46 [stderr] 127.0.0.1 - - [10/May/2026 17:32:46] "GET /static/js/main.js HTTP/1.1" 304 -
+2026-05-10 17:32:46 [stderr] 127.0.0.1 - - [10/May/2026 17:32:46] "GET /static/js/pages/shared.js HTTP/1.1" 304 -
+2026-05-10 17:32:46 [stderr] 127.0.0.1 - - [10/May/2026 17:32:46] "GET /static/js/modules/Clock.js HTTP/1.1" 304 -
+2026-05-10 17:32:46 [stderr] 127.0.0.1 - - [10/May/2026 17:32:46] "GET /static/js/modules/Stopwatch.js HTTP/1.1" 304 -
+2026-05-10 17:32:46 [stderr] 127.0.0.1 - - [10/May/2026 17:32:46] "GET /static/js/modules/Timer.js HTTP/1.1" 304 -
+2026-05-10 17:32:46 [stderr] 127.0.0.1 - - [10/May/2026 17:32:46] "GET /static/js/modules/UI.js HTTP/1.1" 304 -
+2026-05-10 17:32:46 [stderr] 127.0.0.1 - - [10/May/2026 17:32:46] "GET /static/js/modules/Anim.js HTTP/1.1" 304 -
+2026-05-10 17:32:46 [stderr] 127.0.0.1 - - [10/May/2026 17:32:46] "GET /static/data/timezones.json HTTP/1.1" 304 -
+2026-05-10 17:32:46 [stderr] 127.0.0.1 - - [10/May/2026 17:32:46] "GET /static/assets/icons/home.svg HTTP/1.1" 304 -
+2026-05-10 17:32:46 [stderr] 127.0.0.1 - - [10/May/2026 17:32:46] "GET /static/assets/icons/settings.svg HTTP/1.1" 304 -
+2026-05-10 17:32:46 [stderr] 127.0.0.1 - - [10/May/2026 17:32:46] "GET /static/assets/icons/globe.svg HTTP/1.1" 304 -
+2026-05-10 17:32:46 [stderr] 127.0.0.1 - - [10/May/2026 17:32:46] "GET /static/assets/icons/stopwatch.svg HTTP/1.1" 304 -
+2026-05-10 17:32:46 [stderr] 127.0.0.1 - - [10/May/2026 17:32:46] "GET /static/assets/icons/timer.svg HTTP/1.1" 304 -
+2026-05-10 17:32:46 [stderr] 127.0.0.1 - - [10/May/2026 17:32:46] "GET /static/assets/icons/Chronos-logo.svg HTTP/1.1" 404 -
+2026-05-10 17:32:46 [stderr] 127.0.0.1 - - [10/May/2026 17:32:46] "GET /static/assets/icons/flag.svg HTTP/1.1" 304 -
+2026-05-10 17:32:46 [stderr] 127.0.0.1 - - [10/May/2026 17:32:46] "GET /static/assets/icons/arrow-right.svg HTTP/1.1" 304 -
+2026-05-10 17:32:46 [stderr] 127.0.0.1 - - [10/May/2026 17:32:46] "GET /static/manifest.webmanifest HTTP/1.1" 200 -
+2026-05-10 17:32:46 [stderr] 127.0.0.1 - - [10/May/2026 17:32:46] "GET /static/assets/icons/clock.svg HTTP/1.1" 304 -
+2026-05-10 17:32:46 [stderr] 127.0.0.1 - - [10/May/2026 17:32:46] "GET /static/assets/icons/play.svg HTTP/1.1" 304 -
+2026-05-10 17:32:46 [stderr] 127.0.0.1 - - [10/May/2026 17:32:46] "GET /static/assets/icons/rotate-ccw.svg HTTP/1.1" 304 -
+2026-05-10 17:32:46 [stderr] 127.0.0.1 - - [10/May/2026 17:32:46] "GET /static/assets/icons/check.svg HTTP/1.1" 200 -
+2026-05-10 17:32:46 [stderr] 127.0.0.1 - - [10/May/2026 17:32:46] "GET /static/assets/icons/pause.svg HTTP/1.1" 200 -
+2026-05-10 17:33:04 [stderr] 127.0.0.1 - - [10/May/2026 17:33:04] "GET /static/assets/icons/pause.svg HTTP/1.1" 304 -
+2026-05-10 17:33:43 [control-hub] Stopping...
+2026-05-10 17:33:43 [control-hub] Process exited with code 1

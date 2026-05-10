@@ -1,3 +1,5 @@
+import { pulse, setTextWithPulse } from "./Anim.js";
+
 function defaultTimezone() {
   try {
     return Intl.DateTimeFormat().resolvedOptions().timeZone || "UTC";
@@ -74,16 +76,16 @@ export class WorldClock {
       // Keep placeholders
     }
 
-    if (this.labelEl) this.labelEl.textContent = tz;
+    if (this.labelEl) setTextWithPulse(this.labelEl, tz, "soft");
 
     if (force || timeText !== this._lastTime) {
       this._lastTime = timeText;
-      if (this.timeEl) this.timeEl.textContent = timeText;
+      if (this.timeEl) setTextWithPulse(this.timeEl, timeText, "tick");
     }
 
     if (force || dateText !== this._lastDate) {
       this._lastDate = dateText;
-      if (this.dateEl) this.dateEl.textContent = dateText;
+      if (this.dateEl) setTextWithPulse(this.dateEl, dateText, "soft");
     }
   }
 

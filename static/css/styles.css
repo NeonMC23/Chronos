@@ -154,6 +154,27 @@ body{
     var(--color-bg);
 }
 
+/* Ambient motion layer */
+body::before{
+  content:"";
+  position: fixed;
+  inset: -20%;
+  pointer-events:none;
+  background:
+    radial-gradient(600px 420px at 20% 30%, rgba(124,92,255,.12), transparent 60%),
+    radial-gradient(700px 480px at 80% 20%, rgba(37,208,171,.10), transparent 65%),
+    radial-gradient(720px 520px at 55% 80%, rgba(255,77,109,.06), transparent 70%);
+  filter: blur(10px);
+  opacity: .9;
+  transform: translateZ(0);
+  animation: ambientFloat 14s ease-in-out infinite;
+}
+
+@keyframes ambientFloat{
+  0%,100%{ transform: translate3d(0,0,0) scale(1); }
+  50%{ transform: translate3d(2%, -1.5%, 0) scale(1.02); }
+}
+
 img{ display:block; }
 button img, .nav-item img, .widget img{ filter: var(--icon-filter); }
 /* (brand-logo removed) */
@@ -400,7 +421,7 @@ button, input, select{
   background: rgba(255,255,255,.04);
   box-shadow: var(--shadow-soft);
   cursor:pointer;
-  transition: transform .18s ease, background .18s ease, box-shadow .18s ease;
+  transition: transform .22s ease, background .22s ease, box-shadow .22s ease;
 }
 .widget:hover{
   transform: translateY(-2px);
@@ -431,6 +452,36 @@ button, input, select{
   box-shadow: var(--shadow-soft);
   padding: 14px;
   min-height: 0;
+}
+
+/* View transitions */
+.view-enter{
+  animation: viewEnter .22s ease;
+}
+@keyframes viewEnter{
+  from{ opacity: 0; transform: translateY(8px); }
+  to{ opacity: 1; transform: translateY(0); }
+}
+
+/* Tick micro-animations */
+.tick{
+  animation: tickPop .18s ease;
+}
+.soft{
+  animation: softFade .18s ease;
+}
+@keyframes tickPop{
+  from{ transform: translateY(-2px) scale(0.985); filter: brightness(1.12); }
+  to{ transform: translateY(0) scale(1); filter: none; }
+}
+@keyframes softFade{
+  from{ opacity: .65; }
+  to{ opacity: 1; }
+}
+
+@media (prefers-reduced-motion: reduce){
+  *{ animation-duration: 0.001ms !important; animation-iteration-count: 1 !important; transition-duration: 0.001ms !important; }
+  body::before{ display:none; }
 }
 .panel-head{
   display:flex;

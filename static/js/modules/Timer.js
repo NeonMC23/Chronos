@@ -1,3 +1,5 @@
+import { setTextWithPulse } from "./Anim.js";
+
 function pad2(n) {
   return String(n).padStart(2, "0");
 }
@@ -167,7 +169,10 @@ export class CountdownTimer {
     const text = formatRemaining(this._remainingMs);
     if (!force && text === this._lastRendered) return;
     this._lastRendered = text;
-    if (this.displayEl) this.displayEl.textContent = text;
+    if (this.displayEl) {
+      if (force) this.displayEl.textContent = text;
+      else setTextWithPulse(this.displayEl, text, "tick");
+    }
   }
 
   _setSub(text) {

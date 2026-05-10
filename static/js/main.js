@@ -3,6 +3,7 @@ import { WorldClock } from "./modules/Clock.js";
 import { Stopwatch } from "./modules/Stopwatch.js";
 import { CountdownTimer } from "./modules/Timer.js";
 import { UI } from "./modules/UI.js";
+import { setTextWithPulse } from "./modules/Anim.js";
 import { formatTimeHMS, findBestTimezoneEntry } from "./pages/shared.js";
 
 const appRoot = document.getElementById("app");
@@ -75,15 +76,15 @@ function updateTimezonePreviews(force) {
   const location = entry ? `${entry.city}, ${entry.country}` : tz;
   const timeText = formatTimeHMS(now, tz);
 
-  if (homePreview.tzFlag) homePreview.tzFlag.textContent = flagEmoji;
-  if (homePreview.tzLocation) homePreview.tzLocation.textContent = location;
-  if (homePreview.tzTz) homePreview.tzTz.textContent = tz;
-  if (homePreview.tzTime) homePreview.tzTime.textContent = timeText;
+  setTextWithPulse(homePreview.tzFlag, flagEmoji, "soft");
+  setTextWithPulse(homePreview.tzLocation, location, "soft");
+  setTextWithPulse(homePreview.tzTz, tz, "soft");
+  setTextWithPulse(homePreview.tzTime, timeText, "tick");
 
-  if (homePreview.clockFlag) homePreview.clockFlag.textContent = flagEmoji;
-  if (homePreview.clockLocation) homePreview.clockLocation.textContent = location;
-  if (homePreview.clockTz) homePreview.clockTz.textContent = tz;
-  if (homePreview.clockTime) homePreview.clockTime.textContent = timeText;
+  setTextWithPulse(homePreview.clockFlag, flagEmoji, "soft");
+  setTextWithPulse(homePreview.clockLocation, location, "soft");
+  setTextWithPulse(homePreview.clockTz, tz, "soft");
+  setTextWithPulse(homePreview.clockTime, timeText, "tick");
 
   if (force) return;
 }
@@ -101,7 +102,17 @@ function getViewFromUrl() {
 
 function setView(view, { push = true } = {}) {
   const views = document.querySelectorAll(".view[data-view]");
-  for (const el of views) el.hidden = el.dataset.view !== view;
+  for (const el of views) {
+    const active = el.dataset.view === view;
+    el.hidden = !active;
+    if (active) {
+      el.classList.remove("view-enter");
+      // Force reflow so the animation restarts consistently.
+      // eslint-disable-next-line no-unused-expressions
+      el.offsetWidth;
+      el.classList.add("view-enter");
+    }
+  }
 
   const navItems = document.querySelectorAll(".nav-item[data-nav]");
   for (const item of navItems) {
@@ -141,7 +152,7 @@ ui.onTimezoneSelected((tz) => {
 document.addEventListener("chronos:stopwatch", (e) => {
   const d = e?.detail;
   if (!d) return;
-  if (homePreview.swTime && d.timeText) homePreview.swTime.textContent = d.timeText;
+  if (d.timeText) setTextWithPulse(homePreview.swTime, d.timeText, "tick");
   if (homePreview.swStatus) {
     homePreview.swStatus.textContent = d.statusLabel || "Stopped";
     homePreview.swStatus.dataset.status = d.status || "stopped";
@@ -151,7 +162,7 @@ document.addEventListener("chronos:stopwatch", (e) => {
 document.addEventListener("chronos:timer", (e) => {
   const d = e?.detail;
   if (!d) return;
-  if (homePreview.tmTime && d.timeText) homePreview.tmTime.textContent = d.timeText;
+  if (d.timeText) setTextWithPulse(homePreview.tmTime, d.timeText, "tick");
   if (homePreview.tmStatus) {
     homePreview.tmStatus.textContent = d.statusLabel || "Stopped";
     homePreview.tmStatus.dataset.status = d.status || "stopped";
@@ -211,3 +222,4 @@ if ("serviceWorker" in navigator) {
     navigator.serviceWorker.register("/static/sw.js").catch(() => {});
   });
 }
+

@@ -1,5 +1,5 @@
 /* Chronos service worker — offline-first SPA (no external network). */
-const CACHE_NAME = "chronos-cache-v10";
+const CACHE_NAME = "chronos-cache-v11";
 
 const PRECACHE_URLS = [
   "/",
@@ -11,6 +11,7 @@ const PRECACHE_URLS = [
   "/static/js/modules/Stopwatch.js",
   "/static/js/modules/Timer.js",
   "/static/js/modules/UI.js",
+  "/static/js/modules/Anim.js",
   "/static/data/timezones.json",
   "/static/manifest.webmanifest",
   "/static/assets/icons/Chronos-logo.svg",

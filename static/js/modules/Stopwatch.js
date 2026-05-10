@@ -1,3 +1,5 @@
+import { setTextWithPulse } from "./Anim.js";
+
 function pad2(n) {
   return String(n).padStart(2, "0");
 }
@@ -30,6 +32,7 @@ export class Stopwatch {
     this._lastRendered = "";
 
     this._laps = [];
+    this._lastSecond = -1;
   }
 
   init() {
@@ -108,7 +111,14 @@ export class Stopwatch {
     const text = formatMs(elapsed);
     if (!force && text === this._lastRendered) return;
     this._lastRendered = text;
-    if (this.timeEl) this.timeEl.textContent = text;
+    if (this.timeEl) {
+      // Avoid animating every millisecond: pulse only when the visible second changes.
+      const sec = Math.floor(elapsed / 1000);
+      const shouldPulse = sec !== this._lastSecond;
+      this._lastSecond = sec;
+      if (shouldPulse) setTextWithPulse(this.timeEl, text, "tick");
+      else this.timeEl.textContent = text;
+    }
     this._emitPreview(false);
   }
 

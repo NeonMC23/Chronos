@@ -5,8 +5,10 @@ import sys
 import threading
 import time
 import webbrowser
+import os
 
 from server.app import create_app
+from port_manager import get_port
 
 
 def is_port_available(host: str, port: int) -> bool:
@@ -29,15 +31,17 @@ def open_browser(url: str) -> None:
 
 if __name__ == "__main__":
     host = "127.0.0.1"
-    port = 5000
+    port = get_port(default=5000)
     url = f"http://{host}:{port}"
 
     if not is_port_available(host, port):
-        print("Port 5000 is already in use. Try another port.")
+        print(f"Port {port} is already in use. Try another port.")
         sys.exit(1)
 
     app = create_app()
 
-    threading.Thread(target=open_browser, args=(url,), daemon=True).start()
-    app.run(debug=True, host="0.0.0.0", port=port)
+    # In debug mode, Flask's reloader can start the app twice; only open the browser once.
+    if os.environ.get("WERKZEUG_RUN_MAIN") != "true":
+        threading.Thread(target=open_browser, args=(url,), daemon=True).start()
 
+    app.run(debug=True, use_reloader=True, host="0.0.0.0", port=port)

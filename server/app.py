@@ -5,7 +5,9 @@ Serves a single page (SPA) and local static assets (no external network).
 
 from __future__ import annotations
 
-from flask import Flask, render_template
+from flask import Flask, render_template, jsonify
+
+from port_manager import get_port
 
 
 def create_app() -> Flask:
@@ -14,6 +16,10 @@ def create_app() -> Flask:
     @app.get("/")
     def index():
         return render_template("index.html")
+
+    @app.get("/port.json")
+    def port_json():
+        return jsonify({"port": get_port(default=5000)})
 
     return app
 

@@ -31,6 +31,11 @@ Linux/macOS:
 
 Then open `http://127.0.0.1:5000` (a browser tab should open automatically).
 
+## Port configuration (Control Hub)
+
+- The app reads the port from `port.json` in the project root.
+- If `port.json` is missing or invalid, it is recreated with the default port `5000`.
+
 ## Keyboard shortcuts
 
 - Global: `T` cycle themes · `Esc` go Home
